@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/912577/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/internal/i18n
+END
+CombinedResourceBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/903646/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/internal/i18n/CombinedResourceBundle.java
+END
+ResourceBundleCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/911773/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/internal/i18n/ResourceBundleCache.java
+END
+CombinedEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/902097/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/internal/i18n/CombinedEnumeration.java
+END
+ConsolePropertyResourceBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/908931/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/internal/i18n/ConsolePropertyResourceBundle.java
+END
+ResourceBundleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/912577/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/internal/i18n/ResourceBundleManager.java
+END

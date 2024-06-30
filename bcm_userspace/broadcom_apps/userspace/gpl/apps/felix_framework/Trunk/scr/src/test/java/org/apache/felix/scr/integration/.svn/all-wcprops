@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/926971/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration
+END
+ActivateSignatureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/903585/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/ActivateSignatureTest.java
+END
+ServiceComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/830970/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/ServiceComponentTest.java
+END
+ComponentActivationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/822285/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/ComponentActivationTest.java
+END
+ComponentDisposeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/821732/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/ComponentDisposeTest.java
+END
+ComponentConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/926971/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/ComponentConfigurationTest.java
+END
+ComponentFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/892241/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/ComponentFactoryTest.java
+END
+ServiceChangedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/884122/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/ServiceChangedTest.java
+END
+ComponentTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/903585/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/ComponentTestBase.java
+END
+ServiceBindTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/890260/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/ServiceBindTest.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/948182/felix/trunk/dependencymanager/test/src/main/java/org/apache/felix/dm/test/bundle/annotation/aspect
+END
+AspectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/948182/felix/trunk/dependencymanager/test/src/main/java/org/apache/felix/dm/test/bundle/annotation/aspect/AspectTest.java
+END
+ServiceInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/911581/felix/trunk/dependencymanager/test/src/main/java/org/apache/felix/dm/test/bundle/annotation/aspect/ServiceInterface.java
+END
+ServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/948182/felix/trunk/dependencymanager/test/src/main/java/org/apache/felix/dm/test/bundle/annotation/aspect/ServiceProvider.java
+END
+ServiceProviderAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/948182/felix/trunk/dependencymanager/test/src/main/java/org/apache/felix/dm/test/bundle/annotation/aspect/ServiceProviderAspect.java
+END

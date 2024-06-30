@@ -1,0 +1,95 @@
+10
+
+dir
+957403
+http://svn.apache.org/repos/asf/felix/trunk/karaf/shell
+http://svn.apache.org/repos/asf
+
+
+
+2010-06-21T08:38:18.438991Z
+956492
+gnodet
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+wrapper
+dir
+
+commands
+dir
+
+log
+dir
+
+osgi
+dir
+
+console
+dir
+
+obr
+dir
+
+config
+dir
+
+src
+dir
+
+pom.xml
+file
+
+
+
+
+2010-06-21T04:11:30.589521Z
+7715a63ff40fd3590d59527940df584a
+2010-06-19T20:53:21.986121Z
+956295
+gertv
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1874
+
+ssh
+dir
+
+dev
+dir
+
+packages
+dir
+

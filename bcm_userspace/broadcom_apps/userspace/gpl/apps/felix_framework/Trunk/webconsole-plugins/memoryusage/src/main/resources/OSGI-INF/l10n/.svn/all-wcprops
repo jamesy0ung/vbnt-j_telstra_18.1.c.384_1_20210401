@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/926541/felix/trunk/webconsole-plugins/memoryusage/src/main/resources/OSGI-INF/l10n
+END
+bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/925188/felix/trunk/webconsole-plugins/memoryusage/src/main/resources/OSGI-INF/l10n/bundle.properties
+END
+bundle_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/926541/felix/trunk/webconsole-plugins/memoryusage/src/main/resources/OSGI-INF/l10n/bundle_de.properties
+END

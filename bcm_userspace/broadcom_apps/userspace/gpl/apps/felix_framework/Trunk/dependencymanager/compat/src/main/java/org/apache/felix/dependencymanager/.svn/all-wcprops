@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/936781/felix/trunk/dependencymanager/compat/src/main/java/org/apache/felix/dependencymanager
+END
+ServiceDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/936781/felix/trunk/dependencymanager/compat/src/main/java/org/apache/felix/dependencymanager/ServiceDependency.java
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/887355/felix/trunk/dependencymanager/compat/src/main/java/org/apache/felix/dependencymanager/Service.java
+END
+ConfigurationDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/887355/felix/trunk/dependencymanager/compat/src/main/java/org/apache/felix/dependencymanager/ConfigurationDependency.java
+END
+DependencyActivatorBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/887355/felix/trunk/dependencymanager/compat/src/main/java/org/apache/felix/dependencymanager/DependencyActivatorBase.java
+END
+ServiceStateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/887355/felix/trunk/dependencymanager/compat/src/main/java/org/apache/felix/dependencymanager/ServiceStateListener.java
+END
+DependencyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/887355/felix/trunk/dependencymanager/compat/src/main/java/org/apache/felix/dependencymanager/DependencyManager.java
+END
+Dependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/887355/felix/trunk/dependencymanager/compat/src/main/java/org/apache/felix/dependencymanager/Dependency.java
+END

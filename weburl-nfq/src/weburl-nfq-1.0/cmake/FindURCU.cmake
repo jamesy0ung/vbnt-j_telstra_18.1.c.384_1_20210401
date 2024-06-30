@@ -1,0 +1,38 @@
+#
+# - Find URCU
+# Find the native userspace rcu includes and library
+#
+#  URCU_INCLUDE_DIRS - where to find urcu.h, etc.
+#  URCU_LIBRARIES    - List of libraries when using URCU
+#  URCU_FOUND        - True if URCU found.
+
+
+IF (URCU_INCLUDE_DIRS)
+  # Already in cache, be silent
+  SET(URCU_FIND_QUIETLY TRUE)
+ENDIF (URCU_INCLUDE_DIRS)
+
+FIND_PATH(URCU_INCLUDE_DIR urcu.h)
+
+IF(LINUX_VERSION VERSION_LESS 4.3)
+  FIND_LIBRARY(URCU_LIBRARY NAMES liburcu-mb.a urcu-mb)
+  SET(URCU_DEFINITIONS -DRCU_MB)
+ELSE()
+  FIND_LIBRARY(URCU_LIBRARY NAMES liburcu.a urcu)
+ENDIF()
+FIND_LIBRARY(URCU_COMMON_LIBRARY NAMES liburcu-common.a urcu-common)
+
+# handle the QUIETLY and REQUIRED arguments and set URCU_FOUND to TRUE if
+# all listed variables are TRUE
+INCLUDE(FindPackageHandleStandardArgs)
+FIND_PACKAGE_HANDLE_STANDARD_ARGS(URCU DEFAULT_MSG URCU_LIBRARY URCU_INCLUDE_DIR)
+
+IF(URCU_FOUND)
+  SET( URCU_LIBRARIES ${URCU_LIBRARY} ${URCU_COMMON_LIBRARY} )
+  SET( URCU_INCLUDE_DIRS ${URCU_INCLUDE_DIR} )
+ELSE(URCU_FOUND)
+  SET( URCU_LIBRARIES )
+  SET( URCU_INCLUDE_DIRS )
+ENDIF(URCU_FOUND)
+
+MARK_AS_ADVANCED( URCU_LIBRARIES URCU_INCLUDE_DIRS )

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/794415/felix/trunk/sigil/eclipse/help/html/tasks
+END
+sigil_config.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/794415/felix/trunk/sigil/eclipse/help/html/tasks/sigil_config.html
+END
+new_system.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/794415/felix/trunk/sigil/eclipse/help/html/tasks/new_system.html
+END
+new_project.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/794415/felix/trunk/sigil/eclipse/help/html/tasks/new_project.html
+END
+container_log.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/794415/felix/trunk/sigil/eclipse/help/html/tasks/container_log.html
+END
+launch_newton.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/794415/felix/trunk/sigil/eclipse/help/html/tasks/launch_newton.html
+END
+debug_composite.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/794415/felix/trunk/sigil/eclipse/help/html/tasks/debug_composite.html
+END
+install_composite.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/794415/felix/trunk/sigil/eclipse/help/html/tasks/install_composite.html
+END
+new_composite.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/794415/felix/trunk/sigil/eclipse/help/html/tasks/new_composite.html
+END

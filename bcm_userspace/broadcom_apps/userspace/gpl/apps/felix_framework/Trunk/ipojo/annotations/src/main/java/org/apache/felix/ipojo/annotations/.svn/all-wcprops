@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/944847/felix/trunk/ipojo/annotations/src/main/java/org/apache/felix/ipojo/annotations
+END
+Requires.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/annotations/src/main/java/org/apache/felix/ipojo/annotations/Requires.java
+END
+Component.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/808352/felix/trunk/ipojo/annotations/src/main/java/org/apache/felix/ipojo/annotations/Component.java
+END
+ServiceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/915909/felix/trunk/ipojo/annotations/src/main/java/org/apache/felix/ipojo/annotations/ServiceController.java
+END
+ServiceProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/729971/felix/trunk/ipojo/annotations/src/main/java/org/apache/felix/ipojo/annotations/ServiceProperty.java
+END
+Bind.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/681678/felix/trunk/ipojo/annotations/src/main/java/org/apache/felix/ipojo/annotations/Bind.java
+END
+Handler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/819462/felix/trunk/ipojo/annotations/src/main/java/org/apache/felix/ipojo/annotations/Handler.java
+END
+Unbind.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/annotations/src/main/java/org/apache/felix/ipojo/annotations/Unbind.java
+END
+PostRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/944847/felix/trunk/ipojo/annotations/src/main/java/org/apache/felix/ipojo/annotations/PostRegistration.java
+END
+Modified.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/940905/felix/trunk/ipojo/annotations/src/main/java/org/apache/felix/ipojo/annotations/Modified.java
+END
+Invalidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/565749/felix/trunk/ipojo/annotations/src/main/java/org/apache/felix/ipojo/annotations/Invalidate.java
+END
+PostUnregistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/944847/felix/trunk/ipojo/annotations/src/main/java/org/apache/felix/ipojo/annotations/PostUnregistration.java
+END
+Instantiate.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/892614/felix/trunk/ipojo/annotations/src/main/java/org/apache/felix/ipojo/annotations/Instantiate.java
+END
+HandlerDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/819462/felix/trunk/ipojo/annotations/src/main/java/org/apache/felix/ipojo/annotations/HandlerDeclaration.java
+END
+Controller.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/579994/felix/trunk/ipojo/annotations/src/main/java/org/apache/felix/ipojo/annotations/Controller.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/713976/felix/trunk/ipojo/annotations/src/main/java/org/apache/felix/ipojo/annotations/Property.java
+END
+Updated.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/770759/felix/trunk/ipojo/annotations/src/main/java/org/apache/felix/ipojo/annotations/Updated.java
+END
+Validate.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/565749/felix/trunk/ipojo/annotations/src/main/java/org/apache/felix/ipojo/annotations/Validate.java
+END
+Provides.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/728056/felix/trunk/ipojo/annotations/src/main/java/org/apache/felix/ipojo/annotations/Provides.java
+END

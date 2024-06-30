@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/service-dependency-bindingpolicy/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/dynamic/priority
+END
+DynamicPriorityDependencyTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/service-dependency-bindingpolicy/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/dynamic/priority/DynamicPriorityDependencyTestSuite.java
+END
+SimpleDPDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/service-dependency-bindingpolicy/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/dynamic/priority/SimpleDPDependencies.java
+END
+RankedFooProviderType1.java
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/service-dependency-bindingpolicy/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/dynamic/priority/RankedFooProviderType1.java
+END

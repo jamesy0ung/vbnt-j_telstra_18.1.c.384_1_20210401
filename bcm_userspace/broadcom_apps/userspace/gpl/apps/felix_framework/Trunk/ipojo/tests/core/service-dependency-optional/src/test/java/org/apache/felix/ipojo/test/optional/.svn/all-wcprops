@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/939968/felix/trunk/ipojo/tests/core/service-dependency-optional/src/test/java/org/apache/felix/ipojo/test/optional
+END
+NullableTransitiveClassloadingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/939968/felix/trunk/ipojo/tests/core/service-dependency-optional/src/test/java/org/apache/felix/ipojo/test/optional/NullableTransitiveClassloadingTest.java
+END

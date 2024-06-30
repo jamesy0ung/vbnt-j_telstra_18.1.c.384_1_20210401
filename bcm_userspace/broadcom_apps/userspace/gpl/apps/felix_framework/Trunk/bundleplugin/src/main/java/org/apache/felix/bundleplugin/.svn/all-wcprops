@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/925279/felix/trunk/bundleplugin/src/main/java/org/apache/felix/bundleplugin
+END
+AntPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/738781/felix/trunk/bundleplugin/src/main/java/org/apache/felix/bundleplugin/AntPlugin.java
+END
+BundleAllPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/925279/felix/trunk/bundleplugin/src/main/java/org/apache/felix/bundleplugin/BundleAllPlugin.java
+END
+BlueprintPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/921827/felix/trunk/bundleplugin/src/main/java/org/apache/felix/bundleplugin/BlueprintPlugin.java
+END
+JarPluginConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/803669/felix/trunk/bundleplugin/src/main/java/org/apache/felix/bundleplugin/JarPluginConfiguration.java
+END
+BundleInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/616192/felix/trunk/bundleplugin/src/main/java/org/apache/felix/bundleplugin/BundleInfo.java
+END
+ManifestPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/810711/felix/trunk/bundleplugin/src/main/java/org/apache/felix/bundleplugin/ManifestPlugin.java
+END
+DependencyEmbedder.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/810627/felix/trunk/bundleplugin/src/main/java/org/apache/felix/bundleplugin/DependencyEmbedder.java
+END
+PackageVersionAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/810711/felix/trunk/bundleplugin/src/main/java/org/apache/felix/bundleplugin/PackageVersionAnalyzer.java
+END
+AbstractDependencyFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/810627/felix/trunk/bundleplugin/src/main/java/org/apache/felix/bundleplugin/AbstractDependencyFilter.java
+END
+BundlePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/925279/felix/trunk/bundleplugin/src/main/java/org/apache/felix/bundleplugin/BundlePlugin.java
+END
+WrapPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/738781/felix/trunk/bundleplugin/src/main/java/org/apache/felix/bundleplugin/WrapPlugin.java
+END
+DependencyExcluder.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/810627/felix/trunk/bundleplugin/src/main/java/org/apache/felix/bundleplugin/DependencyExcluder.java
+END
+VersionCleanerPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/919433/felix/trunk/bundleplugin/src/main/java/org/apache/felix/bundleplugin/VersionCleanerPlugin.java
+END

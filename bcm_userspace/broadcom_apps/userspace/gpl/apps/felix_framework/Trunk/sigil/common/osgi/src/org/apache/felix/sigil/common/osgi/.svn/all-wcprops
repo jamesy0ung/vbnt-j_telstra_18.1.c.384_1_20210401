@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/919371/felix/trunk/sigil/common/osgi/src/org/apache/felix/sigil/common/osgi
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/814023/felix/trunk/sigil/common/osgi/src/org/apache/felix/sigil/common/osgi/Utils.java
+END
+Not.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/814035/felix/trunk/sigil/common/osgi/src/org/apache/felix/sigil/common/osgi/Not.java
+END
+Ops.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/814023/felix/trunk/sigil/common/osgi/src/org/apache/felix/sigil/common/osgi/Ops.java
+END
+VersionRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/910893/felix/trunk/sigil/common/osgi/src/org/apache/felix/sigil/common/osgi/VersionRange.java
+END
+And.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/814035/felix/trunk/sigil/common/osgi/src/org/apache/felix/sigil/common/osgi/And.java
+END
+AbstractExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/814035/felix/trunk/sigil/common/osgi/src/org/apache/felix/sigil/common/osgi/AbstractExpr.java
+END
+ParseState.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/814201/felix/trunk/sigil/common/osgi/src/org/apache/felix/sigil/common/osgi/ParseState.java
+END
+LDAPExpr.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/814035/felix/trunk/sigil/common/osgi/src/org/apache/felix/sigil/common/osgi/LDAPExpr.java
+END
+VersionRangeBoundingRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/814023/felix/trunk/sigil/common/osgi/src/org/apache/felix/sigil/common/osgi/VersionRangeBoundingRule.java
+END
+Or.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/814035/felix/trunk/sigil/common/osgi/src/org/apache/felix/sigil/common/osgi/Or.java
+END
+SimpleTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/814035/felix/trunk/sigil/common/osgi/src/org/apache/felix/sigil/common/osgi/SimpleTerm.java
+END
+Expressions.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/814023/felix/trunk/sigil/common/osgi/src/org/apache/felix/sigil/common/osgi/Expressions.java
+END
+LDAPParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/814201/felix/trunk/sigil/common/osgi/src/org/apache/felix/sigil/common/osgi/LDAPParseException.java
+END
+FilterValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/814023/felix/trunk/sigil/common/osgi/src/org/apache/felix/sigil/common/osgi/FilterValidator.java
+END
+LDAPParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/919371/felix/trunk/sigil/common/osgi/src/org/apache/felix/sigil/common/osgi/LDAPParser.java
+END
+VersionTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/919369/felix/trunk/sigil/common/osgi/src/org/apache/felix/sigil/common/osgi/VersionTable.java
+END
+ExprVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/814035/felix/trunk/sigil/common/osgi/src/org/apache/felix/sigil/common/osgi/ExprVisitor.java
+END

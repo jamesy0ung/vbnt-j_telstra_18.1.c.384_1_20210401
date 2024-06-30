@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/797986/felix/trunk/org.osgi.core/src/main/resources/org/osgi/service/permissionadmin
+END
+packageinfo
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.core/src/main/resources/org/osgi/service/permissionadmin/packageinfo
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/797986/felix/trunk/org.osgi.core/src/main/resources/org/osgi/service/permissionadmin/package.html
+END

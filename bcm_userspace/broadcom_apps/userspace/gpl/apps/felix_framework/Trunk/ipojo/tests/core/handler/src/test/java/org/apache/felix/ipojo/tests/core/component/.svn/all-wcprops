@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/907758/felix/trunk/ipojo/tests/core/handler/src/test/java/org/apache/felix/ipojo/tests/core/component
+END
+MyComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/793287/felix/trunk/ipojo/tests/core/handler/src/test/java/org/apache/felix/ipojo/tests/core/component/MyComponent.java
+END
+DummyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/907758/felix/trunk/ipojo/tests/core/handler/src/test/java/org/apache/felix/ipojo/tests/core/component/DummyImpl.java
+END

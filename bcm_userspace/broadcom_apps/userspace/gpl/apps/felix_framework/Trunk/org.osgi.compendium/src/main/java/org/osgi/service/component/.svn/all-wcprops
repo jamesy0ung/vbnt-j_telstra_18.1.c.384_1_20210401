@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/797564/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/component
+END
+ComponentConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/component/ComponentConstants.java
+END
+ComponentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/component/ComponentException.java
+END
+ComponentContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/component/ComponentContext.java
+END
+ComponentInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/component/ComponentInstance.java
+END
+ComponentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/component/ComponentFactory.java
+END

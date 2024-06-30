@@ -1,0 +1,31 @@
+K 10
+svn:ignore
+V 180
+classes
+target
+*.log
+*.ipr
+*.iws
+*.iml
+lib
+bundle
+dist
+.project
+.classpath
+bin
+build
+.settings
+.wtpmodules
+.deployables
+nbproject
+
+*.patch
+.externalToolBuilders
+maven-eclipse.xml
+
+
+K 13
+svn:mergeinfo
+V 0
+
+END

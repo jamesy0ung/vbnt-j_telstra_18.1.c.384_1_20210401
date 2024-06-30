@@ -1,0 +1,6 @@
+--- /dev/null
++++ b/Config
+@@ -0,0 +1,3 @@
++# Fixed config to disable ATM support even if present on host system
++TC_CONFIG_ATM:=n
++TC_CONFIG_XT:=y

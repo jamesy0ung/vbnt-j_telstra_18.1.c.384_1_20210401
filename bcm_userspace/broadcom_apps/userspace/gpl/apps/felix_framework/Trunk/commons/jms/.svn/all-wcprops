@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/asf/!svn/ver/763614/felix/trunk/commons/jms
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/asf/!svn/ver/560974/felix/trunk/commons/jms/NOTICE
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/asf/!svn/ver/559338/felix/trunk/commons/jms/LICENSE
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/asf/!svn/ver/763614/felix/trunk/commons/jms/pom.xml
+END

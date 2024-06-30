@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/794417/felix/trunk/sigil/ivy/resolver/test/multi-project/projects/sizewhere
+END
+sigil.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/794417/felix/trunk/sigil/ivy/resolver/test/multi-project/projects/sizewhere/sigil.properties
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/794417/felix/trunk/sigil/ivy/resolver/test/multi-project/projects/sizewhere/ivy.xml
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/794417/felix/trunk/sigil/ivy/resolver/test/multi-project/projects/sizewhere/build.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/794417/felix/trunk/sigil/ivy/resolver/test/multi-project/projects/sizewhere/build.xml
+END

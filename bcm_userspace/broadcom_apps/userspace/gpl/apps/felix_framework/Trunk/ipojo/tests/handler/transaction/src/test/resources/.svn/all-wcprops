@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/787003/felix/trunk/ipojo/tests/handler/transaction/src/test/resources
+END
+foo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/786967/felix/trunk/ipojo/tests/handler/transaction/src/test/resources/foo.xml
+END
+supported.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/786967/felix/trunk/ipojo/tests/handler/transaction/src/test/resources/supported.xml
+END
+notsupported.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/786967/felix/trunk/ipojo/tests/handler/transaction/src/test/resources/notsupported.xml
+END
+requiresnew.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/786967/felix/trunk/ipojo/tests/handler/transaction/src/test/resources/requiresnew.xml
+END
+annotation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/787003/felix/trunk/ipojo/tests/handler/transaction/src/test/resources/annotation.xml
+END
+mandatory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/786967/felix/trunk/ipojo/tests/handler/transaction/src/test/resources/mandatory.xml
+END
+never.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/786967/felix/trunk/ipojo/tests/handler/transaction/src/test/resources/never.xml
+END
+requires.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/786967/felix/trunk/ipojo/tests/handler/transaction/src/test/resources/requires.xml
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/548480/felix/trunk/servicebinder/src/main/java/org/apache/felix/servicebinder/architecture
+END
+ArchitectureService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/548480/felix/trunk/servicebinder/src/main/java/org/apache/felix/servicebinder/architecture/ArchitectureService.java
+END
+Instance.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/548480/felix/trunk/servicebinder/src/main/java/org/apache/felix/servicebinder/architecture/Instance.java
+END
+DependencyChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/548480/felix/trunk/servicebinder/src/main/java/org/apache/felix/servicebinder/architecture/DependencyChangeEvent.java
+END
+ServiceBinderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/548480/felix/trunk/servicebinder/src/main/java/org/apache/felix/servicebinder/architecture/ServiceBinderListener.java
+END
+InstanceChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/548480/felix/trunk/servicebinder/src/main/java/org/apache/felix/servicebinder/architecture/InstanceChangeEvent.java
+END
+Dependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/548480/felix/trunk/servicebinder/src/main/java/org/apache/felix/servicebinder/architecture/Dependency.java
+END

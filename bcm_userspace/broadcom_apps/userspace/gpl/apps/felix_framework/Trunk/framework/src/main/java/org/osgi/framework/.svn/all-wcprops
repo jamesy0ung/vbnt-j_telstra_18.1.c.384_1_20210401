@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework
+END
+FrameworkEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/FrameworkEvent.java
+END
+AllServiceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/AllServiceListener.java
+END
+Configurable.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/Configurable.java
+END
+AdminPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/AdminPermission.java
+END
+ServiceEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/ServiceEvent.java
+END
+FrameworkListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/FrameworkListener.java
+END
+PackagePermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/PackagePermission.java
+END
+ServiceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/ServiceListener.java
+END
+Bundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/Bundle.java
+END
+ServicePermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/ServicePermission.java
+END
+BundleEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/BundleEvent.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/Constants.java
+END
+InvalidSyntaxException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/InvalidSyntaxException.java
+END
+BundleContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/BundleContext.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/package.html
+END
+BundleListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/BundleListener.java
+END
+ServiceReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/ServiceReference.java
+END
+ServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/ServiceException.java
+END
+BundlePermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/BundlePermission.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/Filter.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/Version.java
+END
+BundleActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/BundleActivator.java
+END
+packageinfo
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/packageinfo
+END
+BundleReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/BundleReference.java
+END
+ServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/ServiceFactory.java
+END
+BundleException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/BundleException.java
+END
+SynchronousBundleListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/SynchronousBundleListener.java
+END
+FrameworkUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/FrameworkUtil.java
+END
+ServiceRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/ServiceRegistration.java
+END
+SignerProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/SignerProperty.java
+END

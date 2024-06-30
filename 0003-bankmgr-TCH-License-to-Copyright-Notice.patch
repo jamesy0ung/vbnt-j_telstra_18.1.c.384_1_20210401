@@ -1,0 +1,522 @@
+<<<<<<< HEAD
+diff -ruN a/release/bankmgr/src/bankmgr-1.0/bankmgr.h b/release/bankmgr/src/bankmgr-1.0/bankmgr.h
+--- a/release/bankmgr/src/bankmgr-1.0/bankmgr.h	2021-04-05 19:39:03.896094178 +0530
++++ b/release/bankmgr/src/bankmgr-1.0/bankmgr.h	2021-04-05 19:43:41.508099774 +0530
+=======
+--- a/release/bankmgr/src/bankmgr-1.0/bankmgr.h
++++ b/release/bankmgr/src/bankmgr-1.0/bankmgr.h
+>>>>>>> parent of e24124e... [NG-221711][REBYPASS]OSS tarball delivery for DJA0231TLS removed patch
+@@ -1,3 +1,13 @@
++/********** COPYRIGHT AND CONFIDENTIALITY INFORMATION NOTICE *************
++** Copyright (c) 2018 - Technicolor Delivery Technologies, SAS          **
++** All Rights Reserved                                                  **
++*************************************************************************/
++
++/* The source code form of this Open Source Project components is       **
++** subject to the terms of the GPL-v2 license. You can redistribute it  **
++** and/or modify it under the terms of the GPL-v2 License               **
++** (https://opensource.org/licenses/GPL-2.0)                            **
++** See COPYING file/LICENSE file for more details.                      */
+ 
+ #ifndef __BANKMGR_H__
+ #define __BANKMGR_H__
+<<<<<<< HEAD
+diff -ruN a/release/bankmgr/src/bankmgr-1.0/bankmgr_p.h b/release/bankmgr/src/bankmgr-1.0/bankmgr_p.h
+--- a/release/bankmgr/src/bankmgr-1.0/bankmgr_p.h	2021-04-05 19:39:03.896094178 +0530
++++ b/release/bankmgr/src/bankmgr-1.0/bankmgr_p.h	2021-04-05 19:45:36.280102088 +0530
+@@ -1,3 +1,13 @@
+=======
+--- a/release/bankmgr/src/bankmgr-1.0/bankmgr.mod.c
++++ b/release/bankmgr/src/bankmgr-1.0/bankmgr.mod.c
+@@ -1,3 +1,14 @@
+>>>>>>> parent of e24124e... [NG-221711][REBYPASS]OSS tarball delivery for DJA0231TLS removed patch
++/********** COPYRIGHT AND CONFIDENTIALITY INFORMATION NOTICE *************
++** Copyright (c) 2018 - Technicolor Delivery Technologies, SAS          **
++** All Rights Reserved                                                  **
++*************************************************************************/
++
++/* The source code form of this Open Source Project components is       **
++** subject to the terms of the GPL-v2 license. You can redistribute it  **
++** and/or modify it under the terms of the GPL-v2 License               **
++** (https://opensource.org/licenses/GPL-2.0)                            **
++** See COPYING file/LICENSE file for more details.                      */
+<<<<<<< HEAD
+ 
+ #ifndef __BANKMGR_P_H__
+ #define __BANKMGR_P_H__
+diff -ruN a/release/bankmgr/src/bankmgr-1.0/bankmgr_proc.c b/release/bankmgr/src/bankmgr-1.0/bankmgr_proc.c
+--- a/release/bankmgr/src/bankmgr-1.0/bankmgr_proc.c	2021-04-05 19:39:03.896094178 +0530
++++ b/release/bankmgr/src/bankmgr-1.0/bankmgr_proc.c	2021-04-05 19:46:49.876103571 +0530
+@@ -1,16 +1,14 @@
+-/************** COPYRIGHT AND CONFIDENTIALITY INFORMATION *********************
+-**                                                                          **
+-** Copyright (c) 2013 Technicolor                                           **
+-** All Rights Reserved                                                      **
+-**                                                                          **
+-** This program contains proprietary information which is a trade           **
+-** secret of TECHNICOLOR and/or its affiliates and also is protected as     **
+-** an unpublished work under applicable Copyright laws. Recipient is        **
+-** to retain this program in confidence and is not permitted to use or      **
+-** make copies thereof other than as permitted in a written agreement       **
+-** with TECHNICOLOR, UNLESS OTHERWISE EXPRESSLY ALLOWED BY APPLICABLE LAWS. **
+-**                                                                          **
+-******************************************************************************/
+=======
++
+ #include <linux/module.h>
+ #include <linux/vermagic.h>
+ #include <linux/compiler.h>
+--- a/release/bankmgr/src/bankmgr-1.0/bankmgr_checksum.c
++++ b/release/bankmgr/src/bankmgr-1.0/bankmgr_checksum.c
+@@ -1,3 +1,14 @@
+>>>>>>> parent of e24124e... [NG-221711][REBYPASS]OSS tarball delivery for DJA0231TLS removed patch
++/********** COPYRIGHT AND CONFIDENTIALITY INFORMATION NOTICE *************
++** Copyright (c) 2018 - Technicolor Delivery Technologies, SAS          **
++** All Rights Reserved                                                  **
++*************************************************************************/
++
++/* The source code form of this Open Source Project components is       **
++** subject to the terms of the GPL-v2 license. You can redistribute it  **
++** and/or modify it under the terms of the GPL-v2 License               **
++** (https://opensource.org/licenses/GPL-2.0)                            **
++** See COPYING file/LICENSE file for more details.                      */
++
+<<<<<<< HEAD
+ #include <linux/kernel.h>
+ #include <linux/module.h>
+ #include <linux/slab.h>
+diff -ruN a/release/bankmgr/src/bankmgr-1.0/bankmgr_proc.h b/release/bankmgr/src/bankmgr-1.0/bankmgr_proc.h
+--- a/release/bankmgr/src/bankmgr-1.0/bankmgr_proc.h	2021-04-05 19:39:03.896094178 +0530
++++ b/release/bankmgr/src/bankmgr-1.0/bankmgr_proc.h	2021-04-05 19:48:35.488105700 +0530
+@@ -1,16 +1,13 @@
+-/************** COPYRIGHT AND CONFIDENTIALITY INFORMATION *********************
+-**                                                                          **
+-** Copyright (c) 2013 Technicolor                                           **
+-** All Rights Reserved                                                      **
+-**                                                                          **
+-** This program contains proprietary information which is a trade           **
+-** secret of TECHNICOLOR and/or its affiliates and also is protected as     **
+-** an unpublished work under applicable Copyright laws. Recipient is        **
+-** to retain this program in confidence and is not permitted to use or      **
+-** make copies thereof other than as permitted in a written agreement       **
+-** with TECHNICOLOR, UNLESS OTHERWISE EXPRESSLY ALLOWED BY APPLICABLE LAWS. **
+-**                                                                          **
+-******************************************************************************/
+=======
+ #include <linux/slab.h>
+ #include <linux/kernel.h>
+ #include <linux/crc32.h>
+--- a/release/bankmgr/src/bankmgr-1.0/bankmgr_core.c
++++ b/release/bankmgr/src/bankmgr-1.0/bankmgr_core.c
+@@ -1,3 +1,14 @@
+>>>>>>> parent of e24124e... [NG-221711][REBYPASS]OSS tarball delivery for DJA0231TLS removed patch
++/********** COPYRIGHT AND CONFIDENTIALITY INFORMATION NOTICE *************
++** Copyright (c) 2018 - Technicolor Delivery Technologies, SAS          **
++** All Rights Reserved                                                  **
++*************************************************************************/
++
++/* The source code form of this Open Source Project components is       **
++** subject to the terms of the GPL-v2 license. You can redistribute it  **
++** and/or modify it under the terms of the GPL-v2 License               **
++** (https://opensource.org/licenses/GPL-2.0)                            **
++** See COPYING file/LICENSE file for more details.                      */
+<<<<<<< HEAD
+ 
+ #ifndef __BANKMGR_PROC_H
+ #define __BANKMGR_PROC_H
+diff -ruN a/release/bankmgr/src/bankmgr-1.0/bankmgr_rawstorage_core.c b/release/bankmgr/src/bankmgr-1.0/bankmgr_rawstorage_core.c
+--- a/release/bankmgr/src/bankmgr-1.0/bankmgr_rawstorage_core.c	2021-04-05 19:39:03.896094178 +0530
++++ b/release/bankmgr/src/bankmgr-1.0/bankmgr_rawstorage_core.c	2021-04-05 19:49:11.688106429 +0530
+=======
++
+ #include <linux/kernel.h>
+ #include <linux/string.h>
+ #include <linux/err.h>
+--- a/release/bankmgr/src/bankmgr-1.0/bankmgr_os.c
++++ b/release/bankmgr/src/bankmgr-1.0/bankmgr_os.c
+>>>>>>> parent of e24124e... [NG-221711][REBYPASS]OSS tarball delivery for DJA0231TLS removed patch
+@@ -1,3 +1,14 @@
++/********** COPYRIGHT AND CONFIDENTIALITY INFORMATION NOTICE *************
++** Copyright (c) 2018 - Technicolor Delivery Technologies, SAS          **
++** All Rights Reserved                                                  **
++*************************************************************************/
++
++/* The source code form of this Open Source Project components is       **
++** subject to the terms of the GPL-v2 license. You can redistribute it  **
++** and/or modify it under the terms of the GPL-v2 License               **
++** (https://opensource.org/licenses/GPL-2.0)                            **
++** See COPYING file/LICENSE file for more details.                      */
++
+ #include <linux/kernel.h>
+ #include <linux/string.h>
+ #include <linux/err.h>
+<<<<<<< HEAD
+diff -ruN a/release/bankmgr/src/bankmgr-1.0/bankmgr_rawstorage_os.c b/release/bankmgr/src/bankmgr-1.0/bankmgr_rawstorage_os.c
+--- a/release/bankmgr/src/bankmgr-1.0/bankmgr_rawstorage_os.c	2021-04-05 19:39:03.896094178 +0530
++++ b/release/bankmgr/src/bankmgr-1.0/bankmgr_rawstorage_os.c	2021-04-05 19:49:48.900107179 +0530
+@@ -1,3 +1,14 @@
+=======
+--- a/release/bankmgr/src/bankmgr-1.0/bankmgr_p.h
++++ b/release/bankmgr/src/bankmgr-1.0/bankmgr_p.h
+@@ -1,3 +1,13 @@
+>>>>>>> parent of e24124e... [NG-221711][REBYPASS]OSS tarball delivery for DJA0231TLS removed patch
++/********** COPYRIGHT AND CONFIDENTIALITY INFORMATION NOTICE *************
++** Copyright (c) 2018 - Technicolor Delivery Technologies, SAS          **
++** All Rights Reserved                                                  **
++*************************************************************************/
++
++/* The source code form of this Open Source Project components is       **
++** subject to the terms of the GPL-v2 license. You can redistribute it  **
++** and/or modify it under the terms of the GPL-v2 License               **
++** (https://opensource.org/licenses/GPL-2.0)                            **
++** See COPYING file/LICENSE file for more details.                      */
+<<<<<<< HEAD
++
+ #include <linux/kernel.h>
+ #include <linux/string.h>
+ #include <linux/err.h>
+diff -ruN a/release/bankmgr/src/bankmgr-1.0/bankmgr_ubi.c b/release/bankmgr/src/bankmgr-1.0/bankmgr_ubi.c
+--- a/release/bankmgr/src/bankmgr-1.0/bankmgr_ubi.c	2021-04-05 19:39:03.896094178 +0530
++++ b/release/bankmgr/src/bankmgr-1.0/bankmgr_ubi.c	2021-04-05 19:53:31.128111659 +0530
+@@ -1,16 +1,13 @@
+-/************** COPYRIGHT AND CONFIDENTIALITY INFORMATION *********************
+-**                                                                          **
+-** Copyright (c) 2017 Technicolor                                           **
+=======
+ 
+ #ifndef __BANKMGR_P_H__
+ #define __BANKMGR_P_H__
+--- a/release/bankmgr/src/bankmgr-1.0/bankmgr_proc.c
++++ b/release/bankmgr/src/bankmgr-1.0/bankmgr_proc.c
+@@ -1,16 +1,14 @@
+-/************** COPYRIGHT AND CONFIDENTIALITY INFORMATION *********************
+-**                                                                          **
+-** Copyright (c) 2013 Technicolor                                           **
+-** All Rights Reserved                                                      **
+-**                                                                          **
+-** This program contains proprietary information which is a trade           **
+-** secret of TECHNICOLOR and/or its affiliates and also is protected as     **
+-** an unpublished work under applicable Copyright laws. Recipient is        **
+-** to retain this program in confidence and is not permitted to use or      **
+-** make copies thereof other than as permitted in a written agreement       **
+-** with TECHNICOLOR, UNLESS OTHERWISE EXPRESSLY ALLOWED BY APPLICABLE LAWS. **
+-**                                                                          **
+-******************************************************************************/
++/********** COPYRIGHT AND CONFIDENTIALITY INFORMATION NOTICE *************
++** Copyright (c) 2013-2018 - Technicolor Delivery Technologies, SAS     **
++** All Rights Reserved                                                  **
++*************************************************************************/
++
++/* The source code form of this Open Source Project components is       **
++** subject to the terms of the GPL-v2 license. You can redistribute it  **
++** and/or modify it under the terms of the GPL-v2 License               **
++** (https://opensource.org/licenses/GPL-2.0)                            **
++** See COPYING file/LICENSE file for more details.                      */
++
+ #include <linux/kernel.h>
+ #include <linux/slab.h>
+ #include <asm/uaccess.h>
+--- a/release/bankmgr/src/bankmgr-1.0/bankmgr_proc.h
++++ b/release/bankmgr/src/bankmgr-1.0/bankmgr_proc.h
+@@ -1,16 +1,13 @@
+-/************** COPYRIGHT AND CONFIDENTIALITY INFORMATION *********************
+-**                                                                          **
+-** Copyright (c) 2013 Technicolor                                           **
+>>>>>>> parent of e24124e... [NG-221711][REBYPASS]OSS tarball delivery for DJA0231TLS removed patch
+-** All Rights Reserved                                                      **
+-**                                                                          **
+-** This program contains proprietary information which is a trade           **
+-** secret of TECHNICOLOR and/or its affiliates and also is protected as     **
+-** an unpublished work under applicable Copyright laws. Recipient is        **
+-** to retain this program in confidence and is not permitted to use or      **
+-** make copies thereof other than as permitted in a written agreement       **
+-** with TECHNICOLOR, UNLESS OTHERWISE EXPRESSLY ALLOWED BY APPLICABLE LAWS. **
+-**                                                                          **
+-******************************************************************************/
++/********** COPYRIGHT AND CONFIDENTIALITY INFORMATION NOTICE *************
+<<<<<<< HEAD
++** Copyright (c) 2018 - Technicolor Delivery Technologies, SAS          **
+=======
++** Copyright (c) 2013-2018 - Technicolor Delivery Technologies, SAS     **
+>>>>>>> parent of e24124e... [NG-221711][REBYPASS]OSS tarball delivery for DJA0231TLS removed patch
++** All Rights Reserved                                                  **
++*************************************************************************/
++
++/* The source code form of this Open Source Project components is       **
++** subject to the terms of the GPL-v2 license. You can redistribute it  **
++** and/or modify it under the terms of the GPL-v2 License               **
++** (https://opensource.org/licenses/GPL-2.0)                            **
++** See COPYING file/LICENSE file for more details.                      */
+ 
+<<<<<<< HEAD
+ #include <linux/kernel.h>
+ #include <linux/string.h>
+diff -ruN a/release/bankmgr/src/bankmgr-1.0/Kconfig b/release/bankmgr/src/bankmgr-1.0/Kconfig
+--- a/release/bankmgr/src/bankmgr-1.0/Kconfig	2021-04-05 19:39:03.896094178 +0530
++++ b/release/bankmgr/src/bankmgr-1.0/Kconfig	1970-01-01 05:30:00.000000000 +0530
+@@ -1,4 +0,0 @@
+-config BANKMGR
+-	tristate "Bank manager kernel module"
+-	help
+-        this Kernel module provides access to the banktable through a /proc interface
+diff -ruN a/release/bankmgr/src/bankmgr-1.0/legacy_upgrade_info.c b/release/bankmgr/src/bankmgr-1.0/legacy_upgrade_info.c
+--- a/release/bankmgr/src/bankmgr-1.0/legacy_upgrade_info.c	2021-04-05 19:39:03.896094178 +0530
++++ b/release/bankmgr/src/bankmgr-1.0/legacy_upgrade_info.c	2021-04-05 19:53:44.460111927 +0530
+=======
+ #ifndef __BANKMGR_PROC_H
+ #define __BANKMGR_PROC_H
+--- a/release/bankmgr/src/bankmgr-1.0/legacy_upgrade_info.c
++++ b/release/bankmgr/src/bankmgr-1.0/legacy_upgrade_info.c
+>>>>>>> parent of e24124e... [NG-221711][REBYPASS]OSS tarball delivery for DJA0231TLS removed patch
+@@ -1,3 +1,14 @@
++/********** COPYRIGHT AND CONFIDENTIALITY INFORMATION NOTICE *************
++** Copyright (c) 2018 - Technicolor Delivery Technologies, SAS          **
++** All Rights Reserved                                                  **
++*************************************************************************/
++
++/* The source code form of this Open Source Project components is       **
++** subject to the terms of the GPL-v2 license. You can redistribute it  **
++** and/or modify it under the terms of the GPL-v2 License               **
++** (https://opensource.org/licenses/GPL-2.0)                            **
++** See COPYING file/LICENSE file for more details.                      */
++
+ #include <linux/kernel.h>
+<<<<<<< HEAD
+ #include <linux/module.h>
+ #include <linux/string.h>
+diff -ruN a/release/bankmgr/src/bankmgr-1.0/legacy_upgrade_info.h b/release/bankmgr/src/bankmgr-1.0/legacy_upgrade_info.h
+--- a/release/bankmgr/src/bankmgr-1.0/legacy_upgrade_info.h	2021-04-05 19:39:03.896094178 +0530
++++ b/release/bankmgr/src/bankmgr-1.0/legacy_upgrade_info.h	2021-04-05 19:54:03.076112303 +0530
+=======
+ #include <linux/string.h>
+ #include <linux/err.h>
+--- a/release/bankmgr/src/bankmgr-1.0/legacy_upgrade_info.h
++++ b/release/bankmgr/src/bankmgr-1.0/legacy_upgrade_info.h
+>>>>>>> parent of e24124e... [NG-221711][REBYPASS]OSS tarball delivery for DJA0231TLS removed patch
+@@ -1,3 +1,14 @@
++/********** COPYRIGHT AND CONFIDENTIALITY INFORMATION NOTICE *************
++** Copyright (c) 2018 - Technicolor Delivery Technologies, SAS          **
++** All Rights Reserved                                                  **
++*************************************************************************/
++
++/* The source code form of this Open Source Project components is       **
++** subject to the terms of the GPL-v2 license. You can redistribute it  **
++** and/or modify it under the terms of the GPL-v2 License               **
++** (https://opensource.org/licenses/GPL-2.0)                            **
++** See COPYING file/LICENSE file for more details.                      */
++
+ #ifndef __LEGACY_UPGRADE_INFO_H
+ #define __LEGACY_UPGRADE_INFO_H
+ 
+<<<<<<< HEAD
+diff -ruN a/release/bankmgr/src/bankmgr-1.0/main.c b/release/bankmgr/src/bankmgr-1.0/main.c
+--- a/release/bankmgr/src/bankmgr-1.0/main.c	2021-04-05 19:39:03.896094178 +0530
++++ b/release/bankmgr/src/bankmgr-1.0/main.c	2021-04-05 19:42:48.096098698 +0530
+=======
+--- a/release/bankmgr/src/bankmgr-1.0/main.c
++++ b/release/bankmgr/src/bankmgr-1.0/main.c
+>>>>>>> parent of e24124e... [NG-221711][REBYPASS]OSS tarball delivery for DJA0231TLS removed patch
+@@ -1,16 +1,13 @@
+-/************** COPYRIGHT AND CONFIDENTIALITY INFORMATION *********************
+-**                                                                          **
+-** Copyright (c) 2013 Technicolor                                           **
+-** All Rights Reserved                                                      **
+-**                                                                          **
+-** This program contains proprietary information which is a trade           **
+-** secret of TECHNICOLOR and/or its affiliates and also is protected as     **
+-** an unpublished work under applicable Copyright laws. Recipient is        **
+-** to retain this program in confidence and is not permitted to use or      **
+-** make copies thereof other than as permitted in a written agreement       **
+-** with TECHNICOLOR, UNLESS OTHERWISE EXPRESSLY ALLOWED BY APPLICABLE LAWS. **
+-**                                                                          **
+-******************************************************************************/
++/********** COPYRIGHT AND CONFIDENTIALITY INFORMATION NOTICE *************
++** Copyright (c) 2013-2018 - Technicolor Delivery Technologies, SAS     **
++** All Rights Reserved                                                  **
++*************************************************************************/
++
++/* The source code form of this Open Source Project components is       **
++** subject to the terms of the GPL-v2 license. You can redistribute it  **
++** and/or modify it under the terms of the GPL-v2 License               **
++** (https://opensource.org/licenses/GPL-2.0)                            **
++** See COPYING file/LICENSE file for more details.                      */
+ 
+ #include <linux/module.h>
+ 
+<<<<<<< HEAD
+diff -ruN a/release/bankmgr/src/bankmgr-1.0/Makefile b/release/bankmgr/src/bankmgr-1.0/Makefile
+--- a/release/bankmgr/src/bankmgr-1.0/Makefile	2021-04-05 19:39:03.896094178 +0530
++++ b/release/bankmgr/src/bankmgr-1.0/Makefile	1970-01-01 05:30:00.000000000 +0530
+@@ -1,25 +0,0 @@
+-
+-
+-obj-m += bankmgr.o 
+-
+-bankmgr-y := bankmgr_proc.o main.o
+-
+-ifneq ($(CONFIG_MTD_SPEEDTOUCH_BTAB),)
+-bankmgr-y += bankmgr_checksum.o storage_kernel.o storage_core.o storage_crc32.o bankmgr_rawstorage_core.o bankmgr_rawstorage_os.o legacy_upgrade_info.o
+-else
+-bankmgr-y += bankmgr_ubi.o
+-endif
+-
+-clean:
+-	rm -f core *.o *.a *.s *~
+-
+-TEST_BINARY := test/rs_host_test
+-
+-.PHONY: ${TEST_BINARY}
+-
+-run_test: ${TEST_BINARY}
+-	$^
+-
+-${TEST_BINARY}:
+-	make -C test rs_host_test
+-
+diff -ruN a/release/bankmgr/src/bankmgr-1.0/storage_core.c b/release/bankmgr/src/bankmgr-1.0/storage_core.c
+--- a/release/bankmgr/src/bankmgr-1.0/storage_core.c	2021-04-05 19:39:03.896094178 +0530
++++ b/release/bankmgr/src/bankmgr-1.0/storage_core.c	2021-04-05 19:55:37.696114210 +0530
+=======
+--- a/release/bankmgr/src/bankmgr-1.0/storage_core.c
++++ b/release/bankmgr/src/bankmgr-1.0/storage_core.c
+>>>>>>> parent of e24124e... [NG-221711][REBYPASS]OSS tarball delivery for DJA0231TLS removed patch
+@@ -1,3 +1,14 @@
++/********** COPYRIGHT AND CONFIDENTIALITY INFORMATION NOTICE *************
++** Copyright (c) 2018 - Technicolor Delivery Technologies, SAS          **
++** All Rights Reserved                                                  **
++*************************************************************************/
++
++/* The source code form of this Open Source Project components is       **
++** subject to the terms of the GPL-v2 license. You can redistribute it  **
++** and/or modify it under the terms of the GPL-v2 License               **
++** (https://opensource.org/licenses/GPL-2.0)                            **
++** See COPYING file/LICENSE file for more details.                      */
++
+ /*
+  * Simple Flash Storage VERSION 1 :
+  *
+<<<<<<< HEAD
+diff -ruN a/release/bankmgr/src/bankmgr-1.0/storage_core.h b/release/bankmgr/src/bankmgr-1.0/storage_core.h
+--- a/release/bankmgr/src/bankmgr-1.0/storage_core.h	2021-04-05 19:39:03.896094178 +0530
++++ b/release/bankmgr/src/bankmgr-1.0/storage_core.h	2021-04-05 19:55:52.732114513 +0530
+=======
+--- a/release/bankmgr/src/bankmgr-1.0/storage_core.h
++++ b/release/bankmgr/src/bankmgr-1.0/storage_core.h
+>>>>>>> parent of e24124e... [NG-221711][REBYPASS]OSS tarball delivery for DJA0231TLS removed patch
+@@ -1,3 +1,14 @@
++/********** COPYRIGHT AND CONFIDENTIALITY INFORMATION NOTICE *************
++** Copyright (c) 2018 - Technicolor Delivery Technologies, SAS          **
++** All Rights Reserved                                                  **
++*************************************************************************/
++
++/* The source code form of this Open Source Project components is       **
++** subject to the terms of the GPL-v2 license. You can redistribute it  **
++** and/or modify it under the terms of the GPL-v2 License               **
++** (https://opensource.org/licenses/GPL-2.0)                            **
++** See COPYING file/LICENSE file for more details.                      */
++
+ #ifndef __STORAGE_CORE_H
+ #define __STORAGE_CORE_H
+ 
+<<<<<<< HEAD
+diff -ruN a/release/bankmgr/src/bankmgr-1.0/storage_crc32.c b/release/bankmgr/src/bankmgr-1.0/storage_crc32.c
+--- a/release/bankmgr/src/bankmgr-1.0/storage_crc32.c	2021-04-05 19:39:03.896094178 +0530
++++ b/release/bankmgr/src/bankmgr-1.0/storage_crc32.c	2021-04-05 19:56:12.104114903 +0530
+=======
+--- a/release/bankmgr/src/bankmgr-1.0/storage_crc32.c
++++ b/release/bankmgr/src/bankmgr-1.0/storage_crc32.c
+>>>>>>> parent of e24124e... [NG-221711][REBYPASS]OSS tarball delivery for DJA0231TLS removed patch
+@@ -1,3 +1,14 @@
++/********** COPYRIGHT AND CONFIDENTIALITY INFORMATION NOTICE *************
++** Copyright (c) 2018 - Technicolor Delivery Technologies, SAS          **
++** All Rights Reserved                                                  **
++*************************************************************************/
++
++/* The source code form of this Open Source Project components is       **
++** subject to the terms of the GPL-v2 license. You can redistribute it  **
++** and/or modify it under the terms of the GPL-v2 License               **
++** (https://opensource.org/licenses/GPL-2.0)                            **
++** See COPYING file/LICENSE file for more details.                      */
++
+ #ifdef __KERNEL__
+ #include <linux/kernel.h>
+ #include <linux/crc32.h>
+<<<<<<< HEAD
+diff -ruN a/release/bankmgr/src/bankmgr-1.0/storage_kernel.c b/release/bankmgr/src/bankmgr-1.0/storage_kernel.c
+--- a/release/bankmgr/src/bankmgr-1.0/storage_kernel.c	2021-04-05 19:39:03.896094178 +0530
++++ b/release/bankmgr/src/bankmgr-1.0/storage_kernel.c	2021-04-05 19:58:26.752117617 +0530
+=======
+--- a/release/bankmgr/src/bankmgr-1.0/storage_crc32.h
++++ b/release/bankmgr/src/bankmgr-1.0/storage_crc32.h
+>>>>>>> parent of e24124e... [NG-221711][REBYPASS]OSS tarball delivery for DJA0231TLS removed patch
+@@ -1,3 +1,14 @@
++/********** COPYRIGHT AND CONFIDENTIALITY INFORMATION NOTICE *************
++** Copyright (c) 2018 - Technicolor Delivery Technologies, SAS          **
++** All Rights Reserved                                                  **
++*************************************************************************/
++
++/* The source code form of this Open Source Project components is       **
++** subject to the terms of the GPL-v2 license. You can redistribute it  **
++** and/or modify it under the terms of the GPL-v2 License               **
++** (https://opensource.org/licenses/GPL-2.0)                            **
++** See COPYING file/LICENSE file for more details.                      */
++
+<<<<<<< HEAD
+ #include <linux/module.h>
+ #include <linux/slab.h>
+ #include <linux/device.h>
+diff -ruN a/release/bankmgr/src/bankmgr-1.0/test/Makefile b/release/bankmgr/src/bankmgr-1.0/test/Makefile
+--- a/release/bankmgr/src/bankmgr-1.0/test/Makefile	2021-04-05 19:39:03.932094179 +0530
++++ b/release/bankmgr/src/bankmgr-1.0/test/Makefile	1970-01-01 05:30:00.000000000 +0530
+@@ -1,4 +0,0 @@
+-RSDIR=..
+-
+-rs_host_test: rs_host_test.c $(RSDIR)/storage_core.c $(RSDIR)/storage_crc32.c 
+-	$(CC) $^ -o $@ -DRAWSTORAGE_VERSION=2 -Wall -I$(RSDIR)
+diff -ruN a/release/bankmgr/src/bankmgr-1.0/test/rs_host_test.c b/release/bankmgr/src/bankmgr-1.0/test/rs_host_test.c
+--- a/release/bankmgr/src/bankmgr-1.0/test/rs_host_test.c	2021-04-05 19:39:03.976094180 +0530
++++ b/release/bankmgr/src/bankmgr-1.0/test/rs_host_test.c	2021-04-05 19:57:17.096116213 +0530
+@@ -1,3 +1,15 @@
++
+=======
+ #ifndef __STORAGE_CRC32_H
+ #define __STORAGE_CRC32_H
+ 
+--- a/release/bankmgr/src/bankmgr-1.0/test/rs_host_test.c
++++ b/release/bankmgr/src/bankmgr-1.0/test/rs_host_test.c
+@@ -1,3 +1,14 @@
+>>>>>>> parent of e24124e... [NG-221711][REBYPASS]OSS tarball delivery for DJA0231TLS removed patch
++/********** COPYRIGHT AND CONFIDENTIALITY INFORMATION NOTICE *************
++** Copyright (c) 2018 - Technicolor Delivery Technologies, SAS          **
++** All Rights Reserved                                                  **
++*************************************************************************/
++
++/* The source code form of this Open Source Project components is       **
++** subject to the terms of the GPL-v2 license. You can redistribute it  **
++** and/or modify it under the terms of the GPL-v2 License               **
++** (https://opensource.org/licenses/GPL-2.0)                            **
++** See COPYING file/LICENSE file for more details.                      */
++
+ /*
+  * To compile:
+  *   gcc ../storage_core.c host_test.c -o rs_host_test -Wall -I/cm4/fsn/lib/rawstorage
+<<<<<<< HEAD
+=======
+--- a/release/bankmgr/src/bankmgr-1.0/storage_kernel.c
++++ b/release/bankmgr/src/bankmgr-1.0/storage_kernel.c
+@@ -1,3 +1,14 @@
++/********** COPYRIGHT AND CONFIDENTIALITY INFORMATION NOTICE *************
++** Copyright (c) 2018 - Technicolor Delivery Technologies, SAS          **
++** All Rights Reserved                                                  **
++*************************************************************************/
++
++/* The source code form of this Open Source Project components is       **
++** subject to the terms of the GPL-v2 license. You can redistribute it  **
++** and/or modify it under the terms of the GPL-v2 License               **
++** (https://opensource.org/licenses/GPL-2.0)                            **
++** See COPYING file/LICENSE file for more details.                      */
++
+ #include <linux/module.h>
+ #include <linux/slab.h>
+ #include <linux/device.h>
+>>>>>>> parent of e24124e... [NG-221711][REBYPASS]OSS tarball delivery for DJA0231TLS removed patch

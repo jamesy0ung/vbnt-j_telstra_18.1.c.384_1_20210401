@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/912215/felix/trunk/karaf/jaas/config/src/main/java/org/apache/felix/karaf/jaas/config
+END
+JaasRealm.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/jaas/config/src/main/java/org/apache/felix/karaf/jaas/config/JaasRealm.java
+END
+KeystoreManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/jaas/config/src/main/java/org/apache/felix/karaf/jaas/config/KeystoreManager.java
+END
+KeystoreIsLocked.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/jaas/config/src/main/java/org/apache/felix/karaf/jaas/config/KeystoreIsLocked.java
+END
+KeyIsLocked.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/jaas/config/src/main/java/org/apache/felix/karaf/jaas/config/KeyIsLocked.java
+END
+KeystoreInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/jaas/config/src/main/java/org/apache/felix/karaf/jaas/config/KeystoreInstance.java
+END

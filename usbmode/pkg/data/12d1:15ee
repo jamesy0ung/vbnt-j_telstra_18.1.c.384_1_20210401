@@ -1,0 +1,8 @@
+# Vodafone Huawei K5160 Enterprise - 21.313.21.62.11
+
+TargetVendor=  0x12d1
+TargetProduct= 0x15ee
+
+MessageContent="55534243000000000000000000000011063000000101010000000000000000"
+
+NoDriverLoading=1

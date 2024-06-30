@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/734662/felix/trunk/ipojo/tests/core/factories/src/main/java/org/apache/felix/ipojo/test/scenarios/factories
+END
+ComponentDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/factories/src/main/java/org/apache/felix/ipojo/test/scenarios/factories/ComponentDesc.java
+END
+FactoryTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/734662/felix/trunk/ipojo/tests/core/factories/src/main/java/org/apache/felix/ipojo/test/scenarios/factories/FactoryTestSuite.java
+END
+FactoryProps.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/factories/src/main/java/org/apache/felix/ipojo/test/scenarios/factories/FactoryProps.java
+END
+ObedienceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/factories/src/main/java/org/apache/felix/ipojo/test/scenarios/factories/ObedienceTest.java
+END
+ConfigAdminTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/factories/src/main/java/org/apache/felix/ipojo/test/scenarios/factories/ConfigAdminTest.java
+END
+UnacceptableConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/734662/felix/trunk/ipojo/tests/core/factories/src/main/java/org/apache/felix/ipojo/test/scenarios/factories/UnacceptableConfigurationTest.java
+END

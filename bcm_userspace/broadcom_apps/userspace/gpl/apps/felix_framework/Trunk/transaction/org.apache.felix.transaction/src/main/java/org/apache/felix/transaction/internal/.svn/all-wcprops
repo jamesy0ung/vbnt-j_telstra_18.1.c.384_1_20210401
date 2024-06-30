@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/763278/felix/trunk/transaction/org.apache.felix.transaction/src/main/java/org/apache/felix/transaction/internal
+END
+TransactionManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/763278/felix/trunk/transaction/org.apache.felix.transaction/src/main/java/org/apache/felix/transaction/internal/TransactionManagerService.java
+END
+GeronimoPlatformTransactionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/763278/felix/trunk/transaction/org.apache.felix.transaction/src/main/java/org/apache/felix/transaction/internal/GeronimoPlatformTransactionManager.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/763278/felix/trunk/transaction/org.apache.felix.transaction/src/main/java/org/apache/felix/transaction/internal/Activator.java
+END

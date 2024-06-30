@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/config/src/main/java/org/apache/felix/karaf/shell/config/completers
+END
+ConfigurationCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/config/src/main/java/org/apache/felix/karaf/shell/config/completers/ConfigurationCompleter.java
+END
+ConfigurationPropertyCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/config/src/main/java/org/apache/felix/karaf/shell/config/completers/ConfigurationPropertyCompleter.java
+END

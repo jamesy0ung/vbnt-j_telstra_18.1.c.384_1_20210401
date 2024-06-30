@@ -1,0 +1,255 @@
+--- cups-2.1.0-a/cups/ipp.h
++++ cups-2.1.0-b/cups/ipp.h
+@@ -726,6 +726,8 @@
+ #    define _IPP_PRIVATE_STRUCTURES 0
+ #  endif /* _CUPS_SOURCE || _CUPS_IPP_PRIVATE_H_ */
+ 
++#define _IPP_PRIVATE_STRUCTURES 1
++
+ #  if _IPP_PRIVATE_STRUCTURES
+ typedef union _ipp_request_u		/**** Request Header ****/
+ {
+--- cups-2.1.0-a/cups/request.c
++++ cups-2.1.0-b/cups/request.c
+@@ -34,6 +34,11 @@
+ #  define MSG_DONTWAIT 0
+ #endif /* !MSG_DONTWAIT */
+ 
++ipp_t *					/* O - Response data */
++cups_tch_DoIORequest(http_t     *http,	/* I - Connection to server or @code CUPS_HTTP_DEFAULT@ */
++                ipp_t      *request,	/* I - IPP request */
++                const char *resource,	/* I - HTTP resource for POST */
++		const char *filename);	/* I - File to read from or -1 for none */
+ 
+ /*
+  * 'cupsDoFileRequest()' - Do an IPP request with a file.
+@@ -85,6 +90,25 @@
+   return (response);
+ }
+ 
++/* For samba use only */
++ipp_t *					/* O - Response data */
++cups_tch_DoFileRequest(http_t     *http,	/* I - Connection to server or @code CUPS_HTTP_DEFAULT@ */
++                  ipp_t      *request,	/* I - IPP request */
++                  const char *resource,	/* I - HTTP resource for POST */
++		  const char *filename)	/* I - File to send or @code NULL@ for none */
++{
++  ipp_t		*response;		/* IPP response data */
++
++  DEBUG_printf(("cups_tch_DoFileRequest(http=%p, request=%p(%s), resource=\"%s\", "
++                "filename=\"%s\")", http, request,
++		request ? ippOpString(request->request.op.operation_id) : "?",
++		resource, filename));
++
++  response = cups_tch_DoIORequest(http, request, resource, filename);
++
++  return (response);
++}
++
+ 
+ /*
+  * 'cupsDoIORequest()' - Do an IPP request with file descriptors.
+@@ -291,6 +315,136 @@
+   return (response);
+ }
+ 
++ipp_t *					/* O - Response data */
++cups_tch_DoIORequest(http_t     *http,	/* I - Connection to server or @code CUPS_HTTP_DEFAULT@ */
++                ipp_t      *request,	/* I - IPP request */
++                const char *resource,	/* I - HTTP resource for POST */
++		const char *filename)	/* I - File to read from or -1 for none */
++{
++  ipp_t		*response = NULL;	/* IPP response data */
++  size_t	 length = 0;		/* Content-Length value */
++  http_status_t	 status;			/* Status of HTTP request */
++  ssize_t		bytes;			/* Number of bytes read/written */
++  char * prefix = "Samba spool file:"; /* Add this string before the file name */
++  char buffer[256] = {0};
++
++  DEBUG_printf(("cups_tch_DoIORequest(http=%p, request=%p(%s), resource=\"%s\", "
++                "filename=%s)", http, request,
++		request ? ippOpString(request->request.op.operation_id) : "?",
++		resource, filename));
++
++ /*
++  * Range check input...
++  */
++
++  if (!request || !resource)
++  {
++    ippDelete(request);
++
++    _cupsSetError(IPP_STATUS_ERROR_INTERNAL, strerror(EINVAL), 0);
++
++    return (NULL);
++  }
++
++ /*
++  * Get the default connection as needed...
++  */
++
++  if (!http)
++    if ((http = _cupsConnect()) == NULL)
++    {
++      ippDelete(request);
++      return (NULL);
++    }
++
++ /*
++  * See if we have a file to send...
++  */
++
++  if (filename)
++  {
++    length = ippLength(request) + (size_t)(strlen(prefix) + strlen(filename));
++  }
++  else
++    length = ippLength(request);
++
++  DEBUG_printf(("2cups_tch_DoIORequest: Request length=%ld, total length=%ld",
++                (long)ippLength(request), (long)length));
++
++ /*
++  * Clear any "Local" authentication data since it is probably stale...
++  */
++
++  if (http->authstring && !strncmp(http->authstring, "Local ", 6))
++    httpSetAuthString(http, NULL, NULL);
++
++ /*
++  * Loop until we can send the request without authorization problems.
++  */
++
++  while (response == NULL)
++  {
++    DEBUG_puts("2cups_tch_DoIORequest: setup...");
++
++   /*
++    * Send the request...
++    */
++
++    status = cupsSendRequest(http, request, resource, length);
++
++    DEBUG_printf(("2cups_tch_DoIORequest: status=%d", status));
++
++    if (status == HTTP_STATUS_CONTINUE && request->state == IPP_STATE_DATA && filename != NULL)
++    {
++      DEBUG_puts("2cups_tch_DoIORequest: file write...");
++
++     /*
++      * Send the file with the request...
++      */
++
++      bytes = strlen(prefix) + strlen(filename);
++      snprintf(buffer, sizeof(buffer),"%s%s", prefix, filename);
++      status = cupsWriteRequestData(http, buffer, (size_t)bytes);
++    }
++
++   /*
++    * Get the server's response...
++    */
++
++    if (status <= HTTP_STATUS_CONTINUE || status == HTTP_STATUS_OK)
++    {
++      response = cupsGetResponse(http, resource);
++      status   = httpGetStatus(http);
++    }
++
++    DEBUG_printf(("2cups_tch_DoIORequest: status=%d", status));
++
++    if (status == HTTP_STATUS_ERROR ||
++        (status >= HTTP_STATUS_BAD_REQUEST && status != HTTP_STATUS_UNAUTHORIZED &&
++	 status != HTTP_STATUS_UPGRADE_REQUIRED))
++    {
++      _cupsSetHTTPError(status);
++      break;
++    }
++
++    if (http->state != HTTP_STATE_WAITING)
++    {
++     /*
++      * Flush any remaining data...
++      */
++
++      httpFlush(http);
++    }
++  }
++
++ /*
++  * Delete the original request and return the response...
++  */
++
++  ippDelete(request);
++
++  return (response);
++}
+ 
+ /*
+  * 'cupsDoRequest()' - Do an IPP request.
+--- cups-2.1.0-a/scheduler/client.c
++++ cups-2.1.0-b/scheduler/client.c
+@@ -1993,6 +1993,64 @@
+         }
+ 	while (httpGetState(con->http) == HTTP_STATE_POST_RECV && httpGetReady(con->http));
+ 
++    if( con->filename && (con->file >= 0) && (httpGetState(con->http) == HTTP_STATE_POST_SEND) )
++    {
++      cups_file_t	* _tch_fp = NULL;
++
++      if ((_tch_fp = cupsFileOpen(con->filename, "r")) != NULL)
++      {
++        char * prefix = "Samba spool file:";
++        char  _tch_buffer[256] = {0};
++        int prefixLen = strlen(prefix);
++
++        if (cupsFileRead(_tch_fp, _tch_buffer, sizeof(_tch_buffer)) > 0)
++        {
++          cupsFileClose(_tch_fp);
++          if ( !strncmp(prefix, _tch_buffer, prefixLen) )
++          {
++            cupsdLogMessage(CUPSD_LOG_DEBUG,
++                "Rename request file %s to %s",
++                  &_tch_buffer[prefixLen], con->filename);
++
++            close(con->file);
++            con->file = -1;
++            unlink(con->filename);
++
++            if (rename( &_tch_buffer[prefixLen], con->filename))
++            {
++              cupsdLogMessage(CUPSD_LOG_ERROR, "Unable to rename spool file from \"%s\" to\"%s\": %s",
++                &_tch_buffer[prefixLen], con->filename, strerror(errno));
++              cupsdCloseClient(con);
++              return;
++            }
++            con->file = open(con->filename, O_WRONLY);
++            if (con->file > 0)
++            {
++              fchmod(con->file, 0640);
++              fchown(con->file, RunUser, Group);
++              fcntl(con->file, F_SETFD, fcntl(con->file, F_GETFD) | FD_CLOEXEC);
++            }
++          }
++        }
++        else
++        {
++          cupsdLogMessage(CUPSD_LOG_ERROR,
++              "Unable to read file %s: %s",
++                con->filename, strerror(errno));
++          cupsdCloseClient(con);
++          return;
++        }
++      }
++      else
++      {
++        cupsdLogMessage(CUPSD_LOG_ERROR,
++                      "Unable to open file %s: %s",
++                      con->filename, strerror(errno));
++        cupsdCloseClient(con);
++        return;
++      }
++    }
++
+ 	if (httpGetState(con->http) == HTTP_STATE_POST_SEND)
+ 	{
+ 	  if (con->file >= 0)

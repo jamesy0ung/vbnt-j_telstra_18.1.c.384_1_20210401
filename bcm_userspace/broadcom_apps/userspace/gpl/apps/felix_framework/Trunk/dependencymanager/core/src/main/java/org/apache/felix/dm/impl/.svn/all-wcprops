@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/955928/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/894328/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/Logger.java
+END
+State.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/889261/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/State.java
+END
+AspectServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/947378/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/AspectServiceImpl.java
+END
+ServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/955538/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/ServiceImpl.java
+END
+FactoryConfigurationAdapterServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/947626/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/FactoryConfigurationAdapterServiceImpl.java
+END
+AdapterServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/947498/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/AdapterServiceImpl.java
+END
+AbstractDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/947378/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/AbstractDecorator.java
+END
+DefaultNullObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/887404/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/DefaultNullObject.java
+END
+FilterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/947378/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/FilterService.java
+END
+InvocationUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/954774/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/InvocationUtil.java
+END
+ResourceAdapterServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/947498/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/ResourceAdapterServiceImpl.java
+END
+BundleAdapterServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/947502/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/BundleAdapterServiceImpl.java
+END
+ServiceRegistrationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/887404/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/ServiceRegistrationImpl.java
+END
+SerialExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/887404/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/SerialExecutor.java
+END

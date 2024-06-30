@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/894012/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency
+END
+SimpleDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/SimpleDependencies.java
+END
+MethodDelayedOptionalMultipleDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/MethodDelayedOptionalMultipleDependencies.java
+END
+MethodSimpleDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/MethodSimpleDependencies.java
+END
+OptionalNoNullableDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/OptionalNoNullableDependencies.java
+END
+OptionalMultipleDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/OptionalMultipleDependencies.java
+END
+MethodOptionalMultipleDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/MethodOptionalMultipleDependencies.java
+END
+CollectionMultipleDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/CollectionMultipleDependencies.java
+END
+ProxiedDelayedOptionalDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/ProxiedDelayedOptionalDependencies.java
+END
+ProxiedDelayedSimpleDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/ProxiedDelayedSimpleDependencies.java
+END
+DelayedOptionalDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/DelayedOptionalDependencies.java
+END
+ProxiedOptionalDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/ProxiedOptionalDependencies.java
+END
+DelayedSimpleDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/DelayedSimpleDependencies.java
+END
+MethodDelayedMultipleDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/MethodDelayedMultipleDependencies.java
+END
+ProxiedSimpleDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/ProxiedSimpleDependencies.java
+END
+ProxiedDelayedOptionalMultipleDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/ProxiedDelayedOptionalMultipleDependencies.java
+END
+ModifyDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/885210/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/ModifyDependencies.java
+END
+ListMultipleDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/ListMultipleDependencies.java
+END
+DelayedOptionalMultipleDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/DelayedOptionalMultipleDependencies.java
+END
+MultipleDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/MultipleDependencies.java
+END
+MethodMultipleDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/MethodMultipleDependencies.java
+END
+ProxiedSetMultipleDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/ProxiedSetMultipleDependencies.java
+END
+ProxiedCollectionMultipleDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/ProxiedCollectionMultipleDependencies.java
+END
+SetMultipleDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/SetMultipleDependencies.java
+END
+ProxyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/894012/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/ProxyTest.java
+END
+DependencyArchitectureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/DependencyArchitectureTest.java
+END
+ProxiedDelayedMultipleDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/ProxiedDelayedMultipleDependencies.java
+END
+MethodDelayedOptionalDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/MethodDelayedOptionalDependencies.java
+END
+VectorMultipleDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/VectorMultipleDependencies.java
+END
+DependencyTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/DependencyTestSuite.java
+END
+MethodDelayedSimpleDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/MethodDelayedSimpleDependencies.java
+END
+ProxiedListMultipleDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/ProxiedListMultipleDependencies.java
+END
+DelayedMultipleDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/DelayedMultipleDependencies.java
+END
+OptionalDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/OptionalDependencies.java
+END
+MethodOptionalDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/MethodOptionalDependencies.java
+END

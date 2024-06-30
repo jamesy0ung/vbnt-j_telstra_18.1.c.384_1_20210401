@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/786967/felix/trunk/ipojo/tests/handler/transaction/src/test/java/org/apache/felix/ipojo/transaction/test/service
+END
+Foo.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/786967/felix/trunk/ipojo/tests/handler/transaction/src/test/java/org/apache/felix/ipojo/transaction/test/service/Foo.java
+END
+CheckService.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/786967/felix/trunk/ipojo/tests/handler/transaction/src/test/java/org/apache/felix/ipojo/transaction/test/service/CheckService.java
+END

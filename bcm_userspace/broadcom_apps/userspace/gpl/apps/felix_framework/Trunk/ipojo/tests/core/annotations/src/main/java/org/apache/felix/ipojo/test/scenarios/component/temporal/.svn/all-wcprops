@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/728714/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/component/temporal
+END
+TemporalCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/728714/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/component/temporal/TemporalCollection.java
+END
+TemporalWithFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/component/temporal/TemporalWithFilter.java
+END
+TemporalWithTimeout.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/component/temporal/TemporalWithTimeout.java
+END
+TemporalWithNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/component/temporal/TemporalWithNull.java
+END
+TemporalWithDI.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/component/temporal/TemporalWithDI.java
+END
+TemporalSimple.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/component/temporal/TemporalSimple.java
+END
+TemporalWithEmptyArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/component/temporal/TemporalWithEmptyArray.java
+END
+TemporalWithNullable.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/component/temporal/TemporalWithNullable.java
+END

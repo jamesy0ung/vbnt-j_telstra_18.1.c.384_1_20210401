@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/887538/felix/trunk/karaf/shell/dev/src/main/resources/org/apache/felix/karaf/shell/dev/framework
+END
+equinox-debug.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/887538/felix/trunk/karaf/shell/dev/src/main/resources/org/apache/felix/karaf/shell/dev/framework/equinox-debug.properties
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/940905/felix/trunk/ipojo/manipulator/src/main/java/org/apache/felix/ipojo/manipulation/annotations
+END
+CustomAnnotationVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/720508/felix/trunk/ipojo/manipulator/src/main/java/org/apache/felix/ipojo/manipulation/annotations/CustomAnnotationVisitor.java
+END
+MetadataCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/894154/felix/trunk/ipojo/manipulator/src/main/java/org/apache/felix/ipojo/manipulation/annotations/MetadataCollector.java
+END
+MethodCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/940905/felix/trunk/ipojo/manipulator/src/main/java/org/apache/felix/ipojo/manipulation/annotations/MethodCollector.java
+END
+FieldCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/915909/felix/trunk/ipojo/manipulator/src/main/java/org/apache/felix/ipojo/manipulation/annotations/FieldCollector.java
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/915909/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations
+END
+LifecycleCallbacks.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/LifecycleCallbacks.java
+END
+RankedDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/RankedDependency.java
+END
+LifecycleController.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/LifecycleController.java
+END
+Factory.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/777817/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/Factory.java
+END
+AnnotationsTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/894154/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/AnnotationsTestSuite.java
+END
+Extender.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/Extender.java
+END
+Dependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/Dependency.java
+END
+Architecture.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/Architecture.java
+END
+ServiceProdiving.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/915909/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/ServiceProdiving.java
+END
+Instantiate.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/894154/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/Instantiate.java
+END
+OptionalDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/OptionalDependency.java
+END
+AggregateDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/AggregateDependency.java
+END
+WhiteBoard.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/WhiteBoard.java
+END
+EventAdmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/EventAdmin.java
+END
+TemporalDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/728714/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/TemporalDependencies.java
+END
+Properties.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/770759/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/Properties.java
+END
+FilteredDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/FilteredDependency.java
+END
+PolicyDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/PolicyDependency.java
+END
+JMX.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/JMX.java
+END

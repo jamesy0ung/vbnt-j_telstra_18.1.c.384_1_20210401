@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/javax/microedition/io
+END
+Connection.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/javax/microedition/io/Connection.java
+END
+HttpConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/javax/microedition/io/HttpConnection.java
+END
+InputConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/javax/microedition/io/InputConnection.java
+END
+Datagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/javax/microedition/io/Datagram.java
+END
+DatagramConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/javax/microedition/io/DatagramConnection.java
+END
+OutputConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/javax/microedition/io/OutputConnection.java
+END
+Connector.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/javax/microedition/io/Connector.java
+END
+ContentConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/javax/microedition/io/ContentConnection.java
+END
+ConnectionNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/javax/microedition/io/ConnectionNotFoundException.java
+END
+StreamConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/javax/microedition/io/StreamConnection.java
+END
+StreamConnectionNotifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/javax/microedition/io/StreamConnectionNotifier.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/903585/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/components
+END
+ActivatorComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/822285/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/components/ActivatorComponent.java
+END
+MyTinyBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/798522/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/components/MyTinyBundle.java
+END
+SimpleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/807142/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/components/SimpleService.java
+END
+SimpleComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/884122/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/components/SimpleComponent.java
+END
+SimpleServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/884122/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/components/SimpleServiceImpl.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/775456/felix/trunk/ipojo/tests/composite/composite-runtime/src/main/java/org/apache/felix/ipojo/test/composite/infrastructure
+END
+EmptyCompositeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/730353/felix/trunk/ipojo/tests/composite/composite-runtime/src/main/java/org/apache/felix/ipojo/test/composite/infrastructure/EmptyCompositeTest.java
+END
+FactoryManagementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/775456/felix/trunk/ipojo/tests/composite/composite-runtime/src/main/java/org/apache/felix/ipojo/test/composite/infrastructure/FactoryManagementTest.java
+END
+ServiceRegistryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/composite/composite-runtime/src/main/java/org/apache/felix/ipojo/test/composite/infrastructure/ServiceRegistryTest.java
+END
+InfrastructureTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/681158/felix/trunk/ipojo/tests/composite/composite-runtime/src/main/java/org/apache/felix/ipojo/test/composite/infrastructure/InfrastructureTestSuite.java
+END
+ServiceRangeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/composite/composite-runtime/src/main/java/org/apache/felix/ipojo/test/composite/infrastructure/ServiceRangeTest.java
+END

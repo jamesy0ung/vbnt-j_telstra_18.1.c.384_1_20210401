@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/794417/felix/trunk/sigil/ivy/resolver/example/dependence/dependee
+END
+sigil.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/794417/felix/trunk/sigil/ivy/resolver/example/dependence/dependee/sigil.properties
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/794417/felix/trunk/sigil/ivy/resolver/example/dependence/dependee/ivy.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/794417/felix/trunk/sigil/ivy/resolver/example/dependence/dependee/build.xml
+END

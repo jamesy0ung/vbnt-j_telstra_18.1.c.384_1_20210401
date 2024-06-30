@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/687318/felix/trunk/ipojo/tests/handler/whiteboard/src/main/java/org/apache/felix/ipojo/test
+END
+FooService.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/handler/whiteboard/src/main/java/org/apache/felix/ipojo/test/FooService.java
+END
+Observable.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/handler/whiteboard/src/main/java/org/apache/felix/ipojo/test/Observable.java
+END
+FooWhiteBoardPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/handler/whiteboard/src/main/java/org/apache/felix/ipojo/test/FooWhiteBoardPattern.java
+END
+WbpTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/handler/whiteboard/src/main/java/org/apache/felix/ipojo/test/WbpTests.java
+END
+FooProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/handler/whiteboard/src/main/java/org/apache/felix/ipojo/test/FooProvider.java
+END

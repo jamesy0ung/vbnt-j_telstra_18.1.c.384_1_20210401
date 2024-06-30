@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/importer/core/event/structs
+END
+NotifierQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/importer/core/event/structs/NotifierQueue.java
+END
+Monitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/importer/core/event/structs/Monitor.java
+END
+SidRenewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/importer/core/event/structs/SidRenewer.java
+END
+StateVarsToNotify.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/importer/core/event/structs/StateVarsToNotify.java
+END
+SubscriptionQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/importer/core/event/structs/SubscriptionQueue.java
+END
+Listener2Sids.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/importer/core/event/structs/Listener2Sids.java
+END
+Sid2Listeners.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/importer/core/event/structs/Sid2Listeners.java
+END
+SidsListenersMaps.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/importer/core/event/structs/SidsListenersMaps.java
+END

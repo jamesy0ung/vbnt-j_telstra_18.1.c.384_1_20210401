@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/asf/!svn/ver/911270/felix/trunk/eventadmin/impl
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/910870/felix/trunk/eventadmin/impl/NOTICE
+END
+obr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/905328/felix/trunk/eventadmin/impl/obr.xml
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/609667/felix/trunk/eventadmin/impl/LICENSE
+END
+LICENSE.sun
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/910870/felix/trunk/eventadmin/impl/LICENSE.sun
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/911270/felix/trunk/eventadmin/impl/pom.xml
+END

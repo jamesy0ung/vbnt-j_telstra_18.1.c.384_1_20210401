@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/956491/felix/trunk/karaf/features/command/src/main/java/org/apache/felix/karaf/features/command
+END
+RemoveUrlCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/818847/felix/trunk/karaf/features/command/src/main/java/org/apache/felix/karaf/features/command/RemoveUrlCommand.java
+END
+RefreshUrlCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/880637/felix/trunk/karaf/features/command/src/main/java/org/apache/felix/karaf/features/command/RefreshUrlCommand.java
+END
+InstallFeatureCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/824529/felix/trunk/karaf/features/command/src/main/java/org/apache/felix/karaf/features/command/InstallFeatureCommand.java
+END
+UninstallFeatureCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/818847/felix/trunk/karaf/features/command/src/main/java/org/apache/felix/karaf/features/command/UninstallFeatureCommand.java
+END
+InfoFeatureCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/956491/felix/trunk/karaf/features/command/src/main/java/org/apache/felix/karaf/features/command/InfoFeatureCommand.java
+END
+ListFeaturesCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/818847/felix/trunk/karaf/features/command/src/main/java/org/apache/felix/karaf/features/command/ListFeaturesCommand.java
+END
+AddUrlCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/880637/felix/trunk/karaf/features/command/src/main/java/org/apache/felix/karaf/features/command/AddUrlCommand.java
+END
+FeaturesCommandSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/features/command/src/main/java/org/apache/felix/karaf/features/command/FeaturesCommandSupport.java
+END
+ListUrlCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/818847/felix/trunk/karaf/features/command/src/main/java/org/apache/felix/karaf/features/command/ListUrlCommand.java
+END

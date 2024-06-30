@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/939968/felix/trunk/ipojo/tests/core/logger/src/test/java/org/apache/felix/ipojo/tests/core
+END
+SystemLoggerInfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/939968/felix/trunk/ipojo/tests/core/logger/src/test/java/org/apache/felix/ipojo/tests/core/SystemLoggerInfoTest.java
+END
+ManifestLoggerInfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/939968/felix/trunk/ipojo/tests/core/logger/src/test/java/org/apache/felix/ipojo/tests/core/ManifestLoggerInfoTest.java
+END
+BNDManifestLoggerInfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/939968/felix/trunk/ipojo/tests/core/logger/src/test/java/org/apache/felix/ipojo/tests/core/BNDManifestLoggerInfoTest.java
+END
+SystemLoggerWarningTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/939968/felix/trunk/ipojo/tests/core/logger/src/test/java/org/apache/felix/ipojo/tests/core/SystemLoggerWarningTest.java
+END

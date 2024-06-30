@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/947378/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/service
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/947378/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/service/Service.java
+END
+ServiceStateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/887392/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/service/ServiceStateListener.java
+END

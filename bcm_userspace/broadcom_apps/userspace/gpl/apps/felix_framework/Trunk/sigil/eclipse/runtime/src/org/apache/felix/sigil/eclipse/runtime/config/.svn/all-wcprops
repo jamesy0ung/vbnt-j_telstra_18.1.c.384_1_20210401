@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/883335/felix/trunk/sigil/eclipse/runtime/src/org/apache/felix/sigil/eclipse/runtime/config
+END
+OSGiLaunchConfigurationConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/883335/felix/trunk/sigil/eclipse/runtime/src/org/apache/felix/sigil/eclipse/runtime/config/OSGiLaunchConfigurationConstants.java
+END
+OSGiLaunchConfigurationTabGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/806293/felix/trunk/sigil/eclipse/runtime/src/org/apache/felix/sigil/eclipse/runtime/config/OSGiLaunchConfigurationTabGroup.java
+END
+FormSelectionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/830903/felix/trunk/sigil/eclipse/runtime/src/org/apache/felix/sigil/eclipse/runtime/config/FormSelectionDialog.java
+END
+FilteredModelView.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/830903/felix/trunk/sigil/eclipse/runtime/src/org/apache/felix/sigil/eclipse/runtime/config/FilteredModelView.java
+END
+OSGiLaunchConfigurationTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/883335/felix/trunk/sigil/eclipse/runtime/src/org/apache/felix/sigil/eclipse/runtime/config/OSGiLaunchConfigurationTab.java
+END

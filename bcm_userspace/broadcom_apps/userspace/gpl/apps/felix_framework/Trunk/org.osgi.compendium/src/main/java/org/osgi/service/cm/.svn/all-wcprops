@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/797564/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/cm
+END
+ConfigurationAdmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/cm/ConfigurationAdmin.java
+END
+ConfigurationPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/cm/ConfigurationPermission.java
+END
+ManagedServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/cm/ManagedServiceFactory.java
+END
+ConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/cm/ConfigurationException.java
+END
+ConfigurationPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/cm/ConfigurationPlugin.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/cm/Configuration.java
+END
+ConfigurationEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/cm/ConfigurationEvent.java
+END
+ConfigurationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/cm/ConfigurationListener.java
+END
+ManagedService.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/cm/ManagedService.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/955881/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/util
+END
+DependencyModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/940905/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/util/DependencyModel.java
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/912098/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/util/Logger.java
+END
+TrackerCustomizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/701012/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/util/TrackerCustomizer.java
+END
+ServiceReferenceRankingComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/713976/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/util/ServiceReferenceRankingComparator.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/955881/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/util/Property.java
+END
+DependencyStateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/701012/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/util/DependencyStateListener.java
+END
+SecurityHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/934873/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/util/SecurityHelper.java
+END
+Tracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/940905/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/util/Tracker.java
+END
+Callback.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/728056/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/util/Callback.java
+END

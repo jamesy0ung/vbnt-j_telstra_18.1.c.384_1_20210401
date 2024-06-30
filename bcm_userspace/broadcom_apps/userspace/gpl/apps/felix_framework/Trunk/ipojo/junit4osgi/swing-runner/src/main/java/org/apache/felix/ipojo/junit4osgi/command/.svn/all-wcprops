@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/730354/felix/trunk/ipojo/junit4osgi/swing-runner/src/main/java/org/apache/felix/ipojo/junit4osgi/command
+END
+SwingRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/730354/felix/trunk/ipojo/junit4osgi/swing-runner/src/main/java/org/apache/felix/ipojo/junit4osgi/command/SwingRunner.java
+END
+SwingRunner.form
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/730354/felix/trunk/ipojo/junit4osgi/swing-runner/src/main/java/org/apache/felix/ipojo/junit4osgi/command/SwingRunner.form
+END
+ResultCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/730354/felix/trunk/ipojo/junit4osgi/swing-runner/src/main/java/org/apache/felix/ipojo/junit4osgi/command/ResultCellRenderer.java
+END
+ResultTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/730354/felix/trunk/ipojo/junit4osgi/swing-runner/src/main/java/org/apache/felix/ipojo/junit4osgi/command/ResultTableModel.java
+END
+TestListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/730354/felix/trunk/ipojo/junit4osgi/swing-runner/src/main/java/org/apache/felix/ipojo/junit4osgi/command/TestListModel.java
+END

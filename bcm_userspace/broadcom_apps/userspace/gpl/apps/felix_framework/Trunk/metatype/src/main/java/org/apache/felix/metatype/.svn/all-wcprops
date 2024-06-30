@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/911329/felix/trunk/metatype/src/main/java/org/apache/felix/metatype
+END
+MetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/803669/felix/trunk/metatype/src/main/java/org/apache/felix/metatype/MetaData.java
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/803669/felix/trunk/metatype/src/main/java/org/apache/felix/metatype/Attribute.java
+END
+Designate.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/803669/felix/trunk/metatype/src/main/java/org/apache/felix/metatype/Designate.java
+END
+MetaDataReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/803669/felix/trunk/metatype/src/main/java/org/apache/felix/metatype/MetaDataReader.java
+END
+AD.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/911304/felix/trunk/metatype/src/main/java/org/apache/felix/metatype/AD.java
+END
+OCD.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/803669/felix/trunk/metatype/src/main/java/org/apache/felix/metatype/OCD.java
+END
+DefaultMetaTypeProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/911329/felix/trunk/metatype/src/main/java/org/apache/felix/metatype/DefaultMetaTypeProvider.java
+END
+DesignateObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/803669/felix/trunk/metatype/src/main/java/org/apache/felix/metatype/DesignateObject.java
+END

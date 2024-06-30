@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/929495/felix/trunk/webconsole-plugins/upnp/src/main/java/org/apache/felix/webconsole/plugins/upnp/internal
+END
+WebConsolePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/926493/felix/trunk/webconsole-plugins/upnp/src/main/java/org/apache/felix/webconsole/plugins/upnp/internal/WebConsolePlugin.java
+END
+ControlServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/925979/felix/trunk/webconsole-plugins/upnp/src/main/java/org/apache/felix/webconsole/plugins/upnp/internal/ControlServlet.java
+END
+SessionObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/929495/felix/trunk/webconsole-plugins/upnp/src/main/java/org/apache/felix/webconsole/plugins/upnp/internal/SessionObject.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/925979/felix/trunk/webconsole-plugins/upnp/src/main/java/org/apache/felix/webconsole/plugins/upnp/internal/Activator.java
+END

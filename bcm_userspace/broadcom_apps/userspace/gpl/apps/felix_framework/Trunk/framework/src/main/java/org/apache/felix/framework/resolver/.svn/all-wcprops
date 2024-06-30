@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/949258/felix/trunk/framework/src/main/java/org/apache/felix/framework/resolver
+END
+Resolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/949258/felix/trunk/framework/src/main/java/org/apache/felix/framework/resolver/Resolver.java
+END
+ResolverImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/949258/felix/trunk/framework/src/main/java/org/apache/felix/framework/resolver/ResolverImpl.java
+END
+ResourceNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/918500/felix/trunk/framework/src/main/java/org/apache/felix/framework/resolver/ResourceNotFoundException.java
+END
+CandidateComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/949258/felix/trunk/framework/src/main/java/org/apache/felix/framework/resolver/CandidateComparator.java
+END
+Module.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/949258/felix/trunk/framework/src/main/java/org/apache/felix/framework/resolver/Module.java
+END
+Wire.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/949258/felix/trunk/framework/src/main/java/org/apache/felix/framework/resolver/Wire.java
+END
+WireImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/949258/felix/trunk/framework/src/main/java/org/apache/felix/framework/resolver/WireImpl.java
+END
+Content.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/918500/felix/trunk/framework/src/main/java/org/apache/felix/framework/resolver/Content.java
+END
+ResolveException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/949258/felix/trunk/framework/src/main/java/org/apache/felix/framework/resolver/ResolveException.java
+END
+WireModuleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/947783/felix/trunk/framework/src/main/java/org/apache/felix/framework/resolver/WireModuleImpl.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/912215/felix/trunk/karaf/assembly/src/main/filtered-resources/bin
+END
+admin
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/912215/felix/trunk/karaf/assembly/src/main/filtered-resources/bin/admin
+END
+admin.bat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/912215/felix/trunk/karaf/assembly/src/main/filtered-resources/bin/admin.bat
+END

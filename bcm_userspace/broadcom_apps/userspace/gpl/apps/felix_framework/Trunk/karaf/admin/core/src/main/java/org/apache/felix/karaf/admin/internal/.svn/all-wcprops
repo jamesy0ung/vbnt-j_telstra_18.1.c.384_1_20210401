@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/952610/felix/trunk/karaf/admin/core/src/main/java/org/apache/felix/karaf/admin/internal
+END
+InstanceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/952610/felix/trunk/karaf/admin/core/src/main/java/org/apache/felix/karaf/admin/internal/InstanceImpl.java
+END
+AdminServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/907993/felix/trunk/karaf/admin/core/src/main/java/org/apache/felix/karaf/admin/internal/AdminServiceImpl.java
+END

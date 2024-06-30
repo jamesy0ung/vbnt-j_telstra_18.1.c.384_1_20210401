@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/766037/felix/trunk/ipojo/tests/api/src/test/java/org/example/service/impl
+END
+HostImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/766037/felix/trunk/ipojo/tests/api/src/test/java/org/example/service/impl/HostImpl.java
+END
+FooImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/765176/felix/trunk/ipojo/tests/api/src/test/java/org/example/service/impl/FooImpl.java
+END
+MyServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/765176/felix/trunk/ipojo/tests/api/src/test/java/org/example/service/impl/MyServiceImpl.java
+END
+MyComponentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/765176/felix/trunk/ipojo/tests/api/src/test/java/org/example/service/impl/MyComponentImpl.java
+END

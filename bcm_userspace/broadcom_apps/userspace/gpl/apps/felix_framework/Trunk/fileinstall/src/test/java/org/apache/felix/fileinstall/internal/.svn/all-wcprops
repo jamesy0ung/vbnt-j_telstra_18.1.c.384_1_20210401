@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/949136/felix/trunk/fileinstall/src/test/java/org/apache/felix/fileinstall/internal
+END
+DirectoryWatcherTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/891167/felix/trunk/fileinstall/src/test/java/org/apache/felix/fileinstall/internal/DirectoryWatcherTest.java
+END
+ConfigInstallerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/825122/felix/trunk/fileinstall/src/test/java/org/apache/felix/fileinstall/internal/ConfigInstallerTest.java
+END
+MockServiceTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/810999/felix/trunk/fileinstall/src/test/java/org/apache/felix/fileinstall/internal/MockServiceTracker.java
+END
+BundleTransformerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/810999/felix/trunk/fileinstall/src/test/java/org/apache/felix/fileinstall/internal/BundleTransformerTest.java
+END
+UtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/949136/felix/trunk/fileinstall/src/test/java/org/apache/felix/fileinstall/internal/UtilTest.java
+END

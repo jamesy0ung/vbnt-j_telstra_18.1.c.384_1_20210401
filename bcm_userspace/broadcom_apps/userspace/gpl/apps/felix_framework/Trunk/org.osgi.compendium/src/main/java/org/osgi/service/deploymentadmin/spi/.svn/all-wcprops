@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/810058/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/deploymentadmin/spi
+END
+DeploymentSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/810058/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/deploymentadmin/spi/DeploymentSession.java
+END
+ResourceProcessorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/810058/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/deploymentadmin/spi/ResourceProcessorException.java
+END
+ResourceProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/810058/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/deploymentadmin/spi/ResourceProcessor.java
+END
+DeploymentCustomizerPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/deploymentadmin/spi/DeploymentCustomizerPermission.java
+END

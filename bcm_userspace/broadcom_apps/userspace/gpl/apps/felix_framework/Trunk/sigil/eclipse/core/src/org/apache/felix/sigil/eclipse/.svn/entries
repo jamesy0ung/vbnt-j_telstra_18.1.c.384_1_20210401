@@ -1,0 +1,83 @@
+10
+
+dir
+957403
+http://svn.apache.org/repos/asf/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse
+http://svn.apache.org/repos/asf
+
+
+
+2010-03-26T13:17:34.357921Z
+927834
+dsavage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+model
+dir
+
+SigilCore.java
+file
+
+
+
+
+2010-05-25T05:59:24.717346Z
+b9ba3c4542a314d7b242bf305aee09dc
+2010-03-08T15:44:07.670485Z
+920362
+dsavage
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20719
+
+preferences
+dir
+
+property
+dir
+
+install
+dir
+
+job
+dir
+
+internal
+dir
+
+nature
+dir
+

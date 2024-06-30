@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/950098/felix/trunk/shell/src/main/java/org/apache/felix/shell/impl
+END
+ResolveCommandImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/534951/felix/trunk/shell/src/main/java/org/apache/felix/shell/impl/ResolveCommandImpl.java
+END
+FindCommandImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/820292/felix/trunk/shell/src/main/java/org/apache/felix/shell/impl/FindCommandImpl.java
+END
+LogCommandImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/907001/felix/trunk/shell/src/main/java/org/apache/felix/shell/impl/LogCommandImpl.java
+END
+UpdateCommandImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/654601/felix/trunk/shell/src/main/java/org/apache/felix/shell/impl/UpdateCommandImpl.java
+END
+PsCommandImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/820292/felix/trunk/shell/src/main/java/org/apache/felix/shell/impl/PsCommandImpl.java
+END
+VersionCommandImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/821494/felix/trunk/shell/src/main/java/org/apache/felix/shell/impl/VersionCommandImpl.java
+END
+StopCommandImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/779753/felix/trunk/shell/src/main/java/org/apache/felix/shell/impl/StopCommandImpl.java
+END
+StartLevelCommandImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/534951/felix/trunk/shell/src/main/java/org/apache/felix/shell/impl/StartLevelCommandImpl.java
+END
+CdCommandImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/534951/felix/trunk/shell/src/main/java/org/apache/felix/shell/impl/CdCommandImpl.java
+END
+HelpCommandImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/774366/felix/trunk/shell/src/main/java/org/apache/felix/shell/impl/HelpCommandImpl.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/534951/felix/trunk/shell/src/main/java/org/apache/felix/shell/impl/Util.java
+END
+StartCommandImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/779753/felix/trunk/shell/src/main/java/org/apache/felix/shell/impl/StartCommandImpl.java
+END
+RefreshCommandImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/547339/felix/trunk/shell/src/main/java/org/apache/felix/shell/impl/RefreshCommandImpl.java
+END
+SystemPropertiesCommandImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/819869/felix/trunk/shell/src/main/java/org/apache/felix/shell/impl/SystemPropertiesCommandImpl.java
+END
+BundleLevelCommandImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/806244/felix/trunk/shell/src/main/java/org/apache/felix/shell/impl/BundleLevelCommandImpl.java
+END
+InspectCommandImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/802140/felix/trunk/shell/src/main/java/org/apache/felix/shell/impl/InspectCommandImpl.java
+END
+InstallCommandImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/654601/felix/trunk/shell/src/main/java/org/apache/felix/shell/impl/InstallCommandImpl.java
+END
+UninstallCommandImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/534951/felix/trunk/shell/src/main/java/org/apache/felix/shell/impl/UninstallCommandImpl.java
+END
+ShutdownCommandImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/534951/felix/trunk/shell/src/main/java/org/apache/felix/shell/impl/ShutdownCommandImpl.java
+END
+HeadersCommandImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/534951/felix/trunk/shell/src/main/java/org/apache/felix/shell/impl/HeadersCommandImpl.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/950098/felix/trunk/shell/src/main/java/org/apache/felix/shell/impl/Activator.java
+END
+LogOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/769156/felix/trunk/shell/src/main/java/org/apache/felix/shell/impl/LogOptions.java
+END

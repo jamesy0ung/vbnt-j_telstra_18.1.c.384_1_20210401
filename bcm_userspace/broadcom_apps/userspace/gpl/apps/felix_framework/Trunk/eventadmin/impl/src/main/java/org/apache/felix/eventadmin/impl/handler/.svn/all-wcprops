@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/905914/felix/trunk/eventadmin/impl/src/main/java/org/apache/felix/eventadmin/impl/handler
+END
+HandlerTasks.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/905914/felix/trunk/eventadmin/impl/src/main/java/org/apache/felix/eventadmin/impl/handler/HandlerTasks.java
+END
+TopicHandlerFilters.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/905914/felix/trunk/eventadmin/impl/src/main/java/org/apache/felix/eventadmin/impl/handler/TopicHandlerFilters.java
+END
+BlackList.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/548480/felix/trunk/eventadmin/impl/src/main/java/org/apache/felix/eventadmin/impl/handler/BlackList.java
+END
+Filters.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/905914/felix/trunk/eventadmin/impl/src/main/java/org/apache/felix/eventadmin/impl/handler/Filters.java
+END
+CacheTopicHandlerFilters.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/548480/felix/trunk/eventadmin/impl/src/main/java/org/apache/felix/eventadmin/impl/handler/CacheTopicHandlerFilters.java
+END
+BlacklistingHandlerTasks.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/567067/felix/trunk/eventadmin/impl/src/main/java/org/apache/felix/eventadmin/impl/handler/BlacklistingHandlerTasks.java
+END
+CleanBlackList.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/548480/felix/trunk/eventadmin/impl/src/main/java/org/apache/felix/eventadmin/impl/handler/CleanBlackList.java
+END
+CacheFilters.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/548480/felix/trunk/eventadmin/impl/src/main/java/org/apache/felix/eventadmin/impl/handler/CacheFilters.java
+END

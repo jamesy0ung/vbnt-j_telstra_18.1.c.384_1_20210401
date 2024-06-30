@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/797564/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/util/measurement
+END
+Unit.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/util/measurement/Unit.java
+END
+State.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/util/measurement/State.java
+END
+Measurement.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/util/measurement/Measurement.java
+END

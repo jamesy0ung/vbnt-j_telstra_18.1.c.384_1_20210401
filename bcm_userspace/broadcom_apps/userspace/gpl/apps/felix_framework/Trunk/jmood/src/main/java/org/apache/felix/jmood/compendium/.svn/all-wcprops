@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/577722/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/compendium
+END
+LogManagerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/compendium/LogManagerMBean.java
+END
+ConfigurationDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/compendium/ConfigurationDelegate.java
+END
+ConfigurationDelegateMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/compendium/ConfigurationDelegateMBean.java
+END
+ConfigAdminManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/577722/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/compendium/ConfigAdminManager.java
+END
+UserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/compendium/UserManager.java
+END
+ConfigAdminManagerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/compendium/ConfigAdminManagerMBean.java
+END
+LogManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/compendium/LogManager.java
+END
+UserManagerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/compendium/UserManagerMBean.java
+END

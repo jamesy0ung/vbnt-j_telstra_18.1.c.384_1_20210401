@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/918577/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/model/osgi
+END
+IPackageImport.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/820299/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/model/osgi/IPackageImport.java
+END
+IPackageModelElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/model/osgi/IPackageModelElement.java
+END
+IVersionedModelElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/model/osgi/IVersionedModelElement.java
+END
+IRequiredBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/820299/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/model/osgi/IRequiredBundle.java
+END
+IPackageExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/918577/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/model/osgi/IPackageExport.java
+END
+IVersionRangeModelElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/814023/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/model/osgi/IVersionRangeModelElement.java
+END
+IBundleModelElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/911063/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/model/osgi/IBundleModelElement.java
+END

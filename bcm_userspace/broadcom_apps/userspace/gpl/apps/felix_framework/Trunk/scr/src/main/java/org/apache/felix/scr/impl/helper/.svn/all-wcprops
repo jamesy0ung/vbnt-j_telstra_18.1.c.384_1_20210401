@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/949286/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/helper
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/830907/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/helper/Logger.java
+END
+UnbindMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/822285/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/helper/UnbindMethod.java
+END
+ActivateMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/830885/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/helper/ActivateMethod.java
+END
+ModifiedMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/822285/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/helper/ModifiedMethod.java
+END
+ReadOnlyDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/800243/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/helper/ReadOnlyDictionary.java
+END
+SuitableMethodNotAccessibleException.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/800267/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/helper/SuitableMethodNotAccessibleException.java
+END
+UpdatedMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/887877/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/helper/UpdatedMethod.java
+END
+DeactivateMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/822285/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/helper/DeactivateMethod.java
+END
+BaseMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/949286/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/helper/BaseMethod.java
+END
+BindMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/830907/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/helper/BindMethod.java
+END

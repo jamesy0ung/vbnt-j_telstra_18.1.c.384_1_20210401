@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/814549/felix/trunk/http/samples/bridge/src/main/java/org/apache/felix/http/samples/bridge
+END
+ProvisionActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/814549/felix/trunk/http/samples/bridge/src/main/java/org/apache/felix/http/samples/bridge/ProvisionActivator.java
+END
+StartupListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/814549/felix/trunk/http/samples/bridge/src/main/java/org/apache/felix/http/samples/bridge/StartupListener.java
+END
+FrameworkService.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/814549/felix/trunk/http/samples/bridge/src/main/java/org/apache/felix/http/samples/bridge/FrameworkService.java
+END

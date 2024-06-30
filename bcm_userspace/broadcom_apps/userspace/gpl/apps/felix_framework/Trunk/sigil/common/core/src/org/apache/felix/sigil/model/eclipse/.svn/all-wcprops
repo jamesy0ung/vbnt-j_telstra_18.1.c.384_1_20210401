@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/918577/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/model/eclipse
+END
+IBundleCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/918577/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/model/eclipse/IBundleCapability.java
+END
+ILibraryImport.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/814023/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/model/eclipse/ILibraryImport.java
+END
+ISigilBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/918577/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/model/eclipse/ISigilBundle.java
+END
+ILibrary.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/model/eclipse/ILibrary.java
+END

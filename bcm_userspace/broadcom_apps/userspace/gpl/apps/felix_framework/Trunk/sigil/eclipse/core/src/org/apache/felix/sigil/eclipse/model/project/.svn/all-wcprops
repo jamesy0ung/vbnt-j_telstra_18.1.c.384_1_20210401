@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/919635/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/model/project
+END
+ISigilModelRoot.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/918577/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/model/project/ISigilModelRoot.java
+END
+ISigilProjectModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/919635/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/model/project/ISigilProjectModel.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/asf/!svn/ver/906458/felix/trunk/sigil/bldcommon
+END
+common.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/830187/felix/trunk/sigil/bldcommon/common.xml
+END
+ivysettings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/906458/felix/trunk/sigil/bldcommon/ivysettings.xml
+END
+sigil-repos.properties
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/906452/felix/trunk/sigil/bldcommon/sigil-repos.properties
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/830187/felix/trunk/sigil/bldcommon/build.properties
+END
+updatesite.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/816684/felix/trunk/sigil/bldcommon/updatesite.groovy
+END

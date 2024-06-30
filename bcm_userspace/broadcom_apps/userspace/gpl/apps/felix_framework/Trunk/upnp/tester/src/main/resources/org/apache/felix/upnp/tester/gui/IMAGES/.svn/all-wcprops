@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/resources/org/apache/felix/upnp/tester/gui/IMAGES
+END
+SubscribedStateVariable.gif
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/resources/org/apache/felix/upnp/tester/gui/IMAGES/SubscribedStateVariable.gif
+END
+UPnPAction.gif
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/resources/org/apache/felix/upnp/tester/gui/IMAGES/UPnPAction.gif
+END
+logo.gif
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/resources/org/apache/felix/upnp/tester/gui/IMAGES/logo.gif
+END
+EventedStateVariable.gif
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/resources/org/apache/felix/upnp/tester/gui/IMAGES/EventedStateVariable.gif
+END
+UPnPService.gif
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/resources/org/apache/felix/upnp/tester/gui/IMAGES/UPnPService.gif
+END
+DeviceNode.gif
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/resources/org/apache/felix/upnp/tester/gui/IMAGES/DeviceNode.gif
+END
+AnimatedStateVariable.gif
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/resources/org/apache/felix/upnp/tester/gui/IMAGES/AnimatedStateVariable.gif
+END
+RootDeviceNode.gif
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/resources/org/apache/felix/upnp/tester/gui/IMAGES/RootDeviceNode.gif
+END
+UPnPStateVariable.gif
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/resources/org/apache/felix/upnp/tester/gui/IMAGES/UPnPStateVariable.gif
+END

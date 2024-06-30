@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/939968/felix/trunk/ipojo/tests/core/factory-version
+END
+cons.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/790900/felix/trunk/ipojo/tests/core/factory-version/cons.xml
+END
+vprovider-v1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/790900/felix/trunk/ipojo/tests/core/factory-version/vprovider-v1.xml
+END
+vprovider-v2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/790900/felix/trunk/ipojo/tests/core/factory-version/vprovider-v2.xml
+END
+instances.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/790900/felix/trunk/ipojo/tests/core/factory-version/instances.xml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/939968/felix/trunk/ipojo/tests/core/factory-version/pom.xml
+END
+provider-v1.1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/790900/felix/trunk/ipojo/tests/core/factory-version/provider-v1.1.xml
+END
+provider-v1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/790900/felix/trunk/ipojo/tests/core/factory-version/provider-v1.xml
+END

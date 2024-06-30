@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/883835/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/handlers/providedservice/strategy
+END
+ErrorPrintingServiceFactoryProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/883835/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/handlers/providedservice/strategy/ErrorPrintingServiceFactoryProxy.java
+END
+ServiceObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/883835/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/handlers/providedservice/strategy/ServiceObjectFactory.java
+END
+ConfigurableCreationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/883835/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/handlers/providedservice/strategy/ConfigurableCreationStrategy.java
+END

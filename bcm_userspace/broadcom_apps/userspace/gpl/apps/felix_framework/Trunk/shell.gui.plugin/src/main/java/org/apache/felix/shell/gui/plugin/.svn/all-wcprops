@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/534951/felix/trunk/shell.gui.plugin/src/main/java/org/apache/felix/shell/gui/plugin
+END
+OBRPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/534951/felix/trunk/shell.gui.plugin/src/main/java/org/apache/felix/shell/gui/plugin/OBRPlugin.java
+END
+BundleListPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/534951/felix/trunk/shell.gui.plugin/src/main/java/org/apache/felix/shell/gui/plugin/BundleListPlugin.java
+END
+OutputAreaStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/534951/felix/trunk/shell.gui.plugin/src/main/java/org/apache/felix/shell/gui/plugin/OutputAreaStream.java
+END
+ShellPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/534951/felix/trunk/shell.gui.plugin/src/main/java/org/apache/felix/shell/gui/plugin/ShellPlugin.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/534951/felix/trunk/shell.gui.plugin/src/main/java/org/apache/felix/shell/gui/plugin/Activator.java
+END
+ScrollableOutputArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/534951/felix/trunk/shell.gui.plugin/src/main/java/org/apache/felix/shell/gui/plugin/ScrollableOutputArea.java
+END

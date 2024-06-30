@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/933987/felix/trunk/ipojo/api/src/main/java/org/apache/felix/ipojo/api
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/933987/felix/trunk/ipojo/api/src/main/java/org/apache/felix/ipojo/api/Service.java
+END
+TemporalDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/766037/felix/trunk/ipojo/api/src/main/java/org/apache/felix/ipojo/api/TemporalDependency.java
+END
+ComponentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/766037/felix/trunk/ipojo/api/src/main/java/org/apache/felix/ipojo/api/ComponentType.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/742390/felix/trunk/ipojo/api/src/main/java/org/apache/felix/ipojo/api/Property.java
+END
+HandlerConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/766355/felix/trunk/ipojo/api/src/main/java/org/apache/felix/ipojo/api/HandlerConfiguration.java
+END
+ServiceProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/742390/felix/trunk/ipojo/api/src/main/java/org/apache/felix/ipojo/api/ServiceProperty.java
+END
+SingletonComponentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/766355/felix/trunk/ipojo/api/src/main/java/org/apache/felix/ipojo/api/SingletonComponentType.java
+END
+PrimitiveComponentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/933987/felix/trunk/ipojo/api/src/main/java/org/apache/felix/ipojo/api/PrimitiveComponentType.java
+END
+Dependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/api/src/main/java/org/apache/felix/ipojo/api/Dependency.java
+END

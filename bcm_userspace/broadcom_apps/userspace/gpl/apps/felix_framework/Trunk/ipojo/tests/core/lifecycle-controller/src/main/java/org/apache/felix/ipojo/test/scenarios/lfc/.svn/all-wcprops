@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/810057/felix/trunk/ipojo/tests/core/lifecycle-controller/src/main/java/org/apache/felix/ipojo/test/scenarios/lfc
+END
+ImmediateLifeCycleControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/728056/felix/trunk/ipojo/tests/core/lifecycle-controller/src/main/java/org/apache/felix/ipojo/test/scenarios/lfc/ImmediateLifeCycleControllerTest.java
+END
+LifeCycleControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/810057/felix/trunk/ipojo/tests/core/lifecycle-controller/src/main/java/org/apache/felix/ipojo/test/scenarios/lfc/LifeCycleControllerTest.java
+END
+LifeCycleControllerTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/lifecycle-controller/src/main/java/org/apache/felix/ipojo/test/scenarios/lfc/LifeCycleControllerTestSuite.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/930293/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/dependencies
+END
+ServiceDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/925673/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/dependencies/ServiceDependency.java
+END
+TemporalServiceDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/901427/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/dependencies/TemporalServiceDependency.java
+END
+PropertyMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/919881/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/dependencies/PropertyMetaData.java
+END
+ConfigurationDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/930293/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/dependencies/ConfigurationDependency.java
+END
+ResourceDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/925673/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/dependencies/ResourceDependency.java
+END
+BundleDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/930293/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/dependencies/BundleDependency.java
+END
+Dependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/889163/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/dependencies/Dependency.java
+END

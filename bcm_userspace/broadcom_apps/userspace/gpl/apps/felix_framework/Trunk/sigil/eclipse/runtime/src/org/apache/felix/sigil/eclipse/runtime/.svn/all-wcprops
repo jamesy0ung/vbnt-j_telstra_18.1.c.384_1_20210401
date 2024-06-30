@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/883335/felix/trunk/sigil/eclipse/runtime/src/org/apache/felix/sigil/eclipse/runtime
+END
+RuntimeBundleResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/883335/felix/trunk/sigil/eclipse/runtime/src/org/apache/felix/sigil/eclipse/runtime/RuntimeBundleResolver.java
+END
+OSGiLauncher.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/883335/felix/trunk/sigil/eclipse/runtime/src/org/apache/felix/sigil/eclipse/runtime/OSGiLauncher.java
+END
+LaunchHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/883335/felix/trunk/sigil/eclipse/runtime/src/org/apache/felix/sigil/eclipse/runtime/LaunchHelper.java
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/957381/felix/trunk/dependencymanager/runtime/src/main/java/org/apache/felix/dm/runtime
+END
+BundleAdapterServiceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/957379/felix/trunk/dependencymanager/runtime/src/main/java/org/apache/felix/dm/runtime/BundleAdapterServiceBuilder.java
+END
+ServiceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/957379/felix/trunk/dependencymanager/runtime/src/main/java/org/apache/felix/dm/runtime/ServiceBuilder.java
+END
+AspectServiceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/957379/felix/trunk/dependencymanager/runtime/src/main/java/org/apache/felix/dm/runtime/AspectServiceBuilder.java
+END
+InvocationUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/957381/felix/trunk/dependencymanager/runtime/src/main/java/org/apache/felix/dm/runtime/InvocationUtil.java
+END
+AdapterServiceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/957379/felix/trunk/dependencymanager/runtime/src/main/java/org/apache/felix/dm/runtime/AdapterServiceBuilder.java
+END
+JSONMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/947788/felix/trunk/dependencymanager/runtime/src/main/java/org/apache/felix/dm/runtime/JSONMetaData.java
+END
+DependencyManagerRuntime.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/953578/felix/trunk/dependencymanager/runtime/src/main/java/org/apache/felix/dm/runtime/DependencyManagerRuntime.java
+END
+ServiceLifecycleHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/957379/felix/trunk/dependencymanager/runtime/src/main/java/org/apache/felix/dm/runtime/ServiceLifecycleHandler.java
+END
+ResourceAdapterServiceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/957379/felix/trunk/dependencymanager/runtime/src/main/java/org/apache/felix/dm/runtime/ResourceAdapterServiceBuilder.java
+END
+MetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/953578/felix/trunk/dependencymanager/runtime/src/main/java/org/apache/felix/dm/runtime/MetaData.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/953578/felix/trunk/dependencymanager/runtime/src/main/java/org/apache/felix/dm/runtime/Log.java
+END
+Params.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/957379/felix/trunk/dependencymanager/runtime/src/main/java/org/apache/felix/dm/runtime/Params.java
+END
+DependencyBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/953578/felix/trunk/dependencymanager/runtime/src/main/java/org/apache/felix/dm/runtime/DependencyBuilder.java
+END
+FactoryConfigurationAdapterServiceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/957379/felix/trunk/dependencymanager/runtime/src/main/java/org/apache/felix/dm/runtime/FactoryConfigurationAdapterServiceBuilder.java
+END
+ServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/957379/felix/trunk/dependencymanager/runtime/src/main/java/org/apache/felix/dm/runtime/ServiceFactory.java
+END
+ServiceComponentBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/953669/felix/trunk/dependencymanager/runtime/src/main/java/org/apache/felix/dm/runtime/ServiceComponentBuilder.java
+END
+DescriptorParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/953578/felix/trunk/dependencymanager/runtime/src/main/java/org/apache/felix/dm/runtime/DescriptorParser.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/954301/felix/trunk/dependencymanager/runtime/src/main/java/org/apache/felix/dm/runtime/Activator.java
+END
+SerialExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/942913/felix/trunk/dependencymanager/runtime/src/main/java/org/apache/felix/dm/runtime/SerialExecutor.java
+END

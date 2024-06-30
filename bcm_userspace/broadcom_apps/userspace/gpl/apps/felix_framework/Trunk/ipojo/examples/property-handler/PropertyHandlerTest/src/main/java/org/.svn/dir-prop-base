@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 45
+target*
+.classpath*
+.setting*
+.project*
+bin*
+
+END

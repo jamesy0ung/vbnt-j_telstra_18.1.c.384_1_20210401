@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/693975/felix/trunk/upnp/samples/binarylight/src/main/java/org/apache/felix/upnp/sample/binaryLight
+END
+PresentationServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/binarylight/src/main/java/org/apache/felix/upnp/sample/binaryLight/PresentationServlet.java
+END
+LightUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/binarylight/src/main/java/org/apache/felix/upnp/sample/binaryLight/LightUI.java
+END
+LightModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/binarylight/src/main/java/org/apache/felix/upnp/sample/binaryLight/LightModel.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/693975/felix/trunk/upnp/samples/binarylight/src/main/java/org/apache/felix/upnp/sample/binaryLight/Activator.java
+END

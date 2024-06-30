@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/907758/felix/trunk/ipojo/tests/core/handler/src/test/java/org/apache/felix/ipojo/tests/core/handler
+END
+DummyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/907758/felix/trunk/ipojo/tests/core/handler/src/test/java/org/apache/felix/ipojo/tests/core/handler/DummyHandler.java
+END
+EmptyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/793287/felix/trunk/ipojo/tests/core/handler/src/test/java/org/apache/felix/ipojo/tests/core/handler/EmptyHandler.java
+END

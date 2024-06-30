@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/java/org/apache/felix/upnp/tester/gui
+END
+LogPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/java/org/apache/felix/upnp/tester/gui/LogPanel.java
+END
+TreeViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/java/org/apache/felix/upnp/tester/gui/TreeViewer.java
+END
+SubscriptionPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/java/org/apache/felix/upnp/tester/gui/SubscriptionPanel.java
+END
+UPnPDeviceTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/java/org/apache/felix/upnp/tester/gui/UPnPDeviceTreeNode.java
+END
+ActionPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/java/org/apache/felix/upnp/tester/gui/ActionPanel.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/java/org/apache/felix/upnp/tester/gui/Util.java
+END
+PropertiesViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/java/org/apache/felix/upnp/tester/gui/PropertiesViewer.java
+END

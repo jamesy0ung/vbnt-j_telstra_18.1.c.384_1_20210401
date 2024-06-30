@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/956519/felix/trunk/dependencymanager/samples.annotation
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/911592/felix/trunk/dependencymanager/samples.annotation/NOTICE
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/911592/felix/trunk/dependencymanager/samples.annotation/LICENSE
+END
+directives.bnd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/911592/felix/trunk/dependencymanager/samples.annotation/directives.bnd
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/956519/felix/trunk/dependencymanager/samples.annotation/pom.xml
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/956519/felix/trunk/dependencymanager/samples.annotation/README
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/948178/felix/trunk/dependencymanager/samples.annotation/build.xml
+END

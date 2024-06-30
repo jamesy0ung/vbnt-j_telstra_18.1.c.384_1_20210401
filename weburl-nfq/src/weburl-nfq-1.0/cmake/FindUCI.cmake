@@ -1,0 +1,33 @@
+#
+# - Find UCI
+# Find the native UCI includes and library
+#
+#  UCI_INCLUDE_DIRS - where to find uci.h, etc.
+#  UCI_LIBRARIES    - List of libraries when using UCI.
+#  UCI_FOUND        - True if UCI found.
+
+
+IF (UCI_INCLUDE_DIRS)
+  # Already in cache, be silent
+  SET(UCI_FIND_QUIETLY TRUE)
+ENDIF (UCI_INCLUDE_DIRS)
+
+FIND_PATH(UCI_INCLUDE_DIR uci.h)
+
+SET(UCI_NAMES uci)
+FIND_LIBRARY(UCI_LIBRARY NAMES ${UCI_NAMES} )
+
+# handle the QUIETLY and REQUIRED arguments and set UCI_FOUND to TRUE if 
+# all listed variables are TRUE
+INCLUDE(FindPackageHandleStandardArgs)
+FIND_PACKAGE_HANDLE_STANDARD_ARGS(UCI DEFAULT_MSG UCI_LIBRARY UCI_INCLUDE_DIR)
+
+IF(UCI_FOUND)
+  SET( UCI_LIBRARIES ${UCI_LIBRARY} )
+  SET( UCI_INCLUDE_DIRS ${UCI_INCLUDE_DIR} )
+ELSE(UCI_FOUND)
+  SET( UCI_LIBRARIES )
+  SET( UCI_INCLUDE_DIRS )
+ENDIF(UCI_FOUND)
+
+MARK_AS_ADVANCED( UCI_LIBRARIES UCI_INCLUDE_DIRS )

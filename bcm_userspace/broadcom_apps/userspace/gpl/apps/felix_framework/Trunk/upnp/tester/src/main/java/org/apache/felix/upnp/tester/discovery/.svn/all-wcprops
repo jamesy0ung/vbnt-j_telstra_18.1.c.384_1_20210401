@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/java/org/apache/felix/upnp/tester/discovery
+END
+DeviceNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/java/org/apache/felix/upnp/tester/discovery/DeviceNode.java
+END
+RootDeviceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/java/org/apache/felix/upnp/tester/discovery/RootDeviceListener.java
+END
+DeviceChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/java/org/apache/felix/upnp/tester/discovery/DeviceChangeListener.java
+END
+DeviceNodeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/java/org/apache/felix/upnp/tester/discovery/DeviceNodeListener.java
+END
+DriverProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/java/org/apache/felix/upnp/tester/discovery/DriverProxy.java
+END
+DevicesList.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/java/org/apache/felix/upnp/tester/discovery/DevicesList.java
+END

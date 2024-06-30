@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/926971/felix/trunk/scr/src/test/resources
+END
+components_duplicate_implementation_10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/799809/felix/trunk/scr/src/test/resources/components_duplicate_implementation_10.xml
+END
+components_duplicate_implementation_11.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/799809/felix/trunk/scr/src/test/resources/components_duplicate_implementation_11.xml
+END
+components_no_namespace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/805797/felix/trunk/scr/src/test/resources/components_no_namespace.xml
+END
+components_anonymous_10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/784693/felix/trunk/scr/src/test/resources/components_anonymous_10.xml
+END
+components_anonymous_11.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/784693/felix/trunk/scr/src/test/resources/components_anonymous_11.xml
+END
+components_duplicate_service_10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/799809/felix/trunk/scr/src/test/resources/components_duplicate_service_10.xml
+END
+integration_test_simple_components.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/926971/felix/trunk/scr/src/test/resources/integration_test_simple_components.xml
+END
+components_duplicate_service_11.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/799809/felix/trunk/scr/src/test/resources/components_duplicate_service_11.xml
+END
+components_all_elements_10.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/784693/felix/trunk/scr/src/test/resources/components_all_elements_10.properties
+END
+components_activate_10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/792486/felix/trunk/scr/src/test/resources/components_activate_10.xml
+END
+reference_anonymous_10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/784693/felix/trunk/scr/src/test/resources/reference_anonymous_10.xml
+END
+components_activate_11.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/792486/felix/trunk/scr/src/test/resources/components_activate_11.xml
+END
+reference_anonymous_11.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/784693/felix/trunk/scr/src/test/resources/reference_anonymous_11.xml
+END
+integration_test_signature_components.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/903598/felix/trunk/scr/src/test/resources/integration_test_signature_components.xml
+END
+integration_test_activation_components.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/822285/felix/trunk/scr/src/test/resources/integration_test_activation_components.xml
+END
+components_all_elements_10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/792486/felix/trunk/scr/src/test/resources/components_all_elements_10.xml
+END
+integration_test_simple_components_service_binding.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/890260/felix/trunk/scr/src/test/resources/integration_test_simple_components_service_binding.xml
+END

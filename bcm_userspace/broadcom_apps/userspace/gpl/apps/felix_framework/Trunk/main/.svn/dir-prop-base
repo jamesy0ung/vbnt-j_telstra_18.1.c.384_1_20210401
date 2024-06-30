@@ -1,0 +1,29 @@
+K 10
+svn:ignore
+V 197
+classes
+conf
+bin
+target
+*.log
+*.ipr
+*.iws
+*.iml
+lib
+bundle
+dist
+.project
+.classpath
+build
+.settings
+.wtpmodules
+.deployables
+nbproject
+
+*.patch
+.externalToolBuilders
+maven-eclipse.xml
+
+felix-cache
+
+END

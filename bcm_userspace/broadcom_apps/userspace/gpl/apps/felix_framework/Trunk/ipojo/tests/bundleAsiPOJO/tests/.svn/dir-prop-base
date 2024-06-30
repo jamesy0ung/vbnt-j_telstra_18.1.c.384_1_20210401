@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 61
+target
+.settings
+.classpath
+.project
+
+cons.jar
+
+provider.jar
+
+END

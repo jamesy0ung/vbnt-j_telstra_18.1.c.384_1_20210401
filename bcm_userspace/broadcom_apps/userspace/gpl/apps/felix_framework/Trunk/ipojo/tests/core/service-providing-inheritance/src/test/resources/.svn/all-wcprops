@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/833656/felix/trunk/ipojo/tests/core/service-providing-inheritance/src/test/resources
+END
+cons.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/833656/felix/trunk/ipojo/tests/core/service-providing-inheritance/src/test/resources/cons.xml
+END
+provider.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/833656/felix/trunk/ipojo/tests/core/service-providing-inheritance/src/test/resources/provider.xml
+END

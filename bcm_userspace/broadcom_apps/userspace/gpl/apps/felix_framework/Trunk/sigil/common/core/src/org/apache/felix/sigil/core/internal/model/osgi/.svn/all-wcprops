@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/918577/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/core/internal/model/osgi
+END
+BundleModelElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/917979/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/core/internal/model/osgi/BundleModelElement.java
+END
+PackageImport.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/918577/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/core/internal/model/osgi/PackageImport.java
+END
+RequiredBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/918577/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/core/internal/model/osgi/RequiredBundle.java
+END
+PackageExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/918577/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/core/internal/model/osgi/PackageExport.java
+END

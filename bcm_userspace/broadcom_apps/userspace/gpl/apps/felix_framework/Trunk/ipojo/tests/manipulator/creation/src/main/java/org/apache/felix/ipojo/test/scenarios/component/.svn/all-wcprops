@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/955965/felix/trunk/ipojo/tests/manipulator/creation/src/main/java/org/apache/felix/ipojo/test/scenarios/component
+END
+ParentClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/955965/felix/trunk/ipojo/tests/manipulator/creation/src/main/java/org/apache/felix/ipojo/test/scenarios/component/ParentClass.java
+END
+CallSuperConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/701978/felix/trunk/ipojo/tests/manipulator/creation/src/main/java/org/apache/felix/ipojo/test/scenarios/component/CallSuperConstructor.java
+END
+ParentClassWithBC.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/707613/felix/trunk/ipojo/tests/manipulator/creation/src/main/java/org/apache/felix/ipojo/test/scenarios/component/ParentClassWithBC.java
+END
+CallSuperConstructorWithBC.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/707613/felix/trunk/ipojo/tests/manipulator/creation/src/main/java/org/apache/felix/ipojo/test/scenarios/component/CallSuperConstructorWithBC.java
+END
+FooProviderType1.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/manipulator/creation/src/main/java/org/apache/felix/ipojo/test/scenarios/component/FooProviderType1.java
+END
+NoEmptyConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/762084/felix/trunk/ipojo/tests/manipulator/creation/src/main/java/org/apache/felix/ipojo/test/scenarios/component/NoEmptyConstructor.java
+END
+CallSuperConstructorWithNew.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/955965/felix/trunk/ipojo/tests/manipulator/creation/src/main/java/org/apache/felix/ipojo/test/scenarios/component/CallSuperConstructorWithNew.java
+END
+ASimpleParentClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/762084/felix/trunk/ipojo/tests/manipulator/creation/src/main/java/org/apache/felix/ipojo/test/scenarios/component/ASimpleParentClass.java
+END
+SeveralConstructors.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/749557/felix/trunk/ipojo/tests/manipulator/creation/src/main/java/org/apache/felix/ipojo/test/scenarios/component/SeveralConstructors.java
+END
+NoEmptyConstructorWithParentClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/762084/felix/trunk/ipojo/tests/manipulator/creation/src/main/java/org/apache/felix/ipojo/test/scenarios/component/NoEmptyConstructorWithParentClass.java
+END

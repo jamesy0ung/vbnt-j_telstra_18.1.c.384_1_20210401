@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/common/junit/src/org/apache/felix/sigil/junit/server/impl
+END
+JUnitServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/common/junit/src/org/apache/felix/sigil/junit/server/impl/JUnitServiceFactory.java
+END
+TestClassListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/common/junit/src/org/apache/felix/sigil/junit/server/impl/TestClassListener.java
+END
+JUnitServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/common/junit/src/org/apache/felix/sigil/junit/server/impl/JUnitServiceImpl.java
+END

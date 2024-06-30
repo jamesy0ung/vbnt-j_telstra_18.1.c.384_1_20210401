@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/810058/felix/trunk/org.osgi.compendium/src/main/java/info/dmtree/security
+END
+DmtPrincipalPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/info/dmtree/security/DmtPrincipalPermission.java
+END
+AlertPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/info/dmtree/security/AlertPermission.java
+END
+DmtPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/810058/felix/trunk/org.osgi.compendium/src/main/java/info/dmtree/security/DmtPermission.java
+END

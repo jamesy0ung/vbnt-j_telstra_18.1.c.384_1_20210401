@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/797564/felix/trunk/org.osgi.compendium/src/main/java/info/dmtree/spi
+END
+TransactionalDataSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/info/dmtree/spi/TransactionalDataSession.java
+END
+ExecPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/info/dmtree/spi/ExecPlugin.java
+END
+ReadWriteDataSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/info/dmtree/spi/ReadWriteDataSession.java
+END
+DataPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/info/dmtree/spi/DataPlugin.java
+END
+ReadableDataSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/info/dmtree/spi/ReadableDataSession.java
+END

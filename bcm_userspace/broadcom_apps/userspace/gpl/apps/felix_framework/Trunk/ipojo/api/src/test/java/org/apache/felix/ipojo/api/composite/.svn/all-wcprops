@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/766355/felix/trunk/ipojo/api/src/test/java/org/apache/felix/ipojo/api/composite
+END
+ImportedServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/766355/felix/trunk/ipojo/api/src/test/java/org/apache/felix/ipojo/api/composite/ImportedServiceTest.java
+END
+InstanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/766355/felix/trunk/ipojo/api/src/test/java/org/apache/felix/ipojo/api/composite/InstanceTest.java
+END
+InstantiatedServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/766355/felix/trunk/ipojo/api/src/test/java/org/apache/felix/ipojo/api/composite/InstantiatedServiceTest.java
+END
+ExportedServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/766355/felix/trunk/ipojo/api/src/test/java/org/apache/felix/ipojo/api/composite/ExportedServiceTest.java
+END

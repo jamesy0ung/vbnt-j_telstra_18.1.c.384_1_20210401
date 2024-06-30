@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j
+END
+MX4JSystemKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/MX4JSystemKeys.java
+END
+ImplementationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/ImplementationException.java
+END
+MBeanDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/MBeanDescription.java
+END
+MBeanDescriptionAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/MBeanDescriptionAdapter.java
+END
+AbstractDynamicMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/AbstractDynamicMBean.java
+END

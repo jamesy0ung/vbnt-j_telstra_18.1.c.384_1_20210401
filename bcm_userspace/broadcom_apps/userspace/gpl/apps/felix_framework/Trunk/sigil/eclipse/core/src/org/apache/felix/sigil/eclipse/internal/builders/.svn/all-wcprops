@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/882469/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/internal/builders
+END
+BuildConsole.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/internal/builders/BuildConsole.java
+END
+SigilIncrementalProjectBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/882469/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/internal/builders/SigilIncrementalProjectBuilder.java
+END

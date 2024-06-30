@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/953295/felix/trunk/karaf/shell/commands/src/test/java/org/apache/felix/karaf/shell/commands
+END
+SortTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/commands/src/test/java/org/apache/felix/karaf/shell/commands/SortTest.java
+END
+GrepTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/953295/felix/trunk/karaf/shell/commands/src/test/java/org/apache/felix/karaf/shell/commands/GrepTest.java
+END

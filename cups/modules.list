@@ -1,0 +1,9 @@
+[
+    "cups",
+    "cups-client",
+    "libcups",
+    "libcupscgi",
+    "libcupsimage",
+    "libcupsmime",
+    "libcupsppdc"
+]

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/parser
+END
+MethodMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/parser/MethodMetadata.java
+END
+FieldMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/701012/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/parser/FieldMetadata.java
+END
+ManifestMetadataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/791729/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/parser/ManifestMetadataParser.java
+END
+PojoMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/708492/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/parser/PojoMetadata.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/701012/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/parser/ParseException.java
+END
+ParseUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/701012/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/parser/ParseUtils.java
+END

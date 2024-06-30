@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/887538/felix/trunk/karaf/shell/dev/src/test/java/org/apache/felix/karaf/shell/dev/framework
+END
+FelixTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/887538/felix/trunk/karaf/shell/dev/src/test/java/org/apache/felix/karaf/shell/dev/framework/FelixTest.java
+END
+EquinoxTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/887538/felix/trunk/karaf/shell/dev/src/test/java/org/apache/felix/karaf/shell/dev/framework/EquinoxTest.java
+END

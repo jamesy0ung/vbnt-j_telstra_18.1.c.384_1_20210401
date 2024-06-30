@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/760349/felix/trunk/fileinstall/src/test/resources/watched
+END
+firstjar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/749327/felix/trunk/fileinstall/src/test/resources/watched/firstjar.jar
+END
+secondjar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/749327/felix/trunk/fileinstall/src/test/resources/watched/secondjar.jar
+END
+firstcfg.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/760349/felix/trunk/fileinstall/src/test/resources/watched/firstcfg.cfg
+END

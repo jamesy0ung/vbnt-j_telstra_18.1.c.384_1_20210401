@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/asf/!svn/ver/935913/felix/trunk/sigil
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/asf/!svn/ver/794420/felix/trunk/sigil/LICENSE
+END
+sigil-defaults.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/906458/felix/trunk/sigil/sigil-defaults.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/asf/!svn/ver/906460/felix/trunk/sigil/build.xml
+END

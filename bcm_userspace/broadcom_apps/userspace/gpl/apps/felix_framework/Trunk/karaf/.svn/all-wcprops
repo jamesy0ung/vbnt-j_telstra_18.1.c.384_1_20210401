@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/asf/!svn/ver/957319/felix/trunk/karaf
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/asf/!svn/ver/944264/felix/trunk/karaf/NOTICE
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/LICENSE
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/asf/!svn/ver/784941/felix/trunk/karaf/.gitignore
+END
+RELEASE-NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/asf/!svn/ver/884784/felix/trunk/karaf/RELEASE-NOTES
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/asf/!svn/ver/957317/felix/trunk/karaf/pom.xml
+END
+BUILDING
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/BUILDING
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/asf/!svn/ver/884784/felix/trunk/karaf/README
+END

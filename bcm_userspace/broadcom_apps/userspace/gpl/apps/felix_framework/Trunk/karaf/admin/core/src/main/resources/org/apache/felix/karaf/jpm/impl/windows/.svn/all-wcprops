@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/828802/felix/trunk/karaf/admin/core/src/main/resources/org/apache/felix/karaf/jpm/impl/windows
+END
+destroy.vbs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/828802/felix/trunk/karaf/admin/core/src/main/resources/org/apache/felix/karaf/jpm/impl/windows/destroy.vbs
+END
+start.vbs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/828802/felix/trunk/karaf/admin/core/src/main/resources/org/apache/felix/karaf/jpm/impl/windows/start.vbs
+END
+running.vbs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/828802/felix/trunk/karaf/admin/core/src/main/resources/org/apache/felix/karaf/jpm/impl/windows/running.vbs
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/796367/felix/trunk/sigil/eclipse/core/schema
+END
+org.apache.felix.sigil.installbuilder.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/796367/felix/trunk/sigil/eclipse/core/schema/org.apache.felix.sigil.installbuilder.exsd
+END
+org.apache.felix.sigil.repositoryprovider.exsd
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/796367/felix/trunk/sigil/eclipse/core/schema/org.apache.felix.sigil.repositoryprovider.exsd
+END

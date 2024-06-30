@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/asf/!svn/ver/957272/felix/trunk/gogo/command
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/asf/!svn/ver/952234/felix/trunk/gogo/command/NOTICE
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/949256/felix/trunk/gogo/command/LICENSE
+END
+DEPENDENCIES
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/952234/felix/trunk/gogo/command/DEPENDENCIES
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/952331/felix/trunk/gogo/command/pom.xml
+END

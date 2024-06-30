@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/548480/felix/trunk/eventadmin/bridge.configuration/src/main/java/org/apache/felix/eventadmin/bridge/configuration
+END
+ConfigurationEventToEventAdminBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/548480/felix/trunk/eventadmin/bridge.configuration/src/main/java/org/apache/felix/eventadmin/bridge/configuration/ConfigurationEventToEventAdminBridge.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/548480/felix/trunk/eventadmin/bridge.configuration/src/main/java/org/apache/felix/eventadmin/bridge/configuration/Activator.java
+END

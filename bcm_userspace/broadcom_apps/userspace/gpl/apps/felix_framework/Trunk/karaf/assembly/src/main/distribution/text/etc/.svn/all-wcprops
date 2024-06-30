@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/939711/felix/trunk/karaf/assembly/src/main/distribution/text/etc
+END
+org.ops4j.pax.logging.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/939711/felix/trunk/karaf/assembly/src/main/distribution/text/etc/org.ops4j.pax.logging.cfg
+END
+system.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/906400/felix/trunk/karaf/assembly/src/main/distribution/text/etc/system.properties
+END
+org.apache.felix.karaf.shell.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/939592/felix/trunk/karaf/assembly/src/main/distribution/text/etc/org.apache.felix.karaf.shell.cfg
+END
+org.apache.felix.karaf.management.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/827426/felix/trunk/karaf/assembly/src/main/distribution/text/etc/org.apache.felix.karaf.management.cfg
+END
+org.apache.felix.fileinstall-deploy.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/809481/felix/trunk/karaf/assembly/src/main/distribution/text/etc/org.apache.felix.fileinstall-deploy.cfg
+END
+org.ops4j.pax.url.mvn.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/822663/felix/trunk/karaf/assembly/src/main/distribution/text/etc/org.ops4j.pax.url.mvn.cfg
+END
+shell.init.script
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/826748/felix/trunk/karaf/assembly/src/main/distribution/text/etc/shell.init.script
+END
+users.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/771018/felix/trunk/karaf/assembly/src/main/distribution/text/etc/users.properties
+END
+java.util.logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/768912/felix/trunk/karaf/assembly/src/main/distribution/text/etc/java.util.logging.properties
+END
+org.apache.felix.karaf.log.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/783274/felix/trunk/karaf/assembly/src/main/distribution/text/etc/org.apache.felix.karaf.log.cfg
+END

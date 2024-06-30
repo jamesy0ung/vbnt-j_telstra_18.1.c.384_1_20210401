@@ -1,0 +1,4 @@
+Source: zlib-1.2.11.tar.xz
+Source-Url: @SF/libpng http://www.zlib.net
+Source-Version: 
+Source-Proto: 

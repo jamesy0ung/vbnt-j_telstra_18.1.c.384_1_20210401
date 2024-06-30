@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/wrapper/src/main/resources/org/apache/felix/karaf/shell/wrapper/macosx
+END
+karaf-wrapper
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/wrapper/src/main/resources/org/apache/felix/karaf/shell/wrapper/macosx/karaf-wrapper
+END
+libwrapper.jnilib
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/wrapper/src/main/resources/org/apache/felix/karaf/shell/wrapper/macosx/libwrapper.jnilib
+END

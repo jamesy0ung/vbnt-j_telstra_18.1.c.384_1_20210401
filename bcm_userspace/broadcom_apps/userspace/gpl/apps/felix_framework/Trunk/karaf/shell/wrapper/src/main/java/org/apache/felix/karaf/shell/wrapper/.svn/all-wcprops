@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/818847/felix/trunk/karaf/shell/wrapper/src/main/java/org/apache/felix/karaf/shell/wrapper
+END
+StreamPumper.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/wrapper/src/main/java/org/apache/felix/karaf/shell/wrapper/StreamPumper.java
+END
+InstallCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/818847/felix/trunk/karaf/shell/wrapper/src/main/java/org/apache/felix/karaf/shell/wrapper/InstallCommand.java
+END
+PumpStreamHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/wrapper/src/main/java/org/apache/felix/karaf/shell/wrapper/PumpStreamHandler.java
+END

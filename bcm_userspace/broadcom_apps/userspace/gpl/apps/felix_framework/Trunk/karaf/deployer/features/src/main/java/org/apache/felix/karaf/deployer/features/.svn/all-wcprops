@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/953156/felix/trunk/karaf/deployer/features/src/main/java/org/apache/felix/karaf/deployer/features
+END
+FeatureDeploymentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/953156/felix/trunk/karaf/deployer/features/src/main/java/org/apache/felix/karaf/deployer/features/FeatureDeploymentListener.java
+END
+FeatureURLHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/917379/felix/trunk/karaf/deployer/features/src/main/java/org/apache/felix/karaf/deployer/features/FeatureURLHandler.java
+END
+FeatureTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/826649/felix/trunk/karaf/deployer/features/src/main/java/org/apache/felix/karaf/deployer/features/FeatureTransformer.java
+END

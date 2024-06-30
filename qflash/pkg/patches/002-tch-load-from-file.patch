@@ -1,0 +1,17 @@
+--- a/fastboot/fastboot.c
++++ b/fastboot/fastboot.c
+@@ -141,13 +141,7 @@ void *load_file(const char *fn, unsigned *_sz, int *out_fd)
+ 
+     if(lseek(fd, 0, SEEK_SET) != 0) goto oops;
+ 
+-	if(RAM_FIXED_VALUE > get_total_ram())
+-	{
+-		printf("Small memory, use file descriptor.\n");
+-		data = 0;
+-	}else{		
+-    	data = (char*) malloc(sz);
+-    }
++    data = 0;
+ 
+ #if 0	//for test
+ 	if(data)

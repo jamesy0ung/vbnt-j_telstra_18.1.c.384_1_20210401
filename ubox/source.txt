@@ -1,0 +1,4 @@
+Source: ubox-2016-11-06-2c0d9cfe05e9712d44622c6bb4558e97359bfb76.tar.gz
+Source-Url: http://git.openwrt.org/project/ubox.git
+Source-Version: 2c0d9cfe05e9712d44622c6bb4558e97359bfb76
+Source-Proto: 

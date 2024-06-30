@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/744039/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/component/inherited
+END
+ProcessImplementation1.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/component/inherited/ProcessImplementation1.java
+END
+ProcessImplementation2.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/component/inherited/ProcessImplementation2.java
+END
+ProcessImplementation3.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/component/inherited/ProcessImplementation3.java
+END
+ProcessImplementation4.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/744039/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/component/inherited/ProcessImplementation4.java
+END
+ProcessParentImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/component/inherited/ProcessParentImplementation.java
+END

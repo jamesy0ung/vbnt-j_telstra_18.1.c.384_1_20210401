@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/766037/felix/trunk/ipojo/tests/api/src/test/java/org/example/service
+END
+Foo.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/765176/felix/trunk/ipojo/tests/api/src/test/java/org/example/service/Foo.java
+END
+BarService.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/765176/felix/trunk/ipojo/tests/api/src/test/java/org/example/service/BarService.java
+END
+MyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/765176/felix/trunk/ipojo/tests/api/src/test/java/org/example/service/MyService.java
+END

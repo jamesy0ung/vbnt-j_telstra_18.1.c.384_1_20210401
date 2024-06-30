@@ -1,0 +1,4 @@
+Source: jpegsrc.v9a.tar.gz
+Source-Url: http://www.ijg.org/files
+Source-Version: 
+Source-Proto: 

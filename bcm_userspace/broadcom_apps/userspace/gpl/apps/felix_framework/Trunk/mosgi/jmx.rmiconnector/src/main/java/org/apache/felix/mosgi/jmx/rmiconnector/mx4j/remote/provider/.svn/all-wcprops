@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/provider
+END
+RMIClientProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/provider/RMIClientProvider.java
+END
+RMIServerProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/provider/RMIServerProvider.java
+END

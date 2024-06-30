@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/668577/felix/trunk/mosgi/console.gui/src/main/resources/images
+END
+REMOVE.gif
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/668577/felix/trunk/mosgi/console.gui/src/main/resources/images/REMOVE.gif
+END
+REFRESH.gif
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/668577/felix/trunk/mosgi/console.gui/src/main/resources/images/REFRESH.gif
+END
+logo.gif
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/console.gui/src/main/resources/images/logo.gif
+END
+GraphSettings.gif
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/console.gui/src/main/resources/images/GraphSettings.gif
+END
+ServerRunning.gif
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/console.gui/src/main/resources/images/ServerRunning.gif
+END
+ADD.gif
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/668577/felix/trunk/mosgi/console.gui/src/main/resources/images/ADD.gif
+END
+ServerBlocked.gif
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/console.gui/src/main/resources/images/ServerBlocked.gif
+END

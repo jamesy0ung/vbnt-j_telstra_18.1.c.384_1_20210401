@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/797564/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/upnp
+END
+UPnPAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/upnp/UPnPAction.java
+END
+UPnPException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/upnp/UPnPException.java
+END
+UPnPDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/upnp/UPnPDevice.java
+END
+UPnPService.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/upnp/UPnPService.java
+END
+UPnPLocalStateVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/upnp/UPnPLocalStateVariable.java
+END
+UPnPStateVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/upnp/UPnPStateVariable.java
+END
+UPnPEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/upnp/UPnPEventListener.java
+END
+UPnPIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/upnp/UPnPIcon.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/proxy
+END
+Helper.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/proxy/Helper.java
+END
+CheckServiceDelegator.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/proxy/CheckServiceDelegator.java
+END
+CheckServiceNoDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/proxy/CheckServiceNoDelegate.java
+END
+CheckServiceGetAndDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/proxy/CheckServiceGetAndDelegate.java
+END

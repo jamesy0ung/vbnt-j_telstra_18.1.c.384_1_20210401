@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/810058/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/container
+END
+NoSuchComponentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/container/NoSuchComponentException.java
+END
+ServiceUnavailableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/container/ServiceUnavailableException.java
+END
+BlueprintEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/810058/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/container/BlueprintEvent.java
+END
+BlueprintContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/container/BlueprintContainer.java
+END
+Converter.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/container/Converter.java
+END
+ReifiedType.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/container/ReifiedType.java
+END
+BlueprintListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/container/BlueprintListener.java
+END
+ComponentDefinitionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/container/ComponentDefinitionException.java
+END
+EventConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/container/EventConstants.java
+END

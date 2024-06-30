@@ -1,0 +1,4 @@
+Source: multimon-ng-1.1.4-9548e270956fd7a23fba356e14e6a02ba769a0f1.tar.gz
+Source-Url: https://github.com/EliasOenal/multimon-ng.git
+Source-Version: 9548e270956fd7a23fba356e14e6a02ba769a0f1
+Source-Proto: 

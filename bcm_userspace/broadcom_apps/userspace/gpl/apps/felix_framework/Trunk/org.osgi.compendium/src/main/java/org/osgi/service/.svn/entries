@@ -1,0 +1,79 @@
+10
+
+dir
+957403
+http://svn.apache.org/repos/asf/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service
+http://svn.apache.org/repos/asf
+
+
+
+2009-09-01T13:57:57.141193Z
+810058
+rickhall
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+prefs
+dir
+
+http
+dir
+
+wireadmin
+dir
+
+log
+dir
+
+event
+dir
+
+upnp
+dir
+
+provisioning
+dir
+
+useradmin
+dir
+
+monitor
+dir
+
+metatype
+dir
+
+deploymentadmin
+dir
+
+device
+dir
+
+cm
+dir
+
+component
+dir
+
+application
+dir
+
+blueprint
+dir
+
+io
+dir
+

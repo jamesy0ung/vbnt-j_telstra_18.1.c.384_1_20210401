@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/acl
+END
+Acl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/acl/Acl.java
+END
+AclEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/acl/AclEntry.java
+END
+Permission.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/acl/Permission.java
+END
+NotOwnerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/acl/NotOwnerException.java
+END
+Owner.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/acl/Owner.java
+END
+AclNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/acl/AclNotFoundException.java
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/acl/Group.java
+END
+LastOwnerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/acl/LastOwnerException.java
+END

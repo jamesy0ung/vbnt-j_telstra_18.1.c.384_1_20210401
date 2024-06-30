@@ -1,0 +1,4 @@
+Source: iptables-1.6.1.tar.bz2
+Source-Url: https://git.netfilter.org/iptables
+Source-Version: 7df66f1c13563cfbab75246b009ce36f69ee4487
+Source-Proto: 

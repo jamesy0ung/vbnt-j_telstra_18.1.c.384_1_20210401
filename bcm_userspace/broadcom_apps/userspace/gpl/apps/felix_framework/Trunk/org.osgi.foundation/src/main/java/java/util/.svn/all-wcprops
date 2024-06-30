@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util
+END
+Locale.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/Locale.java
+END
+HashSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/HashSet.java
+END
+Arrays.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/Arrays.java
+END
+StringTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/StringTokenizer.java
+END
+EmptyStackException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/EmptyStackException.java
+END
+TimerTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/TimerTask.java
+END
+GregorianCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/GregorianCalendar.java
+END
+Comparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/Comparator.java
+END
+EventObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/EventObject.java
+END
+ArrayList.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/ArrayList.java
+END
+List.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/List.java
+END
+TreeSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/TreeSet.java
+END
+SortedSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/SortedSet.java
+END
+Map.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/Map.java
+END
+ListResourceBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/ListResourceBundle.java
+END
+Date.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/Date.java
+END
+Collections.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/Collections.java
+END
+AbstractCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/AbstractCollection.java
+END
+ResourceBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/ResourceBundle.java
+END
+Observable.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/Observable.java
+END
+ListIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/ListIterator.java
+END
+PropertyResourceBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/PropertyResourceBundle.java
+END
+NoSuchElementException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/NoSuchElementException.java
+END
+Iterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/Iterator.java
+END
+AbstractSequentialList.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/AbstractSequentialList.java
+END
+BitSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/BitSet.java
+END
+Hashtable.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/Hashtable.java
+END
+Set.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/Set.java
+END
+TooManyListenersException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/TooManyListenersException.java
+END
+AbstractList.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/AbstractList.java
+END
+MissingResourceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/MissingResourceException.java
+END
+AbstractMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/AbstractMap.java
+END
+LinkedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/LinkedList.java
+END
+Vector.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/Vector.java
+END
+SimpleTimeZone.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/SimpleTimeZone.java
+END
+Dictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/Dictionary.java
+END
+Stack.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/Stack.java
+END
+Calendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/Calendar.java
+END
+AbstractSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/AbstractSet.java
+END
+Random.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/Random.java
+END
+Timer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/Timer.java
+END
+HashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/HashMap.java
+END
+Enumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/Enumeration.java
+END
+EventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/EventListener.java
+END
+ConcurrentModificationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/ConcurrentModificationException.java
+END
+Observer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/Observer.java
+END
+WeakHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/WeakHashMap.java
+END
+TimeZone.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/TimeZone.java
+END
+Collection.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/Collection.java
+END
+Properties.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/Properties.java
+END
+PropertyPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/PropertyPermission.java
+END
+TreeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/TreeMap.java
+END
+SortedMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/SortedMap.java
+END

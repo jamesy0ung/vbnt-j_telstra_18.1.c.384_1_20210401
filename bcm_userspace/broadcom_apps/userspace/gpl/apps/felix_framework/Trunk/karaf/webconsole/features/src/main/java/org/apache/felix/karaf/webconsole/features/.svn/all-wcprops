@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/904011/felix/trunk/karaf/webconsole/features/src/main/java/org/apache/felix/karaf/webconsole/features
+END
+ExtendedFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/803273/felix/trunk/karaf/webconsole/features/src/main/java/org/apache/felix/karaf/webconsole/features/ExtendedFeature.java
+END
+FeaturesPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/904011/felix/trunk/karaf/webconsole/features/src/main/java/org/apache/felix/karaf/webconsole/features/FeaturesPlugin.java
+END

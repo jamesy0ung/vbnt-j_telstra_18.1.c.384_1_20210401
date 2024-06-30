@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/956996/felix/trunk/ipojo/handler/temporal/src/main/java/org/apache/felix/ipojo/handler/temporal
+END
+TemporalHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/956996/felix/trunk/ipojo/handler/temporal/src/main/java/org/apache/felix/ipojo/handler/temporal/TemporalHandler.java
+END
+TemporalDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/handler/temporal/src/main/java/org/apache/felix/ipojo/handler/temporal/TemporalDependency.java
+END
+ServiceUsage.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/735632/felix/trunk/ipojo/handler/temporal/src/main/java/org/apache/felix/ipojo/handler/temporal/ServiceUsage.java
+END
+ProxyGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/735632/felix/trunk/ipojo/handler/temporal/src/main/java/org/apache/felix/ipojo/handler/temporal/ProxyGenerator.java
+END
+ServiceCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/728714/felix/trunk/ipojo/handler/temporal/src/main/java/org/apache/felix/ipojo/handler/temporal/ServiceCollection.java
+END

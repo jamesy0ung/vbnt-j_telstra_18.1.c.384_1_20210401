@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/919371/felix/trunk/sigil/common/osgi.test
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/919371/felix/trunk/sigil/common/osgi.test/.classpath
+END
+sigil.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/919371/felix/trunk/sigil/common/osgi.test/sigil.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/919371/felix/trunk/sigil/common/osgi.test/.project
+END

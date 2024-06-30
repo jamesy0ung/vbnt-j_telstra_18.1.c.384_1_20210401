@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/881059/felix/trunk/http/whiteboard/src/main/java/org/apache/felix/http/whiteboard/internal/manager
+END
+AbstractMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/814549/felix/trunk/http/whiteboard/src/main/java/org/apache/felix/http/whiteboard/internal/manager/AbstractMapping.java
+END
+HttpContextManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/818555/felix/trunk/http/whiteboard/src/main/java/org/apache/felix/http/whiteboard/internal/manager/HttpContextManager.java
+END
+ServletMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/818555/felix/trunk/http/whiteboard/src/main/java/org/apache/felix/http/whiteboard/internal/manager/ServletMapping.java
+END
+FilterMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/818555/felix/trunk/http/whiteboard/src/main/java/org/apache/felix/http/whiteboard/internal/manager/FilterMapping.java
+END
+DefaultHttpContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/814549/felix/trunk/http/whiteboard/src/main/java/org/apache/felix/http/whiteboard/internal/manager/DefaultHttpContext.java
+END
+ExtenderManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/814549/felix/trunk/http/whiteboard/src/main/java/org/apache/felix/http/whiteboard/internal/manager/ExtenderManager.java
+END
+ExtenderManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/881059/felix/trunk/http/whiteboard/src/main/java/org/apache/felix/http/whiteboard/internal/manager/ExtenderManagerImpl.java
+END

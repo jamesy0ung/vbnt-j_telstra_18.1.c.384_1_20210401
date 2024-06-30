@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/887538/felix/trunk/karaf/shell/dev/src/test/resources/org/apache/felix/karaf/shell/dev/framework
+END
+config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/887538/felix/trunk/karaf/shell/dev/src/test/resources/org/apache/felix/karaf/shell/dev/framework/config.properties
+END
+enabled-config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/887538/felix/trunk/karaf/shell/dev/src/test/resources/org/apache/felix/karaf/shell/dev/framework/enabled-config.properties
+END

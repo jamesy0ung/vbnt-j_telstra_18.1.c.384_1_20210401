@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/818555/felix/trunk/http/base/src/main/java/org/apache/felix/http/base/internal/service
+END
+HttpServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/818555/felix/trunk/http/base/src/main/java/org/apache/felix/http/base/internal/service/HttpServiceImpl.java
+END
+HttpServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/818555/felix/trunk/http/base/src/main/java/org/apache/felix/http/base/internal/service/HttpServiceFactory.java
+END
+DefaultHttpContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/814549/felix/trunk/http/base/src/main/java/org/apache/felix/http/base/internal/service/DefaultHttpContext.java
+END
+ResourceServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/814549/felix/trunk/http/base/src/main/java/org/apache/felix/http/base/internal/service/ResourceServlet.java
+END

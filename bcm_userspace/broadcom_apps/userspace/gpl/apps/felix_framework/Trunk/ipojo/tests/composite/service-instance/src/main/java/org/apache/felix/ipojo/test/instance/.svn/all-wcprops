@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/703957/felix/trunk/ipojo/tests/composite/service-instance/src/main/java/org/apache/felix/ipojo/test/instance
+END
+ServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/703957/felix/trunk/ipojo/tests/composite/service-instance/src/main/java/org/apache/felix/ipojo/test/instance/ServiceProvider.java
+END
+ServiceConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/703957/felix/trunk/ipojo/tests/composite/service-instance/src/main/java/org/apache/felix/ipojo/test/instance/ServiceConsumer.java
+END

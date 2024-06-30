@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/912215/felix/trunk/karaf/jaas/config/src/main/java/org/apache/felix/karaf/jaas/config/impl
+END
+OsgiKeystoreManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/jaas/config/src/main/java/org/apache/felix/karaf/jaas/config/impl/OsgiKeystoreManager.java
+END
+ResourceKeystoreInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/jaas/config/src/main/java/org/apache/felix/karaf/jaas/config/impl/ResourceKeystoreInstance.java
+END
+ProxyLoginModuleInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/jaas/config/src/main/java/org/apache/felix/karaf/jaas/config/impl/ProxyLoginModuleInitializer.java
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/jaas/config/src/main/java/org/apache/felix/karaf/jaas/config/impl/Config.java
+END
+Module.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/jaas/config/src/main/java/org/apache/felix/karaf/jaas/config/impl/Module.java
+END
+OsgiConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/jaas/config/src/main/java/org/apache/felix/karaf/jaas/config/impl/OsgiConfiguration.java
+END
+NamespaceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/912215/felix/trunk/karaf/jaas/config/src/main/java/org/apache/felix/karaf/jaas/config/impl/NamespaceHandler.java
+END

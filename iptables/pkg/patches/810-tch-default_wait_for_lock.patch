@@ -1,0 +1,56 @@
+--- a/iptables/iptables.c
++++ b/iptables/iptables.c
+@@ -256,7 +256,7 @@ exit_printhelp(const struct xtables_rule
+ "				network interface name ([+] for wildcard)\n"
+ "  --table	-t table	table to manipulate (default: `filter')\n"
+ "  --verbose	-v		verbose mode\n"
+-"  --wait	-w [seconds]	maximum wait to acquire xtables lock before give up\n"
++"  --wait	-w [seconds]	maximum wait to acquire xtables lock before give up (default infinite)\n"
+ "  --wait-interval -W [usecs]	wait time to try to acquire xtables lock\n"
+ "				default is 1 second\n"
+ "  --line-numbers		print line numbers when listing\n"
+@@ -1336,7 +1336,7 @@ int do_command4(int argc, char *argv[],
+ 	};
+ 	bool wait_interval_set = false;
+ 	int verbose = 0;
+-	int wait = 0;
++	int wait = -1;
+ 	const char *chain = NULL;
+ 	const char *shostnetworkmask = NULL, *dhostnetworkmask = NULL;
+ 	const char *policy = NULL, *newname = NULL;
+@@ -1613,7 +1613,6 @@ int do_command4(int argc, char *argv[],
+ 					      "You cannot use `-w' from "
+ 					      "iptables-restore");
+ 			}
+-			wait = -1;
+ 			if (optarg) {
+ 				if (sscanf(optarg, "%i", &wait) != 1)
+ 					xtables_error(PARAMETER_PROBLEM,
+--- a/iptables/ip6tables.c
++++ b/iptables/ip6tables.c
+@@ -262,7 +262,7 @@ exit_printhelp(const struct xtables_rule
+ "				network interface name ([+] for wildcard)\n"
+ "  --table	-t table	table to manipulate (default: `filter')\n"
+ "  --verbose	-v		verbose mode\n"
+-"  --wait	-w [seconds]	maximum wait to acquire xtables lock before give up\n"
++"  --wait	-w [seconds]	maximum wait to acquire xtables lock before give up (default infinite)\n"
+ "  --wait-interval -W [usecs]	wait time to try to acquire xtables lock\n"
+ "				interval to wait for xtables lock\n"
+ "				default is 1 second\n"
+@@ -1338,7 +1338,7 @@ int do_command6(int argc, char *argv[],
+ 	struct in6_addr *smasks = NULL, *dmasks = NULL;
+ 
+ 	int verbose = 0;
+-	int wait = 0;
++	int wait = -1;
+ 	struct timeval wait_interval = {
+ 		.tv_sec	= 1,
+ 	};
+@@ -1622,7 +1622,6 @@ int do_command6(int argc, char *argv[],
+ 					      "You cannot use `-w' from "
+ 					      "ip6tables-restore");
+ 			}
+-			wait = -1;
+ 			if (optarg) {
+ 				if (sscanf(optarg, "%i", &wait) != 1)
+ 					xtables_error(PARAMETER_PROBLEM,

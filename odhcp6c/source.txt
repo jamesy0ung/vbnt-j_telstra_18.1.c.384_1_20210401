@@ -1,0 +1,4 @@
+Source: odhcp6c-2018-05-04.tar.bz2
+Source-Url: git://git.lede-project.org/project/odhcp6c.git
+Source-Version: 474b5a3a9a25f0aa12e69afd72d7661638ad879d
+Source-Proto: 

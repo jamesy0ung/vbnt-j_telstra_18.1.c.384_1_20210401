@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/957375/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/plugin/bnd
+END
+Patterns.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/947379/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/plugin/bnd/Patterns.java
+END
+AnnotationCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/957375/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/plugin/bnd/AnnotationCollector.java
+END
+EntryParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/957374/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/plugin/bnd/EntryParam.java
+END
+EntryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/947788/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/plugin/bnd/EntryType.java
+END
+DescriptorGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/939080/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/plugin/bnd/DescriptorGenerator.java
+END
+MetaType.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/939089/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/plugin/bnd/MetaType.java
+END
+AnnotationPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/907340/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/plugin/bnd/AnnotationPlugin.java
+END
+EntryWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/947379/felix/trunk/dependencymanager/annotation/src/main/java/org/apache/felix/dm/annotation/plugin/bnd/EntryWriter.java
+END

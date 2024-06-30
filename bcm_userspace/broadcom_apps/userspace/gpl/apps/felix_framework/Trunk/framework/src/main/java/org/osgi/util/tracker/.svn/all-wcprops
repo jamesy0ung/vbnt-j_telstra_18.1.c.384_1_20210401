@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/util/tracker
+END
+AbstractTracked.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/util/tracker/AbstractTracked.java
+END
+ServiceTrackerCustomizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/util/tracker/ServiceTrackerCustomizer.java
+END
+BundleTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/util/tracker/BundleTracker.java
+END
+BundleTrackerCustomizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/util/tracker/BundleTrackerCustomizer.java
+END
+ServiceTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/util/tracker/ServiceTracker.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/882531/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime
+END
+Runtime.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/830559/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/Runtime.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/830903/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/Main.java
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/830559/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/Server.java
+END
+BundleForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/882531/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/BundleForm.java
+END
+Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/831004/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/Client.java
+END

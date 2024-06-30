@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/906042/felix/trunk/http/base/src/test/java/org/apache/felix/http/base/internal/handler
+END
+AbstractHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/814549/felix/trunk/http/base/src/test/java/org/apache/felix/http/base/internal/handler/AbstractHandlerTest.java
+END
+ServletHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/901600/felix/trunk/http/base/src/test/java/org/apache/felix/http/base/internal/handler/ServletHandlerTest.java
+END
+FilterHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/901600/felix/trunk/http/base/src/test/java/org/apache/felix/http/base/internal/handler/FilterHandlerTest.java
+END
+ServletHandlerRequestTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/906042/felix/trunk/http/base/src/test/java/org/apache/felix/http/base/internal/handler/ServletHandlerRequestTest.java
+END
+ServletConfigImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/814549/felix/trunk/http/base/src/test/java/org/apache/felix/http/base/internal/handler/ServletConfigImplTest.java
+END
+FilterConfigImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/814549/felix/trunk/http/base/src/test/java/org/apache/felix/http/base/internal/handler/FilterConfigImplTest.java
+END

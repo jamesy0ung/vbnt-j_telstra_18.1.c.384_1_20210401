@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/946719/felix/trunk/karaf/main/src/test/java/org/apache/felix/karaf/main
+END
+DefaultJDBCLockTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/946719/felix/trunk/karaf/main/src/test/java/org/apache/felix/karaf/main/DefaultJDBCLockTest.java
+END
+DerbyJDBCLockTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/946719/felix/trunk/karaf/main/src/test/java/org/apache/felix/karaf/main/DerbyJDBCLockTest.java
+END
+MySQLJDBCLockTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/946719/felix/trunk/karaf/main/src/test/java/org/apache/felix/karaf/main/MySQLJDBCLockTest.java
+END
+OracleJDBCLockTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/946719/felix/trunk/karaf/main/src/test/java/org/apache/felix/karaf/main/OracleJDBCLockTest.java
+END
+DefaultJDBCLockIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/946719/felix/trunk/karaf/main/src/test/java/org/apache/felix/karaf/main/DefaultJDBCLockIntegrationTest.java
+END
+StringMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/906440/felix/trunk/karaf/main/src/test/java/org/apache/felix/karaf/main/StringMapTest.java
+END
+DerbyJDBCLockIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/946719/felix/trunk/karaf/main/src/test/java/org/apache/felix/karaf/main/DerbyJDBCLockIntegrationTest.java
+END
+MySQLJDBCLockIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/946719/felix/trunk/karaf/main/src/test/java/org/apache/felix/karaf/main/MySQLJDBCLockIntegrationTest.java
+END
+OracleJDBCLockIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/946719/felix/trunk/karaf/main/src/test/java/org/apache/felix/karaf/main/OracleJDBCLockIntegrationTest.java
+END
+BaseJDBCLockTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/946719/felix/trunk/karaf/main/src/test/java/org/apache/felix/karaf/main/BaseJDBCLockTest.java
+END
+StatementsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/946719/felix/trunk/karaf/main/src/test/java/org/apache/felix/karaf/main/StatementsTest.java
+END
+BaseJDBCLockIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/946719/felix/trunk/karaf/main/src/test/java/org/apache/felix/karaf/main/BaseJDBCLockIntegrationTest.java
+END

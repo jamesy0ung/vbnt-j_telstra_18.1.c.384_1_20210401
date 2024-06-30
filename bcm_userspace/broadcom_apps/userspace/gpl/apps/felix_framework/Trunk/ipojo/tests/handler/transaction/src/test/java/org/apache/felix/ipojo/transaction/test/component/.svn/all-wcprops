@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/787003/felix/trunk/ipojo/tests/handler/transaction/src/test/java/org/apache/felix/ipojo/transaction/test/component
+END
+FooImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/786967/felix/trunk/ipojo/tests/handler/transaction/src/test/java/org/apache/felix/ipojo/transaction/test/component/FooImpl.java
+END
+ComponentUsingAnnotations.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/787003/felix/trunk/ipojo/tests/handler/transaction/src/test/java/org/apache/felix/ipojo/transaction/test/component/ComponentUsingAnnotations.java
+END
+FooDelegator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/786967/felix/trunk/ipojo/tests/handler/transaction/src/test/java/org/apache/felix/ipojo/transaction/test/component/FooDelegator.java
+END

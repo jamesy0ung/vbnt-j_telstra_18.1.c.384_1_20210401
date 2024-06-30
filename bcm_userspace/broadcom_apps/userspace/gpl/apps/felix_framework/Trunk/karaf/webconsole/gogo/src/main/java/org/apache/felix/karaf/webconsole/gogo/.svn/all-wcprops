@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/910845/felix/trunk/karaf/webconsole/gogo/src/main/java/org/apache/felix/karaf/webconsole/gogo
+END
+WebTerminal.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/801921/felix/trunk/karaf/webconsole/gogo/src/main/java/org/apache/felix/karaf/webconsole/gogo/WebTerminal.java
+END
+GogoPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/910845/felix/trunk/karaf/webconsole/gogo/src/main/java/org/apache/felix/karaf/webconsole/gogo/GogoPlugin.java
+END
+Terminal.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/802859/felix/trunk/karaf/webconsole/gogo/src/main/java/org/apache/felix/karaf/webconsole/gogo/Terminal.java
+END

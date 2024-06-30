@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/907694/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/karaf/shell/console/completer
+END
+AggregateCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/karaf/shell/console/completer/AggregateCompleter.java
+END
+StringsCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/karaf/shell/console/completer/StringsCompleter.java
+END
+NullCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/817259/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/karaf/shell/console/completer/NullCompleter.java
+END
+SessionScopeCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/907694/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/karaf/shell/console/completer/SessionScopeCompleter.java
+END
+CommandsCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/817259/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/karaf/shell/console/completer/CommandsCompleter.java
+END
+ArgumentCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/817259/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/karaf/shell/console/completer/ArgumentCompleter.java
+END

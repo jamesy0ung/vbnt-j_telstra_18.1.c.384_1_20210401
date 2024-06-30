@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/941256/felix/trunk/karaf/shell/obr/src/main/java/org/apache/felix/karaf/shell/obr
+END
+FindCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/941256/felix/trunk/karaf/shell/obr/src/main/java/org/apache/felix/karaf/shell/obr/FindCommand.java
+END
+RemoveUrlCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/918068/felix/trunk/karaf/shell/obr/src/main/java/org/apache/felix/karaf/shell/obr/RemoveUrlCommand.java
+END
+SourceCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/918068/felix/trunk/karaf/shell/obr/src/main/java/org/apache/felix/karaf/shell/obr/SourceCommand.java
+END
+RefreshUrlCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/918068/felix/trunk/karaf/shell/obr/src/main/java/org/apache/felix/karaf/shell/obr/RefreshUrlCommand.java
+END
+AddUrlCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/918068/felix/trunk/karaf/shell/obr/src/main/java/org/apache/felix/karaf/shell/obr/AddUrlCommand.java
+END
+InfoCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/925366/felix/trunk/karaf/shell/obr/src/main/java/org/apache/felix/karaf/shell/obr/InfoCommand.java
+END
+ListCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/917461/felix/trunk/karaf/shell/obr/src/main/java/org/apache/felix/karaf/shell/obr/ListCommand.java
+END
+DeployCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/917461/felix/trunk/karaf/shell/obr/src/main/java/org/apache/felix/karaf/shell/obr/DeployCommand.java
+END
+StartCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/917461/felix/trunk/karaf/shell/obr/src/main/java/org/apache/felix/karaf/shell/obr/StartCommand.java
+END
+ListUrlCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/918068/felix/trunk/karaf/shell/obr/src/main/java/org/apache/felix/karaf/shell/obr/ListUrlCommand.java
+END
+ObrCommandSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/925366/felix/trunk/karaf/shell/obr/src/main/java/org/apache/felix/karaf/shell/obr/ObrCommandSupport.java
+END
+ResolveCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/918068/felix/trunk/karaf/shell/obr/src/main/java/org/apache/felix/karaf/shell/obr/ResolveCommand.java
+END

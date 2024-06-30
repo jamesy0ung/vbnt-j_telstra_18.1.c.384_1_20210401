@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/954751/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/wrapper
+END
+RepositoryWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/918061/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/wrapper/RepositoryWrapper.java
+END
+Wrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/954751/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/wrapper/Wrapper.java
+END
+RequirementWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/917934/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/wrapper/RequirementWrapper.java
+END
+ConvertedResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/954751/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/wrapper/ConvertedResource.java
+END
+CapabilityWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/925279/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/wrapper/CapabilityWrapper.java
+END
+ResolverWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/917934/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/wrapper/ResolverWrapper.java
+END
+ResourceWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/918061/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/wrapper/ResourceWrapper.java
+END
+RepositoryAdminWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/918061/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/wrapper/RepositoryAdminWrapper.java
+END

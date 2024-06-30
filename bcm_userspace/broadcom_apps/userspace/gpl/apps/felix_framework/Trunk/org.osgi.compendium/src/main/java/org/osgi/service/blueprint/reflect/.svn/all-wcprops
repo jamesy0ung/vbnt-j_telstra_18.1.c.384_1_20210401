@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/809139/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/reflect
+END
+ReferenceMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/reflect/ReferenceMetadata.java
+END
+MapEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/reflect/MapEntry.java
+END
+ServiceMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/reflect/ServiceMetadata.java
+END
+ComponentMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/reflect/ComponentMetadata.java
+END
+ReferenceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/reflect/ReferenceListener.java
+END
+PropsMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/reflect/PropsMetadata.java
+END
+BeanMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/809139/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/reflect/BeanMetadata.java
+END
+BeanArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/reflect/BeanArgument.java
+END
+BeanProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/reflect/BeanProperty.java
+END
+NullMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/reflect/NullMetadata.java
+END
+RefMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/reflect/RefMetadata.java
+END
+ValueMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/reflect/ValueMetadata.java
+END
+MapMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/reflect/MapMetadata.java
+END
+Metadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/reflect/Metadata.java
+END
+RegistrationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/reflect/RegistrationListener.java
+END
+ServiceReferenceMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/reflect/ServiceReferenceMetadata.java
+END
+NonNullMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/reflect/NonNullMetadata.java
+END
+Target.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/reflect/Target.java
+END
+IdRefMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/reflect/IdRefMetadata.java
+END
+ReferenceListMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/reflect/ReferenceListMetadata.java
+END
+CollectionMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/blueprint/reflect/CollectionMetadata.java
+END

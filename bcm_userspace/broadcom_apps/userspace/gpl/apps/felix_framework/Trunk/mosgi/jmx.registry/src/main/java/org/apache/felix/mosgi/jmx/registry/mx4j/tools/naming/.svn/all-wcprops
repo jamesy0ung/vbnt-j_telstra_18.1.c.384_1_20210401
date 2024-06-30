@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.registry/src/main/java/org/apache/felix/mosgi/jmx/registry/mx4j/tools/naming
+END
+NamingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.registry/src/main/java/org/apache/felix/mosgi/jmx/registry/mx4j/tools/naming/NamingService.java
+END
+NamingServiceIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.registry/src/main/java/org/apache/felix/mosgi/jmx/registry/mx4j/tools/naming/NamingServiceIfc.java
+END
+NamingServiceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.registry/src/main/java/org/apache/felix/mosgi/jmx/registry/mx4j/tools/naming/NamingServiceMBean.java
+END

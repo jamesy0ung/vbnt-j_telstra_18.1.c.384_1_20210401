@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/750499/felix/trunk/ipojo/tests/core/bad-configurations/src/main/java/org/apache/felix/ipojo/test/scenarios/bad
+END
+BadLFCController.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/bad-configurations/src/main/java/org/apache/felix/ipojo/test/scenarios/bad/BadLFCController.java
+END
+BadTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/bad-configurations/src/main/java/org/apache/felix/ipojo/test/scenarios/bad/BadTestSuite.java
+END
+BadFactories.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/750499/felix/trunk/ipojo/tests/core/bad-configurations/src/main/java/org/apache/felix/ipojo/test/scenarios/bad/BadFactories.java
+END
+BadLFCCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/bad-configurations/src/main/java/org/apache/felix/ipojo/test/scenarios/bad/BadLFCCallback.java
+END
+BadServiceDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/bad-configurations/src/main/java/org/apache/felix/ipojo/test/scenarios/bad/BadServiceDependencies.java
+END

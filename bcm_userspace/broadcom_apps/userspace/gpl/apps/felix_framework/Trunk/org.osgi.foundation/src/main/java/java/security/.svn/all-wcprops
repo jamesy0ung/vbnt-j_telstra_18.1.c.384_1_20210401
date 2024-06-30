@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security
+END
+GuardedObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/GuardedObject.java
+END
+SecureClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/SecureClassLoader.java
+END
+KeyStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/KeyStore.java
+END
+PrivilegedExceptionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/PrivilegedExceptionAction.java
+END
+PrivilegedActionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/PrivilegedActionException.java
+END
+ProviderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/ProviderException.java
+END
+AlgorithmParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/AlgorithmParameters.java
+END
+AlgorithmParameterGeneratorSpi.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/AlgorithmParameterGeneratorSpi.java
+END
+DigestInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/DigestInputStream.java
+END
+KeyPairGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/KeyPairGenerator.java
+END
+DigestOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/DigestOutputStream.java
+END
+SignatureSpi.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/SignatureSpi.java
+END
+InvalidAlgorithmParameterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/InvalidAlgorithmParameterException.java
+END
+InvalidKeyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/InvalidKeyException.java
+END
+KeyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/KeyFactory.java
+END
+Certificate.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/Certificate.java
+END
+AlgorithmParametersSpi.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/AlgorithmParametersSpi.java
+END
+Signer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/Signer.java
+END
+Provider.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/Provider.java
+END
+BasicPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/BasicPermission.java
+END
+UnresolvedPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/UnresolvedPermission.java
+END
+Policy.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/Policy.java
+END
+PermissionCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/PermissionCollection.java
+END
+KeyPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/KeyPair.java
+END
+AccessController.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/AccessController.java
+END
+Security.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/Security.java
+END
+Permissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/Permissions.java
+END
+SignatureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/SignatureException.java
+END
+Principal.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/Principal.java
+END
+KeyStoreSpi.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/KeyStoreSpi.java
+END
+AccessControlException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/AccessControlException.java
+END
+IdentityScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/IdentityScope.java
+END
+DomainCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/DomainCombiner.java
+END
+Permission.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/Permission.java
+END
+Key.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/Key.java
+END
+CodeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/CodeSource.java
+END
+DigestException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/DigestException.java
+END
+SignedObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/SignedObject.java
+END
+MessageDigestSpi.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/MessageDigestSpi.java
+END
+Guard.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/Guard.java
+END
+KeyManagementException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/KeyManagementException.java
+END
+AccessControlContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/AccessControlContext.java
+END
+ProtectionDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/ProtectionDomain.java
+END
+SecurityPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/SecurityPermission.java
+END
+PrivateKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/PrivateKey.java
+END
+UnrecoverableKeyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/UnrecoverableKeyException.java
+END
+KeyStoreException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/KeyStoreException.java
+END
+GeneralSecurityException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/GeneralSecurityException.java
+END
+NoSuchAlgorithmException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/NoSuchAlgorithmException.java
+END
+PrivilegedAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/PrivilegedAction.java
+END
+NoSuchProviderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/NoSuchProviderException.java
+END
+Identity.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/Identity.java
+END
+KeyFactorySpi.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/KeyFactorySpi.java
+END
+Signature.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/Signature.java
+END
+SecureRandomSpi.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/SecureRandomSpi.java
+END
+InvalidParameterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/InvalidParameterException.java
+END
+KeyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/KeyException.java
+END
+AllPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/AllPermission.java
+END
+MessageDigest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/MessageDigest.java
+END
+KeyPairGeneratorSpi.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/KeyPairGeneratorSpi.java
+END
+PublicKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/PublicKey.java
+END
+SecureRandom.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/SecureRandom.java
+END
+AlgorithmParameterGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/security/AlgorithmParameterGenerator.java
+END

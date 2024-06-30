@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/extra/src/main/java/org/apache/felix/upnp/extra/util
+END
+EventSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/extra/src/main/java/org/apache/felix/upnp/extra/util/EventSource.java
+END
+UPnPEventNotifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/extra/src/main/java/org/apache/felix/upnp/extra/util/UPnPEventNotifier.java
+END
+UPnPSubscriber.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/extra/src/main/java/org/apache/felix/upnp/extra/util/UPnPSubscriber.java
+END

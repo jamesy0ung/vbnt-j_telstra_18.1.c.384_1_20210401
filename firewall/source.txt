@@ -1,0 +1,4 @@
+Source: firewall-2017-05-27-c4309372acc7e1bef8aa230269f7da1dec790e68.tar.xz
+Source-Url: http://git.openwrt.org/project/firewall3.git
+Source-Version: c4309372acc7e1bef8aa230269f7da1dec790e68
+Source-Proto: 

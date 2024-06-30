@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/945099/felix/trunk/karaf/shell/console/src/main/resources/OSGI-INF/blueprint
+END
+karaf-console.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/945099/felix/trunk/karaf/shell/console/src/main/resources/OSGI-INF/blueprint/karaf-console.xml
+END
+shell-namespacehandler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/912215/felix/trunk/karaf/shell/console/src/main/resources/OSGI-INF/blueprint/shell-namespacehandler.xml
+END

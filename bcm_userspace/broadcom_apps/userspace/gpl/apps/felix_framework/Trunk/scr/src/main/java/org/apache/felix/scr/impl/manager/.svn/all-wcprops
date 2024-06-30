@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/949675/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/manager
+END
+AbstractComponentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/949401/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/manager/AbstractComponentManager.java
+END
+DelayedComponentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/949401/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/manager/DelayedComponentManager.java
+END
+ServiceFactoryComponentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/949401/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/manager/ServiceFactoryComponentManager.java
+END
+ComponentContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/806106/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/manager/ComponentContextImpl.java
+END
+DependencyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/949675/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/manager/DependencyManager.java
+END
+ComponentFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/934927/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/manager/ComponentFactoryImpl.java
+END
+ImmediateComponentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/949317/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/manager/ImmediateComponentManager.java
+END

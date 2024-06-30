@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/810058/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/application
+END
+ApplicationHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/application/ApplicationHandle.java
+END
+ApplicationDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/810058/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/application/ApplicationDescriptor.java
+END
+ApplicationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/application/ApplicationException.java
+END
+ScheduledApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/application/ScheduledApplication.java
+END
+ApplicationAdminPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/application/ApplicationAdminPermission.java
+END

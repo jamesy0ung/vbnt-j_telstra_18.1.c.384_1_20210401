@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/800244/felix/trunk/scr/src/test/java/org/apache/felix/scr/impl/manager/components
+END
+T1.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/800244/felix/trunk/scr/src/test/java/org/apache/felix/scr/impl/manager/components/T1.java
+END
+T1a.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/800244/felix/trunk/scr/src/test/java/org/apache/felix/scr/impl/manager/components/T1a.java
+END
+SuperFakeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/800244/felix/trunk/scr/src/test/java/org/apache/felix/scr/impl/manager/components/SuperFakeService.java
+END
+T3.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/800244/felix/trunk/scr/src/test/java/org/apache/felix/scr/impl/manager/components/T3.java
+END
+FakeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/800244/felix/trunk/scr/src/test/java/org/apache/felix/scr/impl/manager/components/FakeService.java
+END

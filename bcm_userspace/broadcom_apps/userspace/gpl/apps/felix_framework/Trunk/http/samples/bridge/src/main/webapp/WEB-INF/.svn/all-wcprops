@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/814549/felix/trunk/http/samples/bridge/src/main/webapp/WEB-INF
+END
+framework.properties
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/814549/felix/trunk/http/samples/bridge/src/main/webapp/WEB-INF/framework.properties
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/814549/felix/trunk/http/samples/bridge/src/main/webapp/WEB-INF/web.xml
+END

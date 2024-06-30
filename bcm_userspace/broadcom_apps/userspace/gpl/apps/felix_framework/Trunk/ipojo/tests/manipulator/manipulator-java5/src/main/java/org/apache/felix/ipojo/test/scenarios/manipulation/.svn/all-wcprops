@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/manipulator/manipulator-java5/src/main/java/org/apache/felix/ipojo/test/scenarios/manipulation
+END
+TypedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/720011/felix/trunk/ipojo/tests/manipulator/manipulator-java5/src/main/java/org/apache/felix/ipojo/test/scenarios/manipulation/TypedList.java
+END
+Boxing.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/720011/felix/trunk/ipojo/tests/manipulator/manipulator-java5/src/main/java/org/apache/felix/ipojo/test/scenarios/manipulation/Boxing.java
+END
+Annotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/manipulator/manipulator-java5/src/main/java/org/apache/felix/ipojo/test/scenarios/manipulation/Annotation.java
+END
+ManipulationTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/708513/felix/trunk/ipojo/tests/manipulator/manipulator-java5/src/main/java/org/apache/felix/ipojo/test/scenarios/manipulation/ManipulationTestSuite.java
+END
+DuplicateMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/720011/felix/trunk/ipojo/tests/manipulator/manipulator-java5/src/main/java/org/apache/felix/ipojo/test/scenarios/manipulation/DuplicateMethod.java
+END

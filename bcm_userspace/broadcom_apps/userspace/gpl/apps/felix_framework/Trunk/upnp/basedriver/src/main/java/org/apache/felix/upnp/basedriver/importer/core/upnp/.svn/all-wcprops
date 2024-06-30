@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/importer/core/upnp
+END
+UPnPActionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/importer/core/upnp/UPnPActionImpl.java
+END
+UPnPDeviceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/importer/core/upnp/UPnPDeviceImpl.java
+END
+UPnPServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/importer/core/upnp/UPnPServiceImpl.java
+END
+UPnPStateVariableImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/importer/core/upnp/UPnPStateVariableImpl.java
+END
+UPnPIconImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/importer/core/upnp/UPnPIconImpl.java
+END

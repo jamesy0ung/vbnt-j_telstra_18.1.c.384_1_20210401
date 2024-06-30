@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/681155/felix/trunk/ipojo/tests/handler/eventadmin/src/main/java/org/apache/felix/ipojo/test/donut
+END
+EventConsumerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/681155/felix/trunk/ipojo/tests/handler/eventadmin/src/main/java/org/apache/felix/ipojo/test/donut/EventConsumerImpl.java
+END
+EventTrackerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/681155/felix/trunk/ipojo/tests/handler/eventadmin/src/main/java/org/apache/felix/ipojo/test/donut/EventTrackerImpl.java
+END
+DonutProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/681155/felix/trunk/ipojo/tests/handler/eventadmin/src/main/java/org/apache/felix/ipojo/test/donut/DonutProvider.java
+END
+DonutConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/681155/felix/trunk/ipojo/tests/handler/eventadmin/src/main/java/org/apache/felix/ipojo/test/donut/DonutConsumer.java
+END
+DonutProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/681155/felix/trunk/ipojo/tests/handler/eventadmin/src/main/java/org/apache/felix/ipojo/test/donut/DonutProviderImpl.java
+END
+DonutConsumerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/681155/felix/trunk/ipojo/tests/handler/eventadmin/src/main/java/org/apache/felix/ipojo/test/donut/DonutConsumerImpl.java
+END
+DonutEventProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/681155/felix/trunk/ipojo/tests/handler/eventadmin/src/main/java/org/apache/felix/ipojo/test/donut/DonutEventProviderImpl.java
+END
+Donut.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/681155/felix/trunk/ipojo/tests/handler/eventadmin/src/main/java/org/apache/felix/ipojo/test/donut/Donut.java
+END
+SyncEventProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/681155/felix/trunk/ipojo/tests/handler/eventadmin/src/main/java/org/apache/felix/ipojo/test/donut/SyncEventProviderImpl.java
+END
+AsyncEventProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/681155/felix/trunk/ipojo/tests/handler/eventadmin/src/main/java/org/apache/felix/ipojo/test/donut/AsyncEventProviderImpl.java
+END
+EventTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/681155/felix/trunk/ipojo/tests/handler/eventadmin/src/main/java/org/apache/felix/ipojo/test/donut/EventTracker.java
+END

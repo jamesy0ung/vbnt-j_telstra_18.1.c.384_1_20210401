@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/941594/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/metadata
+END
+ReferenceMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/887877/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/metadata/ReferenceMetadata.java
+END
+ServiceMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/792540/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/metadata/ServiceMetadata.java
+END
+ComponentMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/941594/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/metadata/ComponentMetadata.java
+END
+PropertyMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/831214/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/metadata/PropertyMetadata.java
+END
+XmlHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/887877/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/metadata/XmlHandler.java
+END

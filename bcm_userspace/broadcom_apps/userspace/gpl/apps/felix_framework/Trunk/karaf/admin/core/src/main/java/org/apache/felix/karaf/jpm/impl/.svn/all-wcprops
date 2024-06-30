@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/828802/felix/trunk/karaf/admin/core/src/main/java/org/apache/felix/karaf/jpm/impl
+END
+ProcessBuilderFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/828802/felix/trunk/karaf/admin/core/src/main/java/org/apache/felix/karaf/jpm/impl/ProcessBuilderFactoryImpl.java
+END
+ProcessImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/828802/felix/trunk/karaf/admin/core/src/main/java/org/apache/felix/karaf/jpm/impl/ProcessImpl.java
+END
+ScriptUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/828802/felix/trunk/karaf/admin/core/src/main/java/org/apache/felix/karaf/jpm/impl/ScriptUtils.java
+END
+ProcessBuilderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/828802/felix/trunk/karaf/admin/core/src/main/java/org/apache/felix/karaf/jpm/impl/ProcessBuilderImpl.java
+END

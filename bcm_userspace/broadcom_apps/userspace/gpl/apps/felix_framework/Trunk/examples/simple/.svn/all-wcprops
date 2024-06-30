@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/asf/!svn/ver/535628/felix/trunk/examples/simple
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/535628/felix/trunk/examples/simple/NOTICE
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/534951/felix/trunk/examples/simple/LICENSE
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/534951/felix/trunk/examples/simple/build.xml
+END

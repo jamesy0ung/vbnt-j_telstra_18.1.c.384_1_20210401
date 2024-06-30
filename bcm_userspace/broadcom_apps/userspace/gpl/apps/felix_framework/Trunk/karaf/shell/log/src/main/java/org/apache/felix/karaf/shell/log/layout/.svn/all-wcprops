@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/log/src/main/java/org/apache/felix/karaf/shell/log/layout
+END
+ISO8601DateFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/log/src/main/java/org/apache/felix/karaf/shell/log/layout/ISO8601DateFormat.java
+END
+DateTimeDateFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/log/src/main/java/org/apache/felix/karaf/shell/log/layout/DateTimeDateFormat.java
+END
+AbsoluteTimeDateFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/log/src/main/java/org/apache/felix/karaf/shell/log/layout/AbsoluteTimeDateFormat.java
+END
+PatternConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/log/src/main/java/org/apache/felix/karaf/shell/log/layout/PatternConverter.java
+END
+FormattingInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/log/src/main/java/org/apache/felix/karaf/shell/log/layout/FormattingInfo.java
+END
+PatternParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/log/src/main/java/org/apache/felix/karaf/shell/log/layout/PatternParser.java
+END

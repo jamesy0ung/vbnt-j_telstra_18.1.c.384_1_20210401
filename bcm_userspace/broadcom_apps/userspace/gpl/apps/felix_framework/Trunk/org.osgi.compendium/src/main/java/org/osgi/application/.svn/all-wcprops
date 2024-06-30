@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/810058/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/application
+END
+ApplicationServiceEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/810058/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/application/ApplicationServiceEvent.java
+END
+ApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/810058/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/application/ApplicationContext.java
+END
+ApplicationServiceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/810058/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/application/ApplicationServiceListener.java
+END
+Framework.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/application/Framework.java
+END

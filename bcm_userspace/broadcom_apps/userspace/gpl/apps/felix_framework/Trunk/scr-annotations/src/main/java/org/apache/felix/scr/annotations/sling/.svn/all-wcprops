@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/938378/felix/trunk/scr-annotations/src/main/java/org/apache/felix/scr/annotations/sling
+END
+SlingServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/938378/felix/trunk/scr-annotations/src/main/java/org/apache/felix/scr/annotations/sling/SlingServlet.java
+END
+SlingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/938334/felix/trunk/scr-annotations/src/main/java/org/apache/felix/scr/annotations/sling/SlingFilter.java
+END
+SlingFilterScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/938334/felix/trunk/scr-annotations/src/main/java/org/apache/felix/scr/annotations/sling/SlingFilterScope.java
+END

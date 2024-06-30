@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/903585/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/components/activatesignature
+END
+Signature_Protected_ComponentContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/903585/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/components/activatesignature/Signature_Protected_ComponentContext.java
+END
+Signature_Private_ComponentContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/903585/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/components/activatesignature/Signature_Private_ComponentContext.java
+END
+Signature_Package_ComponentContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/903585/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/components/activatesignature/Signature_Package_ComponentContext.java
+END
+Signature_Public_ComponentContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/903585/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/components/activatesignature/Signature_Public_ComponentContext.java
+END
+Signature_Protected_Map.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/903585/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/components/activatesignature/Signature_Protected_Map.java
+END
+Signature_Private_Map.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/903585/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/components/activatesignature/Signature_Private_Map.java
+END
+Signature_Protected_BundleContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/903585/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/components/activatesignature/Signature_Protected_BundleContext.java
+END
+AbstractActivateSignatureTestComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/903585/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/components/activatesignature/AbstractActivateSignatureTestComponent.java
+END
+Signature_Package_Map.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/903585/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/components/activatesignature/Signature_Package_Map.java
+END
+Signature_Private_BundleContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/903585/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/components/activatesignature/Signature_Private_BundleContext.java
+END
+Signature_Package_BundleContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/903585/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/components/activatesignature/Signature_Package_BundleContext.java
+END
+Signature_Public_Map.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/903585/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/components/activatesignature/Signature_Public_Map.java
+END
+Signature_Public_BundleContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/903585/felix/trunk/scr/src/test/java/org/apache/felix/scr/integration/components/activatesignature/Signature_Public_BundleContext.java
+END

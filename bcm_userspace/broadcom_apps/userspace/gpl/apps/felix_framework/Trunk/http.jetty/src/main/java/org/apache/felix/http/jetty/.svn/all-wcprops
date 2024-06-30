@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/759859/felix/trunk/http.jetty/src/main/java/org/apache/felix/http/jetty
+END
+HttpServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/704136/felix/trunk/http.jetty/src/main/java/org/apache/felix/http/jetty/HttpServiceImpl.java
+END
+LogServiceLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/641218/felix/trunk/http.jetty/src/main/java/org/apache/felix/http/jetty/LogServiceLog.java
+END
+ServletContextGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/759859/felix/trunk/http.jetty/src/main/java/org/apache/felix/http/jetty/ServletContextGroup.java
+END
+DefaultContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/580363/felix/trunk/http.jetty/src/main/java/org/apache/felix/http/jetty/DefaultContextImpl.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/759510/felix/trunk/http.jetty/src/main/java/org/apache/felix/http/jetty/Activator.java
+END

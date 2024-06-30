@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/952964/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/config
+END
+ScrConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/952964/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/config/ScrConfiguration.java
+END
+ComponentHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/806511/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/config/ComponentHolder.java
+END
+ConfigurationComponentRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/927397/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/config/ConfigurationComponentRegistry.java
+END
+AbstractComponentHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/806511/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/config/AbstractComponentHolder.java
+END
+MetaTypeProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/949286/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/config/MetaTypeProviderImpl.java
+END
+ConfiguredComponentHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/926989/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/config/ConfiguredComponentHolder.java
+END
+UnconfiguredComponentHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/806511/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/config/UnconfiguredComponentHolder.java
+END

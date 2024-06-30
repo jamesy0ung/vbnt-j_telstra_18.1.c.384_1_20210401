@@ -1,0 +1,35 @@
+--- libtommath-1.0-orig/bn_fast_mp_montgomery_reduce.c	2017-07-26 14:48:18.526733922 +0200
++++ libtommath-1.0/bn_fast_mp_montgomery_reduce.c	2017-07-26 14:49:38.129079716 +0200
+@@ -26,7 +26,12 @@
+ int fast_mp_montgomery_reduce (mp_int * x, mp_int * n, mp_digit rho)
+ {
+   int     ix, res, olduse;
+-  mp_word W[MP_WARRAY];
++  mp_word * W;
++
++  W = (mp_word *)XMALLOC(sizeof(mp_word) * MP_WARRAY);
++  if (W == NULL) {
++    return MP_MEM;
++  }
+ 
+   /* get old used count */
+   olduse = x->used;
+@@ -34,6 +39,7 @@
+   /* grow a as required */
+   if (x->alloc < (n->used + 1)) {
+     if ((res = mp_grow (x, n->used + 1)) != MP_OKAY) {
++      XFREE(W);
+       return res;
+     }
+   }
+@@ -161,8 +167,10 @@
+ 
+   /* if A >= m then A = A - m */
+   if (mp_cmp_mag (x, n) != MP_LT) {
++    XFREE(W);
+     return s_mp_sub (x, n, x);
+   }
++  XFREE(W);
+   return MP_OKAY;
+ }
+ #endif

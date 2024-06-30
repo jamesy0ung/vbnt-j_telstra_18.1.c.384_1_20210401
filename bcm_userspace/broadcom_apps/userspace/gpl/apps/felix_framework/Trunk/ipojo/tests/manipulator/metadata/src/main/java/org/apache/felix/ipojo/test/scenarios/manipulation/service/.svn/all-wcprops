@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/701978/felix/trunk/ipojo/tests/manipulator/metadata/src/main/java/org/apache/felix/ipojo/test/scenarios/manipulation/service
+END
+FooService.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/701978/felix/trunk/ipojo/tests/manipulator/metadata/src/main/java/org/apache/felix/ipojo/test/scenarios/manipulation/service/FooService.java
+END
+BarService.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/701978/felix/trunk/ipojo/tests/manipulator/metadata/src/main/java/org/apache/felix/ipojo/test/scenarios/manipulation/service/BarService.java
+END
+Plop.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/701978/felix/trunk/ipojo/tests/manipulator/metadata/src/main/java/org/apache/felix/ipojo/test/scenarios/manipulation/service/Plop.java
+END
+PrimitiveManipulationTestService.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/asf/!svn/ver/701978/felix/trunk/ipojo/tests/manipulator/metadata/src/main/java/org/apache/felix/ipojo/test/scenarios/manipulation/service/PrimitiveManipulationTestService.java
+END
+CheckService.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/701978/felix/trunk/ipojo/tests/manipulator/metadata/src/main/java/org/apache/felix/ipojo/test/scenarios/manipulation/service/CheckService.java
+END

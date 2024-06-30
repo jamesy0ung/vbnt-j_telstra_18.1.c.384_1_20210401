@@ -1,0 +1,22 @@
+[
+    "ip6tables",
+    "iptables",
+    "iptables-mod-conntrack-extra",
+    "iptables-mod-debug",
+    "iptables-mod-extra",
+    "iptables-mod-filter",
+    "iptables-mod-hashlimit",
+    "iptables-mod-ipopt",
+    "iptables-mod-iprange",
+    "iptables-mod-ipsec",
+    "iptables-mod-ipset",
+    "iptables-mod-nat-extra",
+    "iptables-mod-nflog",
+    "iptables-mod-nfqueue",
+    "iptables-mod-rpfilter",
+    "iptables-mod-skiplog",
+    "iptables-mod-tproxy",
+    "libip4tc",
+    "libip6tc",
+    "libxtables"
+]

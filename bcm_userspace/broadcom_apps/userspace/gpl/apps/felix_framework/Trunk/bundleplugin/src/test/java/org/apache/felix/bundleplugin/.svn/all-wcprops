@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/925279/felix/trunk/bundleplugin/src/test/java/org/apache/felix/bundleplugin
+END
+BundleAllPluginTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/803670/felix/trunk/bundleplugin/src/test/java/org/apache/felix/bundleplugin/BundleAllPluginTest.java
+END
+BlueprintComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/925279/felix/trunk/bundleplugin/src/test/java/org/apache/felix/bundleplugin/BlueprintComponentTest.java
+END
+BundlePluginTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/925279/felix/trunk/bundleplugin/src/test/java/org/apache/felix/bundleplugin/BundlePluginTest.java
+END
+AbstractBundlePluginTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/616180/felix/trunk/bundleplugin/src/test/java/org/apache/felix/bundleplugin/AbstractBundlePluginTest.java
+END

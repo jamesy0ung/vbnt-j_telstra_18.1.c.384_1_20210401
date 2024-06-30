@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/956491/felix/trunk/karaf/features/command/src/main/java/org/apache/felix/karaf/features/command/completers
+END
+AllFeatureCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/956491/felix/trunk/karaf/features/command/src/main/java/org/apache/felix/karaf/features/command/completers/AllFeatureCompleter.java
+END
+FeatureCompleterSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/956491/felix/trunk/karaf/features/command/src/main/java/org/apache/felix/karaf/features/command/completers/FeatureCompleterSupport.java
+END
+FeatureRepositoryCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/features/command/src/main/java/org/apache/felix/karaf/features/command/completers/FeatureRepositoryCompleter.java
+END
+InstalledFeatureCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/956491/felix/trunk/karaf/features/command/src/main/java/org/apache/felix/karaf/features/command/completers/InstalledFeatureCompleter.java
+END
+AvailableFeatureCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/956491/felix/trunk/karaf/features/command/src/main/java/org/apache/felix/karaf/features/command/completers/AvailableFeatureCompleter.java
+END

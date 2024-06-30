@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/911059/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/ui/eclipse/ui/wizard/project
+END
+SigilProjectWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/887888/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/ui/eclipse/ui/wizard/project/SigilProjectWizard.java
+END
+SigilProjectWizardFirstPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/911059/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/ui/eclipse/ui/wizard/project/SigilProjectWizardFirstPage.java
+END
+SigilProjectWizardSecondPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/ui/eclipse/ui/wizard/project/SigilProjectWizardSecondPage.java
+END

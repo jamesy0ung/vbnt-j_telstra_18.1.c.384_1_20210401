@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/822249/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/tags/qdox
+END
+QDoxJavaField.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/618233/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/tags/qdox/QDoxJavaField.java
+END
+QDoxJavaClassDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/822249/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/tags/qdox/QDoxJavaClassDescription.java
+END
+QDoxJavaTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/822249/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/tags/qdox/QDoxJavaTag.java
+END
+QDoxJavaMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/601719/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/tags/qdox/QDoxJavaMethod.java
+END
+QDoxJavaParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/601719/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/tags/qdox/QDoxJavaParameter.java
+END

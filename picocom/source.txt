@@ -1,0 +1,4 @@
+Source: picocom-1.7.tar.gz
+Source-Url: http://picocom.googlecode.com/files
+Source-Version: 
+Source-Proto: 

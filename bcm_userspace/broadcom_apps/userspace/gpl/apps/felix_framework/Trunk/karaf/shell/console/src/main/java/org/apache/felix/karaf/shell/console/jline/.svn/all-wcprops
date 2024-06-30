@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/952921/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/karaf/shell/console/jline
+END
+keybindings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/817259/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/karaf/shell/console/jline/keybindings.properties
+END
+Console.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/940552/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/karaf/shell/console/jline/Console.java
+END
+CompleterAsCompletor.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/817259/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/karaf/shell/console/jline/CompleterAsCompletor.java
+END
+TerminalFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/945099/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/karaf/shell/console/jline/TerminalFactory.java
+END
+ConsoleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/952921/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/karaf/shell/console/jline/ConsoleFactory.java
+END

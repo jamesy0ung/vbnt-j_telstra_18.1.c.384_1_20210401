@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/809599/felix/trunk/configadmin/src/test/java/org/apache/felix/cm/integration/helper
+END
+ManagedServiceFactoryTestActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/805666/felix/trunk/configadmin/src/test/java/org/apache/felix/cm/integration/helper/ManagedServiceFactoryTestActivator.java
+END
+MyTinyBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/804262/felix/trunk/configadmin/src/test/java/org/apache/felix/cm/integration/helper/MyTinyBundle.java
+END
+ManagedServiceFactoryTestActivator2.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/805666/felix/trunk/configadmin/src/test/java/org/apache/felix/cm/integration/helper/ManagedServiceFactoryTestActivator2.java
+END
+ManagedServiceThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/809599/felix/trunk/configadmin/src/test/java/org/apache/felix/cm/integration/helper/ManagedServiceThread.java
+END
+MultiManagedServiceTestActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/805666/felix/trunk/configadmin/src/test/java/org/apache/felix/cm/integration/helper/MultiManagedServiceTestActivator.java
+END
+BaseTestActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/805666/felix/trunk/configadmin/src/test/java/org/apache/felix/cm/integration/helper/BaseTestActivator.java
+END
+TestThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/809592/felix/trunk/configadmin/src/test/java/org/apache/felix/cm/integration/helper/TestThread.java
+END
+ConfigureThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/809599/felix/trunk/configadmin/src/test/java/org/apache/felix/cm/integration/helper/ConfigureThread.java
+END
+ManagedServiceTestActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/805666/felix/trunk/configadmin/src/test/java/org/apache/felix/cm/integration/helper/ManagedServiceTestActivator.java
+END
+UpdateThreadSignalTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/809592/felix/trunk/configadmin/src/test/java/org/apache/felix/cm/integration/helper/UpdateThreadSignalTask.java
+END
+ManagedServiceTestActivator2.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/805666/felix/trunk/configadmin/src/test/java/org/apache/felix/cm/integration/helper/ManagedServiceTestActivator2.java
+END
+ManagedServiceFactoryThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/809599/felix/trunk/configadmin/src/test/java/org/apache/felix/cm/integration/helper/ManagedServiceFactoryThread.java
+END
+MultiManagedServiceFactoryTestActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/805666/felix/trunk/configadmin/src/test/java/org/apache/felix/cm/integration/helper/MultiManagedServiceFactoryTestActivator.java
+END

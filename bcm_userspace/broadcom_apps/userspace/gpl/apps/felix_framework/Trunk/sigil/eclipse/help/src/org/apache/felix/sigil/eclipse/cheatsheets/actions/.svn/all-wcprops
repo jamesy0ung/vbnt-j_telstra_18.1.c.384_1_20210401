@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/eclipse/help/src/org/apache/felix/sigil/eclipse/cheatsheets/actions
+END
+CopyResourceFromPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/eclipse/help/src/org/apache/felix/sigil/eclipse/cheatsheets/actions/CopyResourceFromPlugin.java
+END
+ShowViewAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/eclipse/help/src/org/apache/felix/sigil/eclipse/cheatsheets/actions/ShowViewAction.java
+END
+AbstractNewWizardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/eclipse/help/src/org/apache/felix/sigil/eclipse/cheatsheets/actions/AbstractNewWizardAction.java
+END
+ResolveProjectDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/eclipse/help/src/org/apache/felix/sigil/eclipse/cheatsheets/actions/ResolveProjectDependencies.java
+END
+OpenEmptySigilProjectWizardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/eclipse/help/src/org/apache/felix/sigil/eclipse/cheatsheets/actions/OpenEmptySigilProjectWizardAction.java
+END

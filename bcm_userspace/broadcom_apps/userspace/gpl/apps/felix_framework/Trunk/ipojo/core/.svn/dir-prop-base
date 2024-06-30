@@ -1,0 +1,28 @@
+K 10
+svn:ignore
+V 201
+classes
+target
+*.log
+*.ipr
+*.iws
+*.iml
+lib
+bundle
+dist
+.project
+.classpath
+bin
+build
+.settings
+.wtpmodules
+.deployables
+.checkstyle
+.pmd
+report
+*.patch
+.externalToolBuilders
+maven-eclipse.xml
+.fbprefs
+
+END

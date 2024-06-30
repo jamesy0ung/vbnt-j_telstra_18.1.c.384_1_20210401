@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/765541/felix/trunk/deviceaccess/src/main/java/org/apache/felix/das/util
+END
+DriverMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/752659/felix/trunk/deviceaccess/src/main/java/org/apache/felix/das/util/DriverMatcher.java
+END
+DriverAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/752659/felix/trunk/deviceaccess/src/main/java/org/apache/felix/das/util/DriverAnalyzer.java
+END
+DriverLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/752659/felix/trunk/deviceaccess/src/main/java/org/apache/felix/das/util/DriverLoader.java
+END
+DeviceAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/765541/felix/trunk/deviceaccess/src/main/java/org/apache/felix/das/util/DeviceAnalyzer.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/765541/felix/trunk/deviceaccess/src/main/java/org/apache/felix/das/util/Util.java
+END

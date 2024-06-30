@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/asf/!svn/ver/763614/felix/trunk/org.osgi.foundation
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/609548/felix/trunk/org.osgi.foundation/NOTICE
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/609548/felix/trunk/org.osgi.foundation/LICENSE
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/763614/felix/trunk/org.osgi.foundation/pom.xml
+END

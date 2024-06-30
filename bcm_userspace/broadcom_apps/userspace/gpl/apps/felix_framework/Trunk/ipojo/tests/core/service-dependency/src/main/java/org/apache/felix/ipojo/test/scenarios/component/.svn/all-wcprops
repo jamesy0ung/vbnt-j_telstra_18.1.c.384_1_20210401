@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/885210/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/component
+END
+RankedFooProviderType1.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/component/RankedFooProviderType1.java
+END
+CheckServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/885210/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/component/CheckServiceProvider.java
+END
+SetCheckService.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/686744/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/component/SetCheckService.java
+END
+MultipleCheckService.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/710054/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/component/MultipleCheckService.java
+END
+MethodCheckServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/710054/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/component/MethodCheckServiceProvider.java
+END
+CollectionCheckService.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/710054/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/component/CollectionCheckService.java
+END
+MethodMultipleCheckService.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/710054/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/component/MethodMultipleCheckService.java
+END
+ParentClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/component/ParentClass.java
+END
+VectorCheckService.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/686620/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/component/VectorCheckService.java
+END
+FooProviderType1.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/component/FooProviderType1.java
+END
+FooProviderType2.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/885210/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/component/FooProviderType2.java
+END
+MultipleFilterCheckSubscriber.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/component/MultipleFilterCheckSubscriber.java
+END
+DynCheckServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/710054/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/component/DynCheckServiceProvider.java
+END
+CheckProviderParentClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/710054/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/component/CheckProviderParentClass.java
+END
+ListCheckService.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/710054/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/component/ListCheckService.java
+END
+FooServiceDefaultImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/service-dependency/src/main/java/org/apache/felix/ipojo/test/scenarios/component/FooServiceDefaultImpl.java
+END

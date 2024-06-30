@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/919426/felix/trunk/bundleplugin/src/main/java/org/apache/maven/shared/osgi
+END
+ManifestReadingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/745019/felix/trunk/bundleplugin/src/main/java/org/apache/maven/shared/osgi/ManifestReadingException.java
+END
+Maven2OsgiConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/745019/felix/trunk/bundleplugin/src/main/java/org/apache/maven/shared/osgi/Maven2OsgiConverter.java
+END
+DefaultMaven2OsgiConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/919426/felix/trunk/bundleplugin/src/main/java/org/apache/maven/shared/osgi/DefaultMaven2OsgiConverter.java
+END

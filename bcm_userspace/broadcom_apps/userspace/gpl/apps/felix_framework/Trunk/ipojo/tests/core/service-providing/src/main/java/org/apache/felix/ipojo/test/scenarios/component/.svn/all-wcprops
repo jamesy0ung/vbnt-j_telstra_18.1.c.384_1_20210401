@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/941589/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/component
+END
+FooProviderType1.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/component/FooProviderType1.java
+END
+NullCheckServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/903739/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/component/NullCheckServiceProvider.java
+END
+FooBarProviderType1.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/component/FooBarProviderType1.java
+END
+CheckProviderParentClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/component/CheckProviderParentClass.java
+END
+CheckServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/component/CheckServiceProvider.java
+END
+FooProviderWithAnonymousClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/941589/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/component/FooProviderWithAnonymousClass.java
+END
+FooProviderTypeDyn.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/component/FooProviderTypeDyn.java
+END
+FooProviderTypeDyn2.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/component/FooProviderTypeDyn2.java
+END

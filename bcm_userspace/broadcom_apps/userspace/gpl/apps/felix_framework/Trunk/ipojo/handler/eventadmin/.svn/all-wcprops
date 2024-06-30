@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/944855/felix/trunk/ipojo/handler/eventadmin
+END
+metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/720508/felix/trunk/ipojo/handler/eventadmin/metadata.xml
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/934002/felix/trunk/ipojo/handler/eventadmin/NOTICE
+END
+obr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/720508/felix/trunk/ipojo/handler/eventadmin/obr.xml
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/679299/felix/trunk/ipojo/handler/eventadmin/LICENSE
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/944855/felix/trunk/ipojo/handler/eventadmin/pom.xml
+END

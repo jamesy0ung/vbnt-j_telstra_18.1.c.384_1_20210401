@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/junit4osgi/maven-junit4osgi-plugin/src/main/java/org/apache/felix/ipojo/junit4osgi/plugin
+END
+StringOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/730354/felix/trunk/ipojo/junit4osgi/maven-junit4osgi-plugin/src/main/java/org/apache/felix/ipojo/junit4osgi/plugin/StringOutputStream.java
+END
+ReportPrintStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/756042/felix/trunk/ipojo/junit4osgi/maven-junit4osgi-plugin/src/main/java/org/apache/felix/ipojo/junit4osgi/plugin/ReportPrintStream.java
+END
+Report.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/730354/felix/trunk/ipojo/junit4osgi/maven-junit4osgi-plugin/src/main/java/org/apache/felix/ipojo/junit4osgi/plugin/Report.java
+END
+XMLReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/756042/felix/trunk/ipojo/junit4osgi/maven-junit4osgi-plugin/src/main/java/org/apache/felix/ipojo/junit4osgi/plugin/XMLReport.java
+END
+Installer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/730354/felix/trunk/ipojo/junit4osgi/maven-junit4osgi-plugin/src/main/java/org/apache/felix/ipojo/junit4osgi/plugin/Installer.java
+END
+Junit4osgiPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/junit4osgi/maven-junit4osgi-plugin/src/main/java/org/apache/felix/ipojo/junit4osgi/plugin/Junit4osgiPlugin.java
+END

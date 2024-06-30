@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/819005/felix/trunk/webconsole-plugins/event/src/main/java/org/apache/felix/webconsole/plugins/event/internal/converter
+END
+ConfigurationEventConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/818822/felix/trunk/webconsole-plugins/event/src/main/java/org/apache/felix/webconsole/plugins/event/internal/converter/ConfigurationEventConverter.java
+END
+BundleEventConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/819005/felix/trunk/webconsole-plugins/event/src/main/java/org/apache/felix/webconsole/plugins/event/internal/converter/BundleEventConverter.java
+END
+FrameworkEventConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/818477/felix/trunk/webconsole-plugins/event/src/main/java/org/apache/felix/webconsole/plugins/event/internal/converter/FrameworkEventConverter.java
+END
+ServiceEventConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/818477/felix/trunk/webconsole-plugins/event/src/main/java/org/apache/felix/webconsole/plugins/event/internal/converter/ServiceEventConverter.java
+END

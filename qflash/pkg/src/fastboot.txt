@@ -1,0 +1,14 @@
+以下是正常升级的流程
+1. 正常模块的5个usb 口都在，操作dm口
+2. 发送切换到升级模块命令（进入sahara模式）
+3. 上传NPRG9x07.mbn文件
+4. 发送done命令（这里是不是让模块跑NRPG9x07.mbn这个程序？里面是升级协议，我看文档上，应该是streaming download protocol)
+5. 发送hello包
+6. security_mode包
+7. partition包，如果不匹配，partition包携带override
+8. 上传tz,rpm,sbl, aboot
+9. 上传invalid boot
+9. 发送reset命令
+10. 模块会进入fastboot模式
+11. 把剩下的所有分区文件烧写进去
+12. fastboot reboot，模块升级结束

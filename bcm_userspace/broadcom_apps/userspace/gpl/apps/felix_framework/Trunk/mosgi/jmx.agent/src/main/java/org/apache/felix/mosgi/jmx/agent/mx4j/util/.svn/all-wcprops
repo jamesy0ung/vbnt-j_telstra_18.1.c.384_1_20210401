@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/util
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/util/Utils.java
+END
+Base64Codec.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/util/Base64Codec.java
+END
+MethodTernaryTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/util/MethodTernaryTree.java
+END

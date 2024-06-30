@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io
+END
+Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/Reader.java
+END
+ObjectInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/ObjectInputStream.java
+END
+CharConversionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/CharConversionException.java
+END
+FileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/FileReader.java
+END
+BufferedReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/BufferedReader.java
+END
+NotSerializableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/NotSerializableException.java
+END
+FilterReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/FilterReader.java
+END
+Externalizable.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/Externalizable.java
+END
+FileWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/FileWriter.java
+END
+Writer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/Writer.java
+END
+FileDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/FileDescriptor.java
+END
+File.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/File.java
+END
+BufferedWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/BufferedWriter.java
+END
+UTFDataFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/UTFDataFormatException.java
+END
+FilterWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/FilterWriter.java
+END
+PushbackReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/PushbackReader.java
+END
+LineNumberReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/LineNumberReader.java
+END
+FileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/FileFilter.java
+END
+ObjectStreamField.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/ObjectStreamField.java
+END
+StreamTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/StreamTokenizer.java
+END
+EOFException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/EOFException.java
+END
+InvalidClassException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/InvalidClassException.java
+END
+PushbackInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/PushbackInputStream.java
+END
+PipedOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/PipedOutputStream.java
+END
+SyncFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/SyncFailedException.java
+END
+ObjectStreamException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/ObjectStreamException.java
+END
+ObjectInputValidation.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/ObjectInputValidation.java
+END
+RandomAccessFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/RandomAccessFile.java
+END
+DataInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/DataInputStream.java
+END
+PrintStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/PrintStream.java
+END
+OutputStreamWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/OutputStreamWriter.java
+END
+NotActiveException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/NotActiveException.java
+END
+FileNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/FileNotFoundException.java
+END
+InterruptedIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/InterruptedIOException.java
+END
+SerializablePermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/SerializablePermission.java
+END
+BufferedOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/BufferedOutputStream.java
+END
+FilterInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/FilterInputStream.java
+END
+PipedReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/PipedReader.java
+END
+FilenameFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/FilenameFilter.java
+END
+FilePermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/FilePermission.java
+END
+PrintWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/PrintWriter.java
+END
+DataInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/DataInput.java
+END
+StringReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/StringReader.java
+END
+DataOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/DataOutput.java
+END
+InvalidObjectException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/InvalidObjectException.java
+END
+PipedWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/PipedWriter.java
+END
+CharArrayReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/CharArrayReader.java
+END
+ByteArrayOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/ByteArrayOutputStream.java
+END
+StreamCorruptedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/StreamCorruptedException.java
+END
+StringWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/StringWriter.java
+END
+Serializable.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/Serializable.java
+END
+CharArrayWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/CharArrayWriter.java
+END
+BufferedInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/BufferedInputStream.java
+END
+ObjectStreamConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/ObjectStreamConstants.java
+END
+ObjectInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/ObjectInput.java
+END
+IOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/IOException.java
+END
+PipedInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/PipedInputStream.java
+END
+ByteArrayInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/ByteArrayInputStream.java
+END
+InputStreamReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/InputStreamReader.java
+END
+ObjectOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/ObjectOutputStream.java
+END
+SequenceInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/SequenceInputStream.java
+END
+DataOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/DataOutputStream.java
+END
+ObjectStreamClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/ObjectStreamClass.java
+END
+WriteAbortedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/WriteAbortedException.java
+END
+FileInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/FileInputStream.java
+END
+InputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/InputStream.java
+END
+OutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/OutputStream.java
+END
+FileOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/FileOutputStream.java
+END
+UnsupportedEncodingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/UnsupportedEncodingException.java
+END
+FilterOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/FilterOutputStream.java
+END
+ObjectOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/ObjectOutput.java
+END
+OptionalDataException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/io/OptionalDataException.java
+END

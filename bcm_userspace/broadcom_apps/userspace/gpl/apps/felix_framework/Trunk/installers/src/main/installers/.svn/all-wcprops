@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/682086/felix/trunk/installers/src/main/installers
+END
+bootstrapper.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/534951/felix/trunk/installers/src/main/installers/bootstrapper.properties
+END
+config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/682086/felix/trunk/installers/src/main/installers/config.properties
+END
+unix_shortcuts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/534951/felix/trunk/installers/src/main/installers/unix_shortcuts.xml
+END
+izpack-unix.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/534951/felix/trunk/installers/src/main/installers/izpack-unix.xml
+END
+inno-felix.iss
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/543510/felix/trunk/installers/src/main/installers/inno-felix.iss
+END
+izpack-windows.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/534951/felix/trunk/installers/src/main/installers/izpack-windows.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/534951/felix/trunk/installers/src/main/installers/log4j.properties
+END
+rpm-felix.spec
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/534951/felix/trunk/installers/src/main/installers/rpm-felix.spec
+END
+izpack-mac.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/534951/felix/trunk/installers/src/main/installers/izpack-mac.xml
+END

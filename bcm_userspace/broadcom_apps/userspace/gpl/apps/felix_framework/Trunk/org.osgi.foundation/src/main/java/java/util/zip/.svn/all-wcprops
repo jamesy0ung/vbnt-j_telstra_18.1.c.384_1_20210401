@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/zip
+END
+ZipConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/zip/ZipConstants.java
+END
+ZipOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/zip/ZipOutputStream.java
+END
+InflaterInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/zip/InflaterInputStream.java
+END
+DataFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/zip/DataFormatException.java
+END
+ZipFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/zip/ZipFile.java
+END
+Checksum.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/zip/Checksum.java
+END
+Inflater.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/zip/Inflater.java
+END
+GZIPInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/zip/GZIPInputStream.java
+END
+GZIPOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/zip/GZIPOutputStream.java
+END
+CRC32.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/zip/CRC32.java
+END
+ZipException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/zip/ZipException.java
+END
+CheckedInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/zip/CheckedInputStream.java
+END
+DeflaterOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/zip/DeflaterOutputStream.java
+END
+CheckedOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/zip/CheckedOutputStream.java
+END
+ZipEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/zip/ZipEntry.java
+END
+Deflater.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/zip/Deflater.java
+END
+Adler32.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/zip/Adler32.java
+END
+ZipInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/zip/ZipInputStream.java
+END

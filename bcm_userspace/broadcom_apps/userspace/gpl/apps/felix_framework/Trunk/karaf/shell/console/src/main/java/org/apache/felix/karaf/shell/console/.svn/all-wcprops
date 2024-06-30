@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/956492/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/karaf/shell/console
+END
+BlueprintContainerAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/karaf/shell/console/BlueprintContainerAware.java
+END
+Completer.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/karaf/shell/console/Completer.java
+END
+CloseShellException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/908230/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/karaf/shell/console/CloseShellException.java
+END
+CompletableFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/817259/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/karaf/shell/console/CompletableFunction.java
+END
+OsgiCommandSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/karaf/shell/console/OsgiCommandSupport.java
+END
+BundleContextAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/karaf/shell/console/BundleContextAware.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/940792/felix/trunk/karaf/admin/core/src/main/resources/org/apache/felix/karaf/admin/etc
+END
+system.properties
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/906932/felix/trunk/karaf/admin/core/src/main/resources/org/apache/felix/karaf/admin/etc/system.properties
+END
+org.apache.felix.karaf.shell.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/940792/felix/trunk/karaf/admin/core/src/main/resources/org/apache/felix/karaf/admin/etc/org.apache.felix.karaf.shell.cfg
+END
+org.ops4j.pax.url.mvn.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/906932/felix/trunk/karaf/admin/core/src/main/resources/org/apache/felix/karaf/admin/etc/org.ops4j.pax.url.mvn.cfg
+END

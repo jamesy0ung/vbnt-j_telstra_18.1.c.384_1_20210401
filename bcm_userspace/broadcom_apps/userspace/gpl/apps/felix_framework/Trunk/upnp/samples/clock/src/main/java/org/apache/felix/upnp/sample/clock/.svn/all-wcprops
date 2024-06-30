@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/763994/felix/trunk/upnp/samples/clock/src/main/java/org/apache/felix/upnp/sample/clock
+END
+ClockPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/clock/src/main/java/org/apache/felix/upnp/sample/clock/ClockPane.java
+END
+TimerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/693975/felix/trunk/upnp/samples/clock/src/main/java/org/apache/felix/upnp/sample/clock/TimerService.java
+END
+ClockIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/clock/src/main/java/org/apache/felix/upnp/sample/clock/ClockIcon.java
+END
+ResultStateVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/clock/src/main/java/org/apache/felix/upnp/sample/clock/ResultStateVariable.java
+END
+TimeStateVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/763994/felix/trunk/upnp/samples/clock/src/main/java/org/apache/felix/upnp/sample/clock/TimeStateVariable.java
+END
+ClockFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/clock/src/main/java/org/apache/felix/upnp/sample/clock/ClockFrame.java
+END
+SetTimeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/clock/src/main/java/org/apache/felix/upnp/sample/clock/SetTimeAction.java
+END
+Clock.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/clock/src/main/java/org/apache/felix/upnp/sample/clock/Clock.java
+END
+ClockDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/763994/felix/trunk/upnp/samples/clock/src/main/java/org/apache/felix/upnp/sample/clock/ClockDevice.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/clock/src/main/java/org/apache/felix/upnp/sample/clock/Activator.java
+END
+GetTimeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/clock/src/main/java/org/apache/felix/upnp/sample/clock/GetTimeAction.java
+END

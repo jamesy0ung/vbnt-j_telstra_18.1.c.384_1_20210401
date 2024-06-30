@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/937978/felix/trunk/bundleplugin/src/main/java/org/apache/felix/obrplugin
+END
+ObrDeploy.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/767966/felix/trunk/bundleplugin/src/main/java/org/apache/felix/obrplugin/ObrDeploy.java
+END
+ObrDeployFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/767966/felix/trunk/bundleplugin/src/main/java/org/apache/felix/obrplugin/ObrDeployFile.java
+END
+XmlHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/628503/felix/trunk/bundleplugin/src/main/java/org/apache/felix/obrplugin/XmlHelper.java
+END
+ObrRemoteClean.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/925279/felix/trunk/bundleplugin/src/main/java/org/apache/felix/obrplugin/ObrRemoteClean.java
+END
+ObrUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/629001/felix/trunk/bundleplugin/src/main/java/org/apache/felix/obrplugin/ObrUtils.java
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/628503/felix/trunk/bundleplugin/src/main/java/org/apache/felix/obrplugin/Config.java
+END
+ObrUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/927300/felix/trunk/bundleplugin/src/main/java/org/apache/felix/obrplugin/ObrUpdate.java
+END
+RemoteFileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/925279/felix/trunk/bundleplugin/src/main/java/org/apache/felix/obrplugin/RemoteFileManager.java
+END
+AbstractFileMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/628503/felix/trunk/bundleplugin/src/main/java/org/apache/felix/obrplugin/AbstractFileMojo.java
+END
+ObrInstall.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/925279/felix/trunk/bundleplugin/src/main/java/org/apache/felix/obrplugin/ObrInstall.java
+END
+ObrInstallFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/682125/felix/trunk/bundleplugin/src/main/java/org/apache/felix/obrplugin/ObrInstallFile.java
+END
+ObrIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/937978/felix/trunk/bundleplugin/src/main/java/org/apache/felix/obrplugin/ObrIndex.java
+END
+ObrCleanRepo.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/925279/felix/trunk/bundleplugin/src/main/java/org/apache/felix/obrplugin/ObrCleanRepo.java
+END
+PomHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/628503/felix/trunk/bundleplugin/src/main/java/org/apache/felix/obrplugin/PomHelper.java
+END

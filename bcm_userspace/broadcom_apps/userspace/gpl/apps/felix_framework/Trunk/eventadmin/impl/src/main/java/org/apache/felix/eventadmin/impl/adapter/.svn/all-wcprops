@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/905932/felix/trunk/eventadmin/impl/src/main/java/org/apache/felix/eventadmin/impl/adapter
+END
+FrameworkEventAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/905932/felix/trunk/eventadmin/impl/src/main/java/org/apache/felix/eventadmin/impl/adapter/FrameworkEventAdapter.java
+END
+ServiceEventAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/905932/felix/trunk/eventadmin/impl/src/main/java/org/apache/felix/eventadmin/impl/adapter/ServiceEventAdapter.java
+END
+AbstractAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/905932/felix/trunk/eventadmin/impl/src/main/java/org/apache/felix/eventadmin/impl/adapter/AbstractAdapter.java
+END
+LogEventAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/905932/felix/trunk/eventadmin/impl/src/main/java/org/apache/felix/eventadmin/impl/adapter/LogEventAdapter.java
+END
+BundleEventAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/905932/felix/trunk/eventadmin/impl/src/main/java/org/apache/felix/eventadmin/impl/adapter/BundleEventAdapter.java
+END

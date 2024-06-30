@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/binarylight/src/main/java/org/apache/felix/upnp/sample/binaryLight/actions
+END
+SetTargetAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/binarylight/src/main/java/org/apache/felix/upnp/sample/binaryLight/actions/SetTargetAction.java
+END
+GetStatusAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/binarylight/src/main/java/org/apache/felix/upnp/sample/binaryLight/actions/GetStatusAction.java
+END
+GetTargetAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/binarylight/src/main/java/org/apache/felix/upnp/sample/binaryLight/actions/GetTargetAction.java
+END

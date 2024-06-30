@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/945085/felix/trunk/karaf/jaas/modules/src/main/java/org/apache/felix/karaf/jaas/modules/properties
+END
+PropertiesConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/818650/felix/trunk/karaf/jaas/modules/src/main/java/org/apache/felix/karaf/jaas/modules/properties/PropertiesConverter.java
+END
+PropertiesLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/945085/felix/trunk/karaf/jaas/modules/src/main/java/org/apache/felix/karaf/jaas/modules/properties/PropertiesLoginModule.java
+END

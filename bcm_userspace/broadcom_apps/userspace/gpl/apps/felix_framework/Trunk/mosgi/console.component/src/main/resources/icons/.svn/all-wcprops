@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/553478/felix/trunk/mosgi/console.component/src/main/resources/icons
+END
+Active.gif
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/553129/felix/trunk/mosgi/console.component/src/main/resources/icons/Active.gif
+END
+NEWLOG.gif
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/553129/felix/trunk/mosgi/console.component/src/main/resources/icons/NEWLOG.gif
+END
+Starting.gif
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/553129/felix/trunk/mosgi/console.component/src/main/resources/icons/Starting.gif
+END
+Installed.gif
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/553129/felix/trunk/mosgi/console.component/src/main/resources/icons/Installed.gif
+END
+OLDLOG.gif
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/console.component/src/main/resources/icons/OLDLOG.gif
+END
+Uninstalled.gif
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/553129/felix/trunk/mosgi/console.component/src/main/resources/icons/Uninstalled.gif
+END
+Resolved.gif
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/553129/felix/trunk/mosgi/console.component/src/main/resources/icons/Resolved.gif
+END
+Stopping.gif
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/553129/felix/trunk/mosgi/console.component/src/main/resources/icons/Stopping.gif
+END
+NULL.gif
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/553129/felix/trunk/mosgi/console.component/src/main/resources/icons/NULL.gif
+END

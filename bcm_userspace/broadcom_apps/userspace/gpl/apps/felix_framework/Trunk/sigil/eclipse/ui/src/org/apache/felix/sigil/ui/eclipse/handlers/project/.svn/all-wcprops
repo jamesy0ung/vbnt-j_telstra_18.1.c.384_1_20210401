@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/ui/eclipse/handlers/project
+END
+ConvertProjectCommandHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/ui/eclipse/handlers/project/ConvertProjectCommandHandler.java
+END
+ConvertProjectHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/ui/eclipse/handlers/project/ConvertProjectHandler.java
+END
+RefreshSigilClasspathCommandHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/ui/eclipse/handlers/project/RefreshSigilClasspathCommandHandler.java
+END
+RefreshSigilClasspathHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/ui/eclipse/handlers/project/RefreshSigilClasspathHandler.java
+END

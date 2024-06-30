@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/730353/felix/trunk/ipojo/tests/manipulator/manipulation/src/main/java/org/apache/felix/ipojo/test/scenarios/manipulation
+END
+NestedClassesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/720011/felix/trunk/ipojo/tests/manipulator/manipulation/src/main/java/org/apache/felix/ipojo/test/scenarios/manipulation/NestedClassesTests.java
+END
+GetComponentInstanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/730353/felix/trunk/ipojo/tests/manipulator/manipulation/src/main/java/org/apache/felix/ipojo/test/scenarios/manipulation/GetComponentInstanceTest.java
+END
+ManipulationTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/701978/felix/trunk/ipojo/tests/manipulator/manipulation/src/main/java/org/apache/felix/ipojo/test/scenarios/manipulation/ManipulationTestSuite.java
+END
+ExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/manipulator/manipulation/src/main/java/org/apache/felix/ipojo/test/scenarios/manipulation/ExceptionTest.java
+END

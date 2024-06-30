@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/handler/temporal/src/main/java/org/apache/felix/ipojo/test/scenarios/temporal/service
+END
+ChildInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/handler/temporal/src/main/java/org/apache/felix/ipojo/test/scenarios/temporal/service/ChildInterface.java
+END
+FooService.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/handler/temporal/src/main/java/org/apache/felix/ipojo/test/scenarios/temporal/service/FooService.java
+END
+ParentParentInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/handler/temporal/src/main/java/org/apache/felix/ipojo/test/scenarios/temporal/service/ParentParentInterface.java
+END
+BarService.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/handler/temporal/src/main/java/org/apache/felix/ipojo/test/scenarios/temporal/service/BarService.java
+END
+ParentInterface1.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/handler/temporal/src/main/java/org/apache/felix/ipojo/test/scenarios/temporal/service/ParentInterface1.java
+END
+ParentInterface2.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/handler/temporal/src/main/java/org/apache/felix/ipojo/test/scenarios/temporal/service/ParentInterface2.java
+END
+CheckService.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/handler/temporal/src/main/java/org/apache/felix/ipojo/test/scenarios/temporal/service/CheckService.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/803131/felix/trunk/deploymentadmin/service/src/main/java/org/apache/felix/deploymentadmin/spi
+END
+CommitResourceCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/662399/felix/trunk/deploymentadmin/service/src/main/java/org/apache/felix/deploymentadmin/spi/CommitResourceCommand.java
+END
+StartCustomizerCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/662399/felix/trunk/deploymentadmin/service/src/main/java/org/apache/felix/deploymentadmin/spi/StartCustomizerCommand.java
+END
+UpdateCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/662399/felix/trunk/deploymentadmin/service/src/main/java/org/apache/felix/deploymentadmin/spi/UpdateCommand.java
+END
+ProcessResourceCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/662399/felix/trunk/deploymentadmin/service/src/main/java/org/apache/felix/deploymentadmin/spi/ProcessResourceCommand.java
+END
+DeploymentSessionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/803131/felix/trunk/deploymentadmin/service/src/main/java/org/apache/felix/deploymentadmin/spi/DeploymentSessionImpl.java
+END
+StartBundleCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/662399/felix/trunk/deploymentadmin/service/src/main/java/org/apache/felix/deploymentadmin/spi/StartBundleCommand.java
+END
+DropResourceCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/662399/felix/trunk/deploymentadmin/service/src/main/java/org/apache/felix/deploymentadmin/spi/DropResourceCommand.java
+END
+GetStorageAreaCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/662399/felix/trunk/deploymentadmin/service/src/main/java/org/apache/felix/deploymentadmin/spi/GetStorageAreaCommand.java
+END
+DropBundleCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/662399/felix/trunk/deploymentadmin/service/src/main/java/org/apache/felix/deploymentadmin/spi/DropBundleCommand.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/662399/felix/trunk/deploymentadmin/service/src/main/java/org/apache/felix/deploymentadmin/spi/Command.java
+END
+SnapshotCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/662399/felix/trunk/deploymentadmin/service/src/main/java/org/apache/felix/deploymentadmin/spi/SnapshotCommand.java
+END
+StopBundleCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/682377/felix/trunk/deploymentadmin/service/src/main/java/org/apache/felix/deploymentadmin/spi/StopBundleCommand.java
+END

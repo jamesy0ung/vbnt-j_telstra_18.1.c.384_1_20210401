@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/rmi
+END
+RMIRemoteNotificationServerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/rmi/RMIRemoteNotificationServerHandler.java
+END
+RMIMarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/rmi/RMIMarshaller.java
+END
+RMIConnectionInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/rmi/RMIConnectionInvoker.java
+END
+RMIConnectionSubjectInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/rmi/RMIConnectionSubjectInvoker.java
+END
+ClientExceptionCatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/rmi/ClientExceptionCatcher.java
+END
+RMIHeartBeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/rmi/RMIHeartBeat.java
+END
+RMIConnectionProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/rmi/RMIConnectionProxy.java
+END
+ClientInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/rmi/ClientInvoker.java
+END
+ClientUnmarshaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/rmi/ClientUnmarshaller.java
+END

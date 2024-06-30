@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/service-dependency-bindingpolicy/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/policies
+END
+DynCheckServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/service-dependency-bindingpolicy/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/policies/DynCheckServiceProvider.java
+END
+CheckProviderParentClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/service-dependency-bindingpolicy/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/policies/CheckProviderParentClass.java
+END
+DependencyTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/service-dependency-bindingpolicy/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/policies/DependencyTestSuite.java
+END
+CheckServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/service-dependency-bindingpolicy/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/policies/CheckServiceProvider.java
+END
+MethodCheckServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/service-dependency-bindingpolicy/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/policies/MethodCheckServiceProvider.java
+END
+MultipleCheckService.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/service-dependency-bindingpolicy/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/policies/MultipleCheckService.java
+END
+MethodMultipleCheckService.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/service-dependency-bindingpolicy/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/policies/MethodMultipleCheckService.java
+END

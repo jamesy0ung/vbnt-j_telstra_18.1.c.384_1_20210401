@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/611217/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/parser
+END
+KXml2SAXParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/611217/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/parser/KXml2SAXParser.java
+END
+KXml2SAXHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/597657/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/parser/KXml2SAXHandler.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/597657/felix/trunk/scr/src/main/java/org/apache/felix/scr/impl/parser/ParseException.java
+END

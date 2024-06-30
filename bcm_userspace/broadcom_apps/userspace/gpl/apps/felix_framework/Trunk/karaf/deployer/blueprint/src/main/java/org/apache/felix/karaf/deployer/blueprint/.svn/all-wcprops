@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/825093/felix/trunk/karaf/deployer/blueprint/src/main/java/org/apache/felix/karaf/deployer/blueprint
+END
+BlueprintURLHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/825093/felix/trunk/karaf/deployer/blueprint/src/main/java/org/apache/felix/karaf/deployer/blueprint/BlueprintURLHandler.java
+END
+BlueprintTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/798076/felix/trunk/karaf/deployer/blueprint/src/main/java/org/apache/felix/karaf/deployer/blueprint/BlueprintTransformer.java
+END
+BlueprintDeploymentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/825093/felix/trunk/karaf/deployer/blueprint/src/main/java/org/apache/felix/karaf/deployer/blueprint/BlueprintDeploymentListener.java
+END

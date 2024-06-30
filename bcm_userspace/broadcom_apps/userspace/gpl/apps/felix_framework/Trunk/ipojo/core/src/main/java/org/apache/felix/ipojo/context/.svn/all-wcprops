@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/713976/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/context
+END
+ServiceReferenceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/713976/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/context/ServiceReferenceImpl.java
+END
+StringMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/713976/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/context/StringMap.java
+END
+ServiceRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/708492/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/context/ServiceRegistry.java
+END
+ServiceRegistrationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/650599/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/context/ServiceRegistrationImpl.java
+END

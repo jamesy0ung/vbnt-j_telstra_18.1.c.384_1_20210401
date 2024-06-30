@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/890151/felix/trunk/io/src/test/java/org/apache/felix/io
+END
+ConnectionFactoryMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/890151/felix/trunk/io/src/test/java/org/apache/felix/io/ConnectionFactoryMock.java
+END
+ConnectorServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/890151/felix/trunk/io/src/test/java/org/apache/felix/io/ConnectorServiceTest.java
+END

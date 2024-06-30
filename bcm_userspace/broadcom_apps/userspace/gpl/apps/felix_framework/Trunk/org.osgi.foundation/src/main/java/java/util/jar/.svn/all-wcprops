@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/jar
+END
+Attributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/jar/Attributes.java
+END
+Manifest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/jar/Manifest.java
+END
+JarInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/jar/JarInputStream.java
+END
+JarOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/jar/JarOutputStream.java
+END
+JarException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/jar/JarException.java
+END
+JarFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/jar/JarFile.java
+END
+JarEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/util/jar/JarEntry.java
+END

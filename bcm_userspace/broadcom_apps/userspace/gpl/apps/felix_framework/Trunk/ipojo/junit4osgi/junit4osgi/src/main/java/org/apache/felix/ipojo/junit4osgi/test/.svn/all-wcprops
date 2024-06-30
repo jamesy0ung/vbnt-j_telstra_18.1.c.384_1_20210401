@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/730354/felix/trunk/ipojo/junit4osgi/junit4osgi/src/main/java/org/apache/felix/ipojo/junit4osgi/test
+END
+TestTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/730354/felix/trunk/ipojo/junit4osgi/junit4osgi/src/main/java/org/apache/felix/ipojo/junit4osgi/test/TestTestSuite.java
+END
+TestOSGiTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/730354/felix/trunk/ipojo/junit4osgi/junit4osgi/src/main/java/org/apache/felix/ipojo/junit4osgi/test/TestOSGiTestSuite.java
+END
+TestTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/730354/felix/trunk/ipojo/junit4osgi/junit4osgi/src/main/java/org/apache/felix/ipojo/junit4osgi/test/TestTestCase.java
+END
+TestOSGiTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/730354/felix/trunk/ipojo/junit4osgi/junit4osgi/src/main/java/org/apache/felix/ipojo/junit4osgi/test/TestOSGiTestCase.java
+END

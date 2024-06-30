@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/925672/felix/trunk/deploymentadmin/autoconf/src/main/java/org/apache/felix/deployment/rp/autoconf
+END
+PersistencyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/925672/felix/trunk/deploymentadmin/autoconf/src/main/java/org/apache/felix/deployment/rp/autoconf/PersistencyManager.java
+END
+AutoConfResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/682415/felix/trunk/deploymentadmin/autoconf/src/main/java/org/apache/felix/deployment/rp/autoconf/AutoConfResource.java
+END
+AutoConfResourceProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/682415/felix/trunk/deploymentadmin/autoconf/src/main/java/org/apache/felix/deployment/rp/autoconf/AutoConfResourceProcessor.java
+END
+ObjectClassDefinitionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/682415/felix/trunk/deploymentadmin/autoconf/src/main/java/org/apache/felix/deployment/rp/autoconf/ObjectClassDefinitionImpl.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/925672/felix/trunk/deploymentadmin/autoconf/src/main/java/org/apache/felix/deployment/rp/autoconf/Activator.java
+END
+AttributeDefinitionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/682415/felix/trunk/deploymentadmin/autoconf/src/main/java/org/apache/felix/deployment/rp/autoconf/AttributeDefinitionImpl.java
+END

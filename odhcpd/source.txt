@@ -1,0 +1,4 @@
+Source: odhcpd-2018-04-09.tar.bz2
+Source-Url: git://git.lede-project.org/project/odhcpd.git
+Source-Version: 31f217fc9ddfaf9de04e2ee75fbbac421c0db4f2
+Source-Proto: 

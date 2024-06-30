@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/asf/!svn/ver/935913/felix/trunk/sigil/ivy
+END
+sigil-defaults.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/800457/felix/trunk/sigil/ivy/sigil-defaults.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/asf/!svn/ver/800457/felix/trunk/sigil/ivy/build.xml
+END

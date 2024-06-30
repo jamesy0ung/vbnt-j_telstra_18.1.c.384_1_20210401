@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/810058/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/monitor
+END
+MonitorAdmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/810058/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/monitor/MonitorAdmin.java
+END
+MonitorPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/810058/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/monitor/MonitorPermission.java
+END
+MonitoringJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/810058/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/monitor/MonitoringJob.java
+END
+StatusVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/monitor/StatusVariable.java
+END
+Monitorable.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/810058/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/monitor/Monitorable.java
+END
+MonitorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/org/osgi/service/monitor/MonitorListener.java
+END

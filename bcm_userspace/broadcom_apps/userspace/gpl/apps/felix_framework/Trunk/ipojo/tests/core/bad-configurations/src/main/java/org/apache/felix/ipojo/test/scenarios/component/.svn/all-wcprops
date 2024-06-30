@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/bad-configurations/src/main/java/org/apache/felix/ipojo/test/scenarios/component
+END
+BadConstructors.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/bad-configurations/src/main/java/org/apache/felix/ipojo/test/scenarios/component/BadConstructors.java
+END
+ParentClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/bad-configurations/src/main/java/org/apache/felix/ipojo/test/scenarios/component/ParentClass.java
+END
+LifecycleControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/bad-configurations/src/main/java/org/apache/felix/ipojo/test/scenarios/component/LifecycleControllerTest.java
+END
+CheckProviderParentClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/bad-configurations/src/main/java/org/apache/felix/ipojo/test/scenarios/component/CheckProviderParentClass.java
+END
+CheckServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/bad-configurations/src/main/java/org/apache/felix/ipojo/test/scenarios/component/CheckServiceProvider.java
+END
+CallbackCheckService.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/bad-configurations/src/main/java/org/apache/felix/ipojo/test/scenarios/component/CallbackCheckService.java
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/929629/felix/trunk/useradmin/src/main/java/org/apache/felix/useradmin/impl
+END
+UserImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/888101/felix/trunk/useradmin/src/main/java/org/apache/felix/useradmin/impl/UserImpl.java
+END
+UserAdminRepositoryManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/888101/felix/trunk/useradmin/src/main/java/org/apache/felix/useradmin/impl/UserAdminRepositoryManagerImpl.java
+END
+Base64Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/888101/felix/trunk/useradmin/src/main/java/org/apache/felix/useradmin/impl/Base64Impl.java
+END
+UserAdminRepositoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/888101/felix/trunk/useradmin/src/main/java/org/apache/felix/useradmin/impl/UserAdminRepositoryImpl.java
+END
+RoleProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/888101/felix/trunk/useradmin/src/main/java/org/apache/felix/useradmin/impl/RoleProperties.java
+END
+GroupImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/888101/felix/trunk/useradmin/src/main/java/org/apache/felix/useradmin/impl/GroupImpl.java
+END
+RoleCredentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/888101/felix/trunk/useradmin/src/main/java/org/apache/felix/useradmin/impl/RoleCredentials.java
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/888101/felix/trunk/useradmin/src/main/java/org/apache/felix/useradmin/impl/Logger.java
+END
+UserAdminEventDispatcherImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/929629/felix/trunk/useradmin/src/main/java/org/apache/felix/useradmin/impl/UserAdminEventDispatcherImpl.java
+END
+AuthorizationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/888101/felix/trunk/useradmin/src/main/java/org/apache/felix/useradmin/impl/AuthorizationImpl.java
+END
+RoleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/888101/felix/trunk/useradmin/src/main/java/org/apache/felix/useradmin/impl/RoleImpl.java
+END
+CredentialAuthenticatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/888101/felix/trunk/useradmin/src/main/java/org/apache/felix/useradmin/impl/CredentialAuthenticatorImpl.java
+END
+UserAdminServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/888101/felix/trunk/useradmin/src/main/java/org/apache/felix/useradmin/impl/UserAdminServiceImpl.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/919614/felix/trunk/useradmin/src/main/java/org/apache/felix/useradmin/impl/Activator.java
+END
+MessageDigesterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/888101/felix/trunk/useradmin/src/main/java/org/apache/felix/useradmin/impl/MessageDigesterImpl.java
+END

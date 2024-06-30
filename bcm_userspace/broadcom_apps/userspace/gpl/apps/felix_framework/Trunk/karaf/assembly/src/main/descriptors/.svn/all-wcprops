@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/953588/felix/trunk/karaf/assembly/src/main/descriptors
+END
+windows-bin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/953588/felix/trunk/karaf/assembly/src/main/descriptors/windows-bin.xml
+END
+unix-src.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/assembly/src/main/descriptors/unix-src.xml
+END
+unix-bin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/953588/felix/trunk/karaf/assembly/src/main/descriptors/unix-bin.xml
+END
+windows-src.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/assembly/src/main/descriptors/windows-src.xml
+END

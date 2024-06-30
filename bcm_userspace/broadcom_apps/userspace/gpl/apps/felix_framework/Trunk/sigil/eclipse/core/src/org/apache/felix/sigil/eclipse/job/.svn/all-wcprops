@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/920400/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/job
+END
+ResolveProjectsJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/920400/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/job/ResolveProjectsJob.java
+END
+ThreadProgressMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/eclipse/core/src/org/apache/felix/sigil/eclipse/job/ThreadProgressMonitor.java
+END

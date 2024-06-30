@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/java/org/apache/felix/upnp/tester
+END
+test.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/java/org/apache/felix/upnp/tester/test.java
+END
+Mediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/java/org/apache/felix/upnp/tester/Mediator.java
+END
+UPnPSubscriber.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/java/org/apache/felix/upnp/tester/UPnPSubscriber.java
+END
+ControlPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/java/org/apache/felix/upnp/tester/ControlPoint.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/tester/src/main/java/org/apache/felix/upnp/tester/Activator.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/669818/felix/trunk/mosgi/console.gui/src/main/java/org/apache/felix/mosgi/console/gui
+END
+Gateway.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/669818/felix/trunk/mosgi/console.gui/src/main/java/org/apache/felix/mosgi/console/gui/Gateway.java
+END
+NodePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/669818/felix/trunk/mosgi/console.gui/src/main/java/org/apache/felix/mosgi/console/gui/NodePanel.java
+END
+CommonPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/console.gui/src/main/java/org/apache/felix/mosgi/console/gui/CommonPanel.java
+END
+NodesTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/669818/felix/trunk/mosgi/console.gui/src/main/java/org/apache/felix/mosgi/console/gui/NodesTree.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/console.gui/src/main/java/org/apache/felix/mosgi/console/gui/Activator.java
+END
+NodeCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/669139/felix/trunk/mosgi/console.gui/src/main/java/org/apache/felix/mosgi/console/gui/NodeCellRenderer.java
+END

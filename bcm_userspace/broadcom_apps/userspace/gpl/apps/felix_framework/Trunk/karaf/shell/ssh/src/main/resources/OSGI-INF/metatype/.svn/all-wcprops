@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/953579/felix/trunk/karaf/shell/ssh/src/main/resources/OSGI-INF/metatype
+END
+metatype.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/953579/felix/trunk/karaf/shell/ssh/src/main/resources/OSGI-INF/metatype/metatype.properties
+END
+metatype.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/953579/felix/trunk/karaf/shell/ssh/src/main/resources/OSGI-INF/metatype/metatype.xml
+END

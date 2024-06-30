@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/binarylight/src/main/resources/org/apache/felix/upnp/sample/binaryLight/images
+END
+logo.gif
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/binarylight/src/main/resources/org/apache/felix/upnp/sample/binaryLight/images/logo.gif
+END
+LightOff.gif
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/binarylight/src/main/resources/org/apache/felix/upnp/sample/binaryLight/images/LightOff.gif
+END
+LightFail.gif
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/binarylight/src/main/resources/org/apache/felix/upnp/sample/binaryLight/images/LightFail.gif
+END
+LightOn.gif
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/binarylight/src/main/resources/org/apache/felix/upnp/sample/binaryLight/images/LightOn.gif
+END

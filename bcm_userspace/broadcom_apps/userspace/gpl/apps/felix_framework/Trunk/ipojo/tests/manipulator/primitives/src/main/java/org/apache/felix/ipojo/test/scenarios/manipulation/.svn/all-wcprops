@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/720011/felix/trunk/ipojo/tests/manipulator/primitives/src/main/java/org/apache/felix/ipojo/test/scenarios/manipulation
+END
+ManipulationTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/701978/felix/trunk/ipojo/tests/manipulator/primitives/src/main/java/org/apache/felix/ipojo/test/scenarios/manipulation/ManipulationTestSuite.java
+END
+PrimitiveTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/720011/felix/trunk/ipojo/tests/manipulator/primitives/src/main/java/org/apache/felix/ipojo/test/scenarios/manipulation/PrimitiveTypeTest.java
+END
+PrimitiveTypeTest2.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/720011/felix/trunk/ipojo/tests/manipulator/primitives/src/main/java/org/apache/felix/ipojo/test/scenarios/manipulation/PrimitiveTypeTest2.java
+END

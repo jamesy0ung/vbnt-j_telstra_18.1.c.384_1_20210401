@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/906041/felix/trunk/http/base/src/main/java/org/apache/felix/http/base/internal
+END
+AbstractActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/818555/felix/trunk/http/base/src/main/java/org/apache/felix/http/base/internal/AbstractActivator.java
+END
+AbstractHttpActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/818555/felix/trunk/http/base/src/main/java/org/apache/felix/http/base/internal/AbstractHttpActivator.java
+END
+HttpServiceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/814549/felix/trunk/http/base/src/main/java/org/apache/felix/http/base/internal/HttpServiceController.java
+END
+DispatcherServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/814549/felix/trunk/http/base/src/main/java/org/apache/felix/http/base/internal/DispatcherServlet.java
+END

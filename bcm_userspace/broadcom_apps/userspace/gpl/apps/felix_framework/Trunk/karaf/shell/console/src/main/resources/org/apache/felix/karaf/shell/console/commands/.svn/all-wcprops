@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/console/src/main/resources/org/apache/felix/karaf/shell/console/commands
+END
+karaf-shell.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/console/src/main/resources/org/apache/felix/karaf/shell/console/commands/karaf-shell.xsd
+END

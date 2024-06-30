@@ -1,0 +1,145 @@
+From 7c9aa7c39362bca872905e906ac82dfc667a4112 Mon Sep 17 00:00:00 2001
+From: Pierre Lebleu <pme.lebleu@gmail.com>
+Date: Fri, 10 Nov 2017 11:04:47 +0100
+Subject: service: add data within the service itself
+
+It gives the ability to create firewall data within the
+service itself.
+
+Signed-off-by: Pierre Lebleu <pme.lebleu@gmail.com>
+---
+ service/service.c | 42 ++++++++++++++++++++++++++++++++++++++++--
+ service/service.h |  3 +++
+ 2 files changed, 43 insertions(+), 2 deletions(-)
+
+diff --git a/service/service.c b/service/service.c
+index 9b1318e..73d4016 100644
+--- a/service/service.c
++++ b/service/service.c
+@@ -83,6 +83,7 @@ service_alloc(const char *name)
+ 	s->name = new_name;
+ 	s->avl.key = s->name;
+ 	INIT_LIST_HEAD(&s->validators);
++	blobmsg_list_simple_init(&s->data_blob);
+ 
+ 	return s;
+ }
+@@ -93,6 +94,7 @@ enum {
+ 	SERVICE_SET_INSTANCES,
+ 	SERVICE_SET_TRIGGER,
+ 	SERVICE_SET_VALIDATE,
++	SERVICE_SET_DATA,
+ 	__SERVICE_SET_MAX
+ };
+ 
+@@ -102,6 +104,7 @@ static const struct blobmsg_policy service_set_attrs[__SERVICE_SET_MAX] = {
+ 	[SERVICE_SET_INSTANCES] = { "instances", BLOBMSG_TYPE_TABLE },
+ 	[SERVICE_SET_TRIGGER] = { "triggers", BLOBMSG_TYPE_ARRAY },
+ 	[SERVICE_SET_VALIDATE] = { "validate", BLOBMSG_TYPE_ARRAY },
++	[SERVICE_SET_DATA] = { "data", BLOBMSG_TYPE_TABLE },
+ };
+ 
+ static int
+@@ -116,6 +119,12 @@ service_update(struct service *s, struct blob_attr **tb, bool add)
+ 		s->trigger = NULL;
+ 	}
+ 
++	if (s->data) {
++		blobmsg_list_free(&s->data_blob);
++		free(s->data);
++		s->data = NULL;
++	}
++
+ 	service_validate_del(s);
+ 
+ 	if (tb[SERVICE_SET_TRIGGER] && blobmsg_data_len(tb[SERVICE_SET_TRIGGER])) {
+@@ -140,6 +149,14 @@ service_update(struct service *s, struct blob_attr **tb, bool add)
+ 			vlist_flush(&s->instances);
+ 	}
+ 
++	if (tb[SERVICE_SET_DATA] && blobmsg_data_len(tb[SERVICE_SET_DATA])) {
++		s->data = blob_memdup(tb[SERVICE_SET_DATA]);
++		if (!s->data)
++			return -1;
++		blobmsg_list_fill(&s->data_blob, blobmsg_data(s->data),
++				blobmsg_data_len(s->data), false);
++	}
++
+ 	s->deleted = false;
+ 
+ 	rc(s->name, "running");
+@@ -150,6 +167,8 @@ service_update(struct service *s, struct blob_attr **tb, bool add)
+ static void
+ service_delete(struct service *s)
+ {
++	blobmsg_list_free(&s->data_blob);
++	free(s->data);
+ 	vlist_flush_all(&s->instances);
+ 	s->deleted = true;
+ 	service_stopped(s);
+@@ -284,6 +303,14 @@ service_dump(struct service *s, bool verbose)
+ 
+ 	c = blobmsg_open_table(&b, s->name);
+ 
++	if (!avl_is_empty(&s->data_blob.avl)) {
++		struct blobmsg_list_node *var;
++		i = blobmsg_open_table(&b, "data");
++		blobmsg_list_for_each(&s->data_blob, var)
++			blobmsg_add_blob(&b, var->data);
++		blobmsg_close_table(&b, i);
++	}
++
+ 	if (!avl_is_empty(&s->instances.avl)) {
+ 		i = blobmsg_open_table(&b, "instances");
+ 		vlist_for_each_element(&s->instances, in, node)
+@@ -516,13 +543,24 @@ service_get_data(struct ubus_context *ctx, struct ubus_object *obj,
+ 	blob_buf_init(&b, 0);
+ 	avl_for_each_element(&services, s, avl) {
+ 		void *cs = NULL;
++		void *ci = NULL;
++		struct blobmsg_list_node *var;
+ 
+ 		if (name && strcmp(name, s->name))
+ 			continue;
+ 
++		blobmsg_list_for_each(&s->data_blob, var) {
++			if (type && strcmp(blobmsg_name(var->data), type))
++				continue;
++
++			if (!cs)
++				cs = blobmsg_open_table(&b, s->name);
++
++			blobmsg_add_blob(&b, var->data);
++		}
++
+ 		vlist_for_each_element(&s->instances, in, node) {
+-			struct blobmsg_list_node *var;
+-			void *ci = NULL;
++			ci = NULL;
+ 
+ 			if (instance && strcmp(instance, in->name))
+ 				continue;
+diff --git a/service/service.h b/service/service.h
+index cc629b1..72bfd0a 100644
+--- a/service/service.h
++++ b/service/service.h
+@@ -18,6 +18,7 @@
+ #include <libubox/avl.h>
+ #include <libubox/vlist.h>
+ #include <libubox/list.h>
++#include "../utils/utils.h"
+ 
+ extern struct avl_tree services;
+ 
+@@ -45,6 +46,8 @@ struct service {
+ 	struct blob_attr *trigger;
+ 	struct vlist_tree instances;
+ 	struct list_head validators;
++	struct blob_attr *data;
++	struct blobmsg_list data_blob;
+ };
+ 
+ void service_validate_add(struct service *s, struct blob_attr *attr);
+-- 
+1.9.1
+

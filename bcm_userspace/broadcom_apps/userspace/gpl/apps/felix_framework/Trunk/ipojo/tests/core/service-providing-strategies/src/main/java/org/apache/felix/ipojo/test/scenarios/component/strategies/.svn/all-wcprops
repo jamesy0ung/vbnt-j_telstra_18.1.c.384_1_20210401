@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/883832/felix/trunk/ipojo/tests/core/service-providing-strategies/src/main/java/org/apache/felix/ipojo/test/scenarios/component/strategies
+END
+BarConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/728056/felix/trunk/ipojo/tests/core/service-providing-strategies/src/main/java/org/apache/felix/ipojo/test/scenarios/component/strategies/BarConsumer.java
+END
+FooProviderType1.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/asf/!svn/ver/728056/felix/trunk/ipojo/tests/core/service-providing-strategies/src/main/java/org/apache/felix/ipojo/test/scenarios/component/strategies/FooProviderType1.java
+END
+DummyCreationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/asf/!svn/ver/765176/felix/trunk/ipojo/tests/core/service-providing-strategies/src/main/java/org/apache/felix/ipojo/test/scenarios/component/strategies/DummyCreationStrategy.java
+END
+DummyServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/asf/!svn/ver/883832/felix/trunk/ipojo/tests/core/service-providing-strategies/src/main/java/org/apache/felix/ipojo/test/scenarios/component/strategies/DummyServiceFactory.java
+END
+DummyCreationStrategy2.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/asf/!svn/ver/883832/felix/trunk/ipojo/tests/core/service-providing-strategies/src/main/java/org/apache/felix/ipojo/test/scenarios/component/strategies/DummyCreationStrategy2.java
+END
+FooBarProviderType1.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/asf/!svn/ver/728056/felix/trunk/ipojo/tests/core/service-providing-strategies/src/main/java/org/apache/felix/ipojo/test/scenarios/component/strategies/FooBarProviderType1.java
+END
+Consumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/728056/felix/trunk/ipojo/tests/core/service-providing-strategies/src/main/java/org/apache/felix/ipojo/test/scenarios/component/strategies/Consumer.java
+END

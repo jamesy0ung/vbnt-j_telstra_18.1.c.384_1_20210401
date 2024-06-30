@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/882531/felix/trunk/sigil/common/runtime
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/805542/felix/trunk/sigil/common/runtime/.classpath
+END
+sigil.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/831004/felix/trunk/sigil/common/runtime/sigil.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/801990/felix/trunk/sigil/common/runtime/.project
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/805542/felix/trunk/sigil/common/runtime/ivy.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/805542/felix/trunk/sigil/common/runtime/build.xml
+END

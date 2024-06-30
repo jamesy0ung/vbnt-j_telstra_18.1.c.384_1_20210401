@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/jaas/config/src/main/resources/org/apache/felix/karaf/jaas/config
+END
+karaf-jaas.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/jaas/config/src/main/resources/org/apache/felix/karaf/jaas/config/karaf-jaas.xsd
+END

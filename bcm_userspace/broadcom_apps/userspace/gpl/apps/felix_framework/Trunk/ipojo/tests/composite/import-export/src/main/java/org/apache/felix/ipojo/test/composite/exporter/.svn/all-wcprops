@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/composite/import-export/src/main/java/org/apache/felix/ipojo/test/composite/exporter
+END
+FilteredExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/composite/import-export/src/main/java/org/apache/felix/ipojo/test/composite/exporter/FilteredExport.java
+END
+OptionalMultipleExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/composite/import-export/src/main/java/org/apache/felix/ipojo/test/composite/exporter/OptionalMultipleExport.java
+END
+OptionalExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/composite/import-export/src/main/java/org/apache/felix/ipojo/test/composite/exporter/OptionalExport.java
+END
+ExportTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/composite/import-export/src/main/java/org/apache/felix/ipojo/test/composite/exporter/ExportTestSuite.java
+END
+SimpleExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/composite/import-export/src/main/java/org/apache/felix/ipojo/test/composite/exporter/SimpleExport.java
+END
+MultipleExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/composite/import-export/src/main/java/org/apache/felix/ipojo/test/composite/exporter/MultipleExport.java
+END

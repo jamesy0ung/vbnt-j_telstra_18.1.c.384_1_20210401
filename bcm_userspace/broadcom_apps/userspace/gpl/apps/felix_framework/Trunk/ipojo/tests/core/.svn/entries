@@ -1,0 +1,85 @@
+10
+
+dir
+957403
+http://svn.apache.org/repos/asf/felix/trunk/ipojo/tests/core
+http://svn.apache.org/repos/asf
+
+
+
+2010-06-18T12:20:24.436474Z
+955965
+clement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+logger
+dir
+
+factories
+dir
+
+lifecycle-controller
+dir
+
+external-handlers
+dir
+
+service-dependency-comparator
+dir
+
+service-providing-inheritance
+dir
+
+lifecycle-callback
+dir
+
+factory-version
+dir
+
+annotations
+dir
+
+service-dependency-optional
+dir
+
+service-dependency-filter
+dir
+
+service-providing
+dir
+
+service-dependency-bindingpolicy
+dir
+
+configuration
+dir
+
+service-providing-strategies
+dir
+
+service-dependency
+dir
+
+handler
+dir
+
+configadmin
+dir
+
+bad-configurations
+dir
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/795564/felix/trunk/ipojo/tests/core/configadmin/src/main/java/org/apache/felix/ipojo/test/scenarios/configadmin
+END
+ConfigurationMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/795564/felix/trunk/ipojo/tests/core/configadmin/src/main/java/org/apache/felix/ipojo/test/scenarios/configadmin/ConfigurationMonitor.java
+END
+ManagedServiceFactoryTestForServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/730353/felix/trunk/ipojo/tests/core/configadmin/src/main/java/org/apache/felix/ipojo/test/scenarios/configadmin/ManagedServiceFactoryTestForServices.java
+END
+ConfigurationTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/701978/felix/trunk/ipojo/tests/core/configadmin/src/main/java/org/apache/felix/ipojo/test/scenarios/configadmin/ConfigurationTestSuite.java
+END
+ManagedServiceTestForImmediate.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/795564/felix/trunk/ipojo/tests/core/configadmin/src/main/java/org/apache/felix/ipojo/test/scenarios/configadmin/ManagedServiceTestForImmediate.java
+END
+ManagedServiceTestForService.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/795564/felix/trunk/ipojo/tests/core/configadmin/src/main/java/org/apache/felix/ipojo/test/scenarios/configadmin/ManagedServiceTestForService.java
+END
+ManagedServiceFactoryTestForImmediate.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/730353/felix/trunk/ipojo/tests/core/configadmin/src/main/java/org/apache/felix/ipojo/test/scenarios/configadmin/ManagedServiceFactoryTestForImmediate.java
+END

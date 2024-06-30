@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/956492/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/karaf/shell/console/commands
+END
+BlueprintCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/956492/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/karaf/shell/console/commands/BlueprintCommand.java
+END
+NamespaceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/912215/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/karaf/shell/console/commands/NamespaceHandler.java
+END
+GenericType.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/karaf/shell/console/commands/GenericType.java
+END

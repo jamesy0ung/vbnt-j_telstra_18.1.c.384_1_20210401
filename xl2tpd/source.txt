@@ -1,0 +1,4 @@
+Source: xl2tpd-1.3.10.tar.gz
+Source-Url: https://github.com/xelerance/xl2tpd.git
+Source-Version: 090d1bef577cabdb3495d76acd814733fa66ef57
+Source-Proto: 

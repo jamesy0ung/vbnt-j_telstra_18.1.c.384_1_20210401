@@ -1,0 +1,110 @@
+10
+
+dir
+957403
+http://svn.apache.org/repos/asf/felix/trunk/mosgi
+http://svn.apache.org/repos/asf
+
+
+
+2009-08-14T15:45:33.215957Z
+804266
+mcculls
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+console.gui
+dir
+
+jmx.httpconnector
+dir
+
+managedelements.memoryprobe
+dir
+
+jmx.remotelogger
+dir
+
+pom.xml
+file
+
+
+
+
+2010-05-25T06:01:44.958901Z
+c84d7563d5cf847b78329c404aa8318b
+2009-04-09T12:09:09.869418Z
+763614
+clement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1820
+
+jmx.agent
+dir
+
+managedelements.bundlesprobes
+dir
+
+jmx.rmiconnector
+dir
+
+managedelements.obrprobe
+dir
+
+console.ifc
+dir
+
+console.component
+dir
+
+managedelements.osgiprobes
+dir
+
+managedelements.bundlesprobes.tab
+dir
+
+jmx.registry
+dir
+
+doc
+dir
+
+managedelements.obrprobe.tab
+dir
+
+managedelements.osgiprobes.tab
+dir
+

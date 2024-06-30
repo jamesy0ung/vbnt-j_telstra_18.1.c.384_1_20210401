@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 58
+.settings
+
+bin
+
+.deployment
+
+.project
+
+.classpath
+
+target
+
+END

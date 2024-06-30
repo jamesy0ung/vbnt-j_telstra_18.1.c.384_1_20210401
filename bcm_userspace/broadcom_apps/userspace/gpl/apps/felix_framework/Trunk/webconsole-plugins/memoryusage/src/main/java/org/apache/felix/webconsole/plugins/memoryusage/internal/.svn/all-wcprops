@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/931858/felix/trunk/webconsole-plugins/memoryusage/src/main/java/org/apache/felix/webconsole/plugins/memoryusage/internal
+END
+MemoryUsageConfigurator.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/927746/felix/trunk/webconsole-plugins/memoryusage/src/main/java/org/apache/felix/webconsole/plugins/memoryusage/internal/MemoryUsageConfigurator.java
+END
+MemoryUsageConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/927746/felix/trunk/webconsole-plugins/memoryusage/src/main/java/org/apache/felix/webconsole/plugins/memoryusage/internal/MemoryUsageConstants.java
+END
+MemoryUsageSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/931858/felix/trunk/webconsole-plugins/memoryusage/src/main/java/org/apache/felix/webconsole/plugins/memoryusage/internal/MemoryUsageSupport.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/931858/felix/trunk/webconsole-plugins/memoryusage/src/main/java/org/apache/felix/webconsole/plugins/memoryusage/internal/Activator.java
+END
+MemoryUsageCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/927746/felix/trunk/webconsole-plugins/memoryusage/src/main/java/org/apache/felix/webconsole/plugins/memoryusage/internal/MemoryUsageCommand.java
+END
+MemoryUsagePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/931858/felix/trunk/webconsole-plugins/memoryusage/src/main/java/org/apache/felix/webconsole/plugins/memoryusage/internal/MemoryUsagePanel.java
+END

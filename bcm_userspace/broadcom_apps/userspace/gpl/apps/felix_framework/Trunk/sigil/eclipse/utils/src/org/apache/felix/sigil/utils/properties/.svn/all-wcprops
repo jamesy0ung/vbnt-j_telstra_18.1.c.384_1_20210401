@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/eclipse/utils/src/org/apache/felix/sigil/utils/properties
+END
+EditorPropertyTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/eclipse/utils/src/org/apache/felix/sigil/utils/properties/EditorPropertyTester.java
+END
+ResourceTypePropertyTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/eclipse/utils/src/org/apache/felix/sigil/utils/properties/ResourceTypePropertyTester.java
+END
+PartKindPropertyTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/eclipse/utils/src/org/apache/felix/sigil/utils/properties/PartKindPropertyTester.java
+END

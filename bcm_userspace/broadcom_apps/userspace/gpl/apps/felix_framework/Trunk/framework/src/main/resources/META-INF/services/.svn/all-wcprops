@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/750065/felix/trunk/framework/src/main/resources/META-INF/services
+END
+org.osgi.framework.launch.FrameworkFactory
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/750065/felix/trunk/framework/src/main/resources/META-INF/services/org.osgi.framework.launch.FrameworkFactory
+END

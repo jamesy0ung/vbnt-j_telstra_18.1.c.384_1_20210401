@@ -1,0 +1,24 @@
+K 10
+svn:ignore
+V 126
+target
+
+FooImpl.jar
+
+mandatory.jar
+
+notsupported.jar
+
+never.jar
+
+required.jar
+
+supported.jar
+
+.settings
+
+.classpath
+
+.project
+
+END

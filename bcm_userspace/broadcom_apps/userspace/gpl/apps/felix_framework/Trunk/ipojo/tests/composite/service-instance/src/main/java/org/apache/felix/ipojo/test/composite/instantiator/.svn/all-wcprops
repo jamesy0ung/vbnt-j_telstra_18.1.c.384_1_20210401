@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/730353/felix/trunk/ipojo/tests/composite/service-instance/src/main/java/org/apache/felix/ipojo/test/composite/instantiator
+END
+MultipleInstantiation.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/730353/felix/trunk/ipojo/tests/composite/service-instance/src/main/java/org/apache/felix/ipojo/test/composite/instantiator/MultipleInstantiation.java
+END
+ConfigurableInstantiation.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/composite/service-instance/src/main/java/org/apache/felix/ipojo/test/composite/instantiator/ConfigurableInstantiation.java
+END
+OptionalMultipleInstantiation.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/composite/service-instance/src/main/java/org/apache/felix/ipojo/test/composite/instantiator/OptionalMultipleInstantiation.java
+END
+InstantiatorTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/703957/felix/trunk/ipojo/tests/composite/service-instance/src/main/java/org/apache/felix/ipojo/test/composite/instantiator/InstantiatorTestSuite.java
+END
+OptionalInstantiation.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/730353/felix/trunk/ipojo/tests/composite/service-instance/src/main/java/org/apache/felix/ipojo/test/composite/instantiator/OptionalInstantiation.java
+END
+SimpleInstantiation.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/730353/felix/trunk/ipojo/tests/composite/service-instance/src/main/java/org/apache/felix/ipojo/test/composite/instantiator/SimpleInstantiation.java
+END

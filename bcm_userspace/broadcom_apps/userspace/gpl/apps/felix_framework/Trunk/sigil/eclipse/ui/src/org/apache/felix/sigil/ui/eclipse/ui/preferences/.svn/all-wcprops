@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/910893/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/ui/eclipse/ui/preferences
+END
+LibraryPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/ui/eclipse/ui/preferences/LibraryPreferencePage.java
+END
+SigilPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/ui/eclipse/ui/preferences/SigilPreferencePage.java
+END
+VersionsPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/910893/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/ui/eclipse/ui/preferences/VersionsPreferencePage.java
+END
+ExcludedResourcesPrefsPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/798644/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/ui/eclipse/ui/preferences/ExcludedResourcesPrefsPage.java
+END
+OptionalPrompt.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/ui/eclipse/ui/preferences/OptionalPrompt.java
+END
+LibraryConfigurationDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/910893/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/ui/eclipse/ui/preferences/LibraryConfigurationDialog.java
+END
+ProjectDependentPreferencesPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/ui/eclipse/ui/preferences/ProjectDependentPreferencesPage.java
+END

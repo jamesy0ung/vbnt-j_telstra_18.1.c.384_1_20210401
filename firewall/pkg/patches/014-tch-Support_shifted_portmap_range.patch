@@ -1,0 +1,59 @@
+--- a/redirects.c
++++ b/redirects.c
+@@ -410,7 +410,8 @@ set_redirect(struct fw3_ipt_rule *r, str
+ 
+ static void
+ set_snat_dnat(struct fw3_ipt_rule *r, enum fw3_flag target,
+-              struct fw3_address *addr, struct fw3_port *port)
++              struct fw3_address *addr, struct fw3_port *port,
++              struct fw3_port *port_base)
+ {
+ 	char buf[sizeof("255.255.255.255:65535-65535\0")];
+ 
+@@ -425,9 +426,15 @@ set_snat_dnat(struct fw3_ipt_rule *r, en
+ 	{
+ 		if (port->port_min == port->port_max)
+ 			sprintf(buf + strlen(buf), ":%u", port->port_min);
+-		else
++		else {
+ 			sprintf(buf + strlen(buf), ":%u-%u",
+ 			        port->port_min, port->port_max);
++			if (port_base && port_base->set &&
++			    port_base->port_min != port_base->port_max &&
++			    (port_base->port_min != port->port_min ||
++			     port_base->port_max != port->port_max))
++				sprintf(buf + strlen(buf), "/%u", port_base->port_min);
++		}
+ 	}
+ 
+ 	if (target == FW3_FLAG_DNAT)
+@@ -448,9 +455,9 @@ set_target_nat(struct fw3_ipt_rule *r, s
+ 	if (redir->local)
+ 		set_redirect(r, &redir->port_redir);
+ 	else if (redir->target == FW3_FLAG_DNAT)
+-		set_snat_dnat(r, redir->target, &redir->ip_redir, &redir->port_redir);
++		set_snat_dnat(r, redir->target, &redir->ip_redir, &redir->port_redir, &redir->port_dest);
+ 	else
+-		set_snat_dnat(r, redir->target, &redir->ip_dest, &redir->port_dest);
++		set_snat_dnat(r, redir->target, &redir->ip_dest, &redir->port_dest, NULL);
+ }
+ 
+ static void
+@@ -529,7 +536,7 @@ print_reflection(struct fw3_ipt_handle *
+ 		fw3_ipt_rule_limit(r, &redir->limit);
+ 		fw3_ipt_rule_time(r, &redir->time);
+ 		set_comment(r, redir->name, num, true);
+-		set_snat_dnat(r, FW3_FLAG_DNAT, &redir->ip_redir, &redir->port_redir);
++		set_snat_dnat(r, FW3_FLAG_DNAT, &redir->ip_redir, &redir->port_redir, &redir->port_dest);
+ 		fw3_ipt_rule_replace(r, "zone_%s_prerouting", redir->dest.name);
+ 
+ 		r = fw3_ipt_rule_create(h, proto, NULL, NULL, ia, &redir->ip_redir);
+@@ -537,7 +544,7 @@ print_reflection(struct fw3_ipt_handle *
+ 		fw3_ipt_rule_limit(r, &redir->limit);
+ 		fw3_ipt_rule_time(r, &redir->time);
+ 		set_comment(r, redir->name, num, true);
+-		set_snat_dnat(r, FW3_FLAG_SNAT, ra, NULL);
++		set_snat_dnat(r, FW3_FLAG_SNAT, ra, NULL, NULL);
+ 		fw3_ipt_rule_replace(r, "zone_%s_postrouting", redir->dest.name);
+ 		break;
+ 

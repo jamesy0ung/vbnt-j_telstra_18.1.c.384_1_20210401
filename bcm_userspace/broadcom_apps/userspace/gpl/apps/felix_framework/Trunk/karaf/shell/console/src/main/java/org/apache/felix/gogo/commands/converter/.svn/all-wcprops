@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/952918/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/gogo/commands/converter
+END
+ReifiedType.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/952918/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/gogo/commands/converter/ReifiedType.java
+END
+DefaultConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/952918/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/gogo/commands/converter/DefaultConverter.java
+END
+GenericType.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/952918/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/gogo/commands/converter/GenericType.java
+END

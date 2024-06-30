@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/927721/felix/trunk/bundlerepository/src/test/java/org/apache/felix/bundlerepository/impl
+END
+RepositoryImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/925279/felix/trunk/bundlerepository/src/test/java/org/apache/felix/bundlerepository/impl/RepositoryImplTest.java
+END
+ResolverImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/925279/felix/trunk/bundlerepository/src/test/java/org/apache/felix/bundlerepository/impl/ResolverImplTest.java
+END
+RepositoryAdminTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/925279/felix/trunk/bundlerepository/src/test/java/org/apache/felix/bundlerepository/impl/RepositoryAdminTest.java
+END
+DataModelHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/927721/felix/trunk/bundlerepository/src/test/java/org/apache/felix/bundlerepository/impl/DataModelHelperTest.java
+END
+StaxParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/925279/felix/trunk/bundlerepository/src/test/java/org/apache/felix/bundlerepository/impl/StaxParserTest.java
+END

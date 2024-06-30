@@ -1,0 +1,77 @@
+10
+
+dir
+957403
+http://svn.apache.org/repos/asf/felix/trunk/eventadmin
+http://svn.apache.org/repos/asf
+
+
+
+2010-02-18T07:42:50.134277Z
+911270
+cziegeler
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+impl
+dir
+
+bridge.configuration
+dir
+
+bridge.useradmin
+dir
+
+bridge.wireadmin
+dir
+
+pom.xml
+file
+
+
+
+
+2010-05-25T05:46:45.906250Z
+24c15b6a38ce54da84dbc2860904cd24
+2009-04-09T12:09:09.869418Z
+763614
+clement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1649
+
+bridge.upnp
+dir
+

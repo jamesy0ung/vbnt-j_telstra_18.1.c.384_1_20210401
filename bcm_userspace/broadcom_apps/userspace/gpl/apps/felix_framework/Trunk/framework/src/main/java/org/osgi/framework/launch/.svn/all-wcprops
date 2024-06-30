@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/launch
+END
+FrameworkFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/launch/FrameworkFactory.java
+END
+packageinfo
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/launch/packageinfo
+END
+Framework.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/launch/Framework.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/framework/launch/package.html
+END

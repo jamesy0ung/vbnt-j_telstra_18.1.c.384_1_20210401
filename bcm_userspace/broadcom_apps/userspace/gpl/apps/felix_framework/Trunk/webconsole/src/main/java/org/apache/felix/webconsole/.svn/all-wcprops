@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/955159/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole
+END
+ModeAwareConfigurationPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/903602/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/ModeAwareConfigurationPrinter.java
+END
+AbstractWebConsolePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/931947/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/AbstractWebConsolePlugin.java
+END
+AttachmentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/908973/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/AttachmentProvider.java
+END
+BrandingPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/908973/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/BrandingPlugin.java
+END
+WebConsoleSecurityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/953121/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/WebConsoleSecurityProvider.java
+END
+VariableResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/903634/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/VariableResolver.java
+END
+DefaultBrandingPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/908931/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/DefaultBrandingPlugin.java
+END
+SimpleWebConsolePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/922540/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/SimpleWebConsolePlugin.java
+END
+ConfigurationPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/908973/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/ConfigurationPrinter.java
+END
+DefaultVariableResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/908973/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/DefaultVariableResolver.java
+END
+WebConsoleConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/931511/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/WebConsoleConstants.java
+END
+WebConsoleUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/951318/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/WebConsoleUtil.java
+END

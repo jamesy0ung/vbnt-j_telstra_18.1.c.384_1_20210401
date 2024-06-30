@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/918208/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/ui/eclipse/ui/quickfix
+END
+ImportSearchResultProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/918208/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/ui/eclipse/ui/quickfix/ImportSearchResultProposal.java
+END
+ImportPackageProposal.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/918208/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/ui/eclipse/ui/quickfix/ImportPackageProposal.java
+END
+ImportedClassReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/ui/eclipse/ui/quickfix/ImportedClassReference.java
+END
+ImportQuickFixProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/eclipse/ui/src/org/apache/felix/sigil/ui/eclipse/ui/quickfix/ImportQuickFixProcessor.java
+END

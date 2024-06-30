@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/791729/felix/trunk/ipojo/handler/extender/src/main/java/org/apache/felix/ipojo/handler/extender
+END
+BundleTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/791729/felix/trunk/ipojo/handler/extender/src/main/java/org/apache/felix/ipojo/handler/extender/BundleTracker.java
+END
+ExtenderManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/702202/felix/trunk/ipojo/handler/extender/src/main/java/org/apache/felix/ipojo/handler/extender/ExtenderManager.java
+END
+ExtenderModelHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/702202/felix/trunk/ipojo/handler/extender/src/main/java/org/apache/felix/ipojo/handler/extender/ExtenderModelHandler.java
+END

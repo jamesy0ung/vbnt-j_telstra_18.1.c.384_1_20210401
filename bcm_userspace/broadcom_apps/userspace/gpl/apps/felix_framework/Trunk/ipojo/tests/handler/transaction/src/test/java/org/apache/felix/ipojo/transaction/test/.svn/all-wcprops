@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/939968/felix/trunk/ipojo/tests/handler/transaction/src/test/java/org/apache/felix/ipojo/transaction/test
+END
+TestNever.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/939968/felix/trunk/ipojo/tests/handler/transaction/src/test/java/org/apache/felix/ipojo/transaction/test/TestNever.java
+END
+TestRequires.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/939968/felix/trunk/ipojo/tests/handler/transaction/src/test/java/org/apache/felix/ipojo/transaction/test/TestRequires.java
+END
+TestInstallation.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/939968/felix/trunk/ipojo/tests/handler/transaction/src/test/java/org/apache/felix/ipojo/transaction/test/TestInstallation.java
+END
+TestInvalidation.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/939968/felix/trunk/ipojo/tests/handler/transaction/src/test/java/org/apache/felix/ipojo/transaction/test/TestInvalidation.java
+END
+TestSupported.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/939968/felix/trunk/ipojo/tests/handler/transaction/src/test/java/org/apache/felix/ipojo/transaction/test/TestSupported.java
+END
+TestNotSupported.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/939968/felix/trunk/ipojo/tests/handler/transaction/src/test/java/org/apache/felix/ipojo/transaction/test/TestNotSupported.java
+END
+TestRequiresNew.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/939968/felix/trunk/ipojo/tests/handler/transaction/src/test/java/org/apache/felix/ipojo/transaction/test/TestRequiresNew.java
+END
+TestAnnotations.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/939968/felix/trunk/ipojo/tests/handler/transaction/src/test/java/org/apache/felix/ipojo/transaction/test/TestAnnotations.java
+END
+TestMandatory.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/939968/felix/trunk/ipojo/tests/handler/transaction/src/test/java/org/apache/felix/ipojo/transaction/test/TestMandatory.java
+END

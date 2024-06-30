@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/803669/felix/trunk/metatype/src/main/java/org/apache/felix/metatype/internal
+END
+ServiceMetaTypeInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/803669/felix/trunk/metatype/src/main/java/org/apache/felix/metatype/internal/ServiceMetaTypeInformation.java
+END
+MetaTypeInformationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/803669/felix/trunk/metatype/src/main/java/org/apache/felix/metatype/internal/MetaTypeInformationImpl.java
+END
+LocalizedBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/803669/felix/trunk/metatype/src/main/java/org/apache/felix/metatype/internal/LocalizedBase.java
+END
+LocalizedAttributeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/803669/felix/trunk/metatype/src/main/java/org/apache/felix/metatype/internal/LocalizedAttributeDefinition.java
+END
+MetaTypeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/803669/felix/trunk/metatype/src/main/java/org/apache/felix/metatype/internal/MetaTypeServiceImpl.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/803669/felix/trunk/metatype/src/main/java/org/apache/felix/metatype/internal/Activator.java
+END
+LocalizedObjectClassDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/803669/felix/trunk/metatype/src/main/java/org/apache/felix/metatype/internal/LocalizedObjectClassDefinition.java
+END

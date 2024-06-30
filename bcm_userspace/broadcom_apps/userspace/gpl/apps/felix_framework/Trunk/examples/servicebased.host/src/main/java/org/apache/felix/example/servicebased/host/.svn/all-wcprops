@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/783472/felix/trunk/examples/servicebased.host/src/main/java/org/apache/felix/example/servicebased/host
+END
+ShapeComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/556053/felix/trunk/examples/servicebased.host/src/main/java/org/apache/felix/example/servicebased/host/ShapeComponent.java
+END
+DefaultShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/559558/felix/trunk/examples/servicebased.host/src/main/java/org/apache/felix/example/servicebased/host/DefaultShape.java
+END
+DrawingFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/559558/felix/trunk/examples/servicebased.host/src/main/java/org/apache/felix/example/servicebased/host/DrawingFrame.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/783472/felix/trunk/examples/servicebased.host/src/main/java/org/apache/felix/example/servicebased/host/Activator.java
+END
+ShapeTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/559558/felix/trunk/examples/servicebased.host/src/main/java/org/apache/felix/example/servicebased/host/ShapeTracker.java
+END

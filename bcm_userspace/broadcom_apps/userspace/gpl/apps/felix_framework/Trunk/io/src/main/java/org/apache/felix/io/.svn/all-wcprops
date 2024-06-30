@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/890151/felix/trunk/io/src/main/java/org/apache/felix/io
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/890151/felix/trunk/io/src/main/java/org/apache/felix/io/Activator.java
+END
+ConnectorServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/890151/felix/trunk/io/src/main/java/org/apache/felix/io/ConnectorServiceImpl.java
+END

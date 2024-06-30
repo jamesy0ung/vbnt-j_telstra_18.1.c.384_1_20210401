@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/642265/felix/trunk/ipojo/examples/property-handler/PropertyHandlerTest/src/main/java/org/apache/felix/ipojo/handler/properties/example
+END
+PropertiesTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/642265/felix/trunk/ipojo/examples/property-handler/PropertyHandlerTest/src/main/java/org/apache/felix/ipojo/handler/properties/example/PropertiesTester.java
+END
+AnnotationPropertiesTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/asf/!svn/ver/642265/felix/trunk/ipojo/examples/property-handler/PropertyHandlerTest/src/main/java/org/apache/felix/ipojo/handler/properties/example/AnnotationPropertiesTester.java
+END

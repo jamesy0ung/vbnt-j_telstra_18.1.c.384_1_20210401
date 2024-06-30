@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/906932/felix/trunk/karaf/admin/core/src/main/resources/org/apache/felix/karaf/admin/bin
+END
+start.bat
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/906932/felix/trunk/karaf/admin/core/src/main/resources/org/apache/felix/karaf/admin/bin/start.bat
+END
+karaf
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/906932/felix/trunk/karaf/admin/core/src/main/resources/org/apache/felix/karaf/admin/bin/karaf
+END
+stop
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/906932/felix/trunk/karaf/admin/core/src/main/resources/org/apache/felix/karaf/admin/bin/stop
+END
+karaf.bat
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/906932/felix/trunk/karaf/admin/core/src/main/resources/org/apache/felix/karaf/admin/bin/karaf.bat
+END
+stop.bat
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/906932/felix/trunk/karaf/admin/core/src/main/resources/org/apache/felix/karaf/admin/bin/stop.bat
+END
+start
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/906932/felix/trunk/karaf/admin/core/src/main/resources/org/apache/felix/karaf/admin/bin/start
+END

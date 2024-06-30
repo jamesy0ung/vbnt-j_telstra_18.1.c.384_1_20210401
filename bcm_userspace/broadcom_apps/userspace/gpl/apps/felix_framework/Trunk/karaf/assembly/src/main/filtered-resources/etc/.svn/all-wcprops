@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/953588/felix/trunk/karaf/assembly/src/main/filtered-resources/etc
+END
+config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/952614/felix/trunk/karaf/assembly/src/main/filtered-resources/etc/config.properties
+END
+org.apache.felix.karaf.features.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/944774/felix/trunk/karaf/assembly/src/main/filtered-resources/etc/org.apache.felix.karaf.features.cfg
+END
+startup.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/953588/felix/trunk/karaf/assembly/src/main/filtered-resources/etc/startup.properties
+END

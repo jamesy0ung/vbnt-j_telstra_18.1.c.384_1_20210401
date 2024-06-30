@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/918577/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/core/repository
+END
+FileSystemRepositoryProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/core/repository/FileSystemRepositoryProvider.java
+END
+SystemRepositoryProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/911056/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/core/repository/SystemRepositoryProvider.java
+END
+DirectoryHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/911061/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/core/repository/DirectoryHelper.java
+END
+FileSystemRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/core/repository/FileSystemRepository.java
+END
+SystemRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/916032/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/core/repository/SystemRepository.java
+END
+ProgressWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/796467/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/core/repository/ProgressWrapper.java
+END
+BundleResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/918577/felix/trunk/sigil/common/core/src/org/apache/felix/sigil/core/repository/BundleResolver.java
+END

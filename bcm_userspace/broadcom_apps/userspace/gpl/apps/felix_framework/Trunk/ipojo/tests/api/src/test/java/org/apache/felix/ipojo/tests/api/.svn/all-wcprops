@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/939354/felix/trunk/ipojo/tests/api/src/test/java/org/apache/felix/ipojo/tests/api
+END
+ExternalHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/939354/felix/trunk/ipojo/tests/api/src/test/java/org/apache/felix/ipojo/tests/api/ExternalHandlerTest.java
+END
+IPOJOHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/765176/felix/trunk/ipojo/tests/api/src/test/java/org/apache/felix/ipojo/tests/api/IPOJOHelper.java
+END
+OSGiHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/765176/felix/trunk/ipojo/tests/api/src/test/java/org/apache/felix/ipojo/tests/api/OSGiHelper.java
+END
+CompositeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/939354/felix/trunk/ipojo/tests/api/src/test/java/org/apache/felix/ipojo/tests/api/CompositeTest.java
+END
+SingletonComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/939354/felix/trunk/ipojo/tests/api/src/test/java/org/apache/felix/ipojo/tests/api/SingletonComponentTest.java
+END
+Whiteboard.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/766037/felix/trunk/ipojo/tests/api/src/test/java/org/apache/felix/ipojo/tests/api/Whiteboard.java
+END
+PrimitiveComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/939354/felix/trunk/ipojo/tests/api/src/test/java/org/apache/felix/ipojo/tests/api/PrimitiveComponentTest.java
+END

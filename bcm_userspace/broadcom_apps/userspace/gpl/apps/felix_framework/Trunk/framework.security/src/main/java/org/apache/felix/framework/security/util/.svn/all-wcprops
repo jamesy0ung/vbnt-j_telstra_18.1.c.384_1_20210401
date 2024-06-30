@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/956721/felix/trunk/framework.security/src/main/java/org/apache/felix/framework/security/util
+END
+PropertiesCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/897721/felix/trunk/framework.security/src/main/java/org/apache/felix/framework/security/util/PropertiesCache.java
+END
+BundleInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/949630/felix/trunk/framework.security/src/main/java/org/apache/felix/framework/security/util/BundleInputStream.java
+END
+LocalPermissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/949630/felix/trunk/framework.security/src/main/java/org/apache/felix/framework/security/util/LocalPermissions.java
+END
+Conditions.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/949630/felix/trunk/framework.security/src/main/java/org/apache/felix/framework/security/util/Conditions.java
+END
+Permissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/934141/felix/trunk/framework.security/src/main/java/org/apache/felix/framework/security/util/Permissions.java
+END
+TrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/956721/felix/trunk/framework.security/src/main/java/org/apache/felix/framework/security/util/TrustManager.java
+END

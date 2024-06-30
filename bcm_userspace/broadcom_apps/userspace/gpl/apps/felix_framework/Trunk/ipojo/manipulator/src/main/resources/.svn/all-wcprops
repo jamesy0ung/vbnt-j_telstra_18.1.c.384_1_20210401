@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/940905/felix/trunk/ipojo/manipulator/src/main/resources
+END
+composite.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/712637/felix/trunk/ipojo/manipulator/src/main/resources/composite.xsd
+END
+temporal.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/728731/felix/trunk/ipojo/manipulator/src/main/resources/temporal.xsd
+END
+whiteboard-pattern.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/720508/felix/trunk/ipojo/manipulator/src/main/resources/whiteboard-pattern.xsd
+END
+event-admin.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/720508/felix/trunk/ipojo/manipulator/src/main/resources/event-admin.xsd
+END
+core.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/940905/felix/trunk/ipojo/manipulator/src/main/resources/core.xsd
+END
+extender-pattern.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/712637/felix/trunk/ipojo/manipulator/src/main/resources/extender-pattern.xsd
+END
+jmx.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/712637/felix/trunk/ipojo/manipulator/src/main/resources/jmx.xsd
+END

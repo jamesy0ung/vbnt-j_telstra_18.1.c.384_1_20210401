@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/823506/felix/trunk/configadmin/src/test/java/org/apache/felix/cm/impl
+END
+CaseInsensitiveDictionaryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/823506/felix/trunk/configadmin/src/test/java/org/apache/felix/cm/impl/CaseInsensitiveDictionaryTest.java
+END
+ConfigurationManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/738399/felix/trunk/configadmin/src/test/java/org/apache/felix/cm/impl/ConfigurationManagerTest.java
+END
+DynamicBindingsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/804891/felix/trunk/configadmin/src/test/java/org/apache/felix/cm/impl/DynamicBindingsTest.java
+END
+ConfigurationAdapterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/735651/felix/trunk/configadmin/src/test/java/org/apache/felix/cm/impl/ConfigurationAdapterTest.java
+END
+MockConfigurationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/806063/felix/trunk/configadmin/src/test/java/org/apache/felix/cm/impl/MockConfigurationManager.java
+END

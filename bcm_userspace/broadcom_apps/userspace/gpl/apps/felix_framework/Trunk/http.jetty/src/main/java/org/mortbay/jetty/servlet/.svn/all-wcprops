@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/704643/felix/trunk/http.jetty/src/main/java/org/mortbay/jetty/servlet
+END
+OsgiServletHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/641218/felix/trunk/http.jetty/src/main/java/org/mortbay/jetty/servlet/OsgiServletHandler.java
+END
+OsgiServletHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/641218/felix/trunk/http.jetty/src/main/java/org/mortbay/jetty/servlet/OsgiServletHolder.java
+END
+OsgiResourceHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/704643/felix/trunk/http.jetty/src/main/java/org/mortbay/jetty/servlet/OsgiResourceHolder.java
+END

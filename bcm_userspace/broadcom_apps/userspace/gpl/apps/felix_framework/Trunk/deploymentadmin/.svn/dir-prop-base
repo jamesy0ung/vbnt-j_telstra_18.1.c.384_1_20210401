@@ -1,0 +1,25 @@
+K 10
+svn:ignore
+V 169
+.settings
+.classpath
+.project
+bin
+build
+target
+classes
+.wtpmodules
+.deployables
+*.iml
+*.ipr
+*.iws
+*.log
+lib
+bundle
+dist
+
+*.patch
+.externalToolBuilders
+maven-eclipse.xml
+
+END

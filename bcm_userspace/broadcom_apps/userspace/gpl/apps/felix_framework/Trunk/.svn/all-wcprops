@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repos/asf/!svn/ver/957383/felix/trunk
+END
+stage_existing_artifact.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/769050/felix/trunk/stage_existing_artifact.sh
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/asf/!svn/ver/821876/felix/trunk/.gitignore
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/asf/!svn/ver/953253/felix/trunk/pom.xml
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/asf/!svn/ver/534951/felix/trunk/readme.txt
+END
+build_run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/asf/!svn/ver/539512/felix/trunk/build_run.sh
+END
+check_staged_release.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/881269/felix/trunk/check_staged_release.sh
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/asf/!svn/ver/927855/felix/trunk/build.xml
+END

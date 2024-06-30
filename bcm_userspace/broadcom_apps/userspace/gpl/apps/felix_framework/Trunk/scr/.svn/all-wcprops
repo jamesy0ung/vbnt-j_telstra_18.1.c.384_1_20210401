@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/asf/!svn/ver/952964/felix/trunk/scr
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/asf/!svn/ver/832104/felix/trunk/scr/NOTICE
+END
+obr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/asf/!svn/ver/683575/felix/trunk/scr/obr.xml
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/asf/!svn/ver/609664/felix/trunk/scr/LICENSE
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/asf/!svn/ver/949284/felix/trunk/scr/changelog.txt
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/asf/!svn/ver/949285/felix/trunk/scr/pom.xml
+END
+LICENSE.kxml2
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/asf/!svn/ver/609664/felix/trunk/scr/LICENSE.kxml2
+END

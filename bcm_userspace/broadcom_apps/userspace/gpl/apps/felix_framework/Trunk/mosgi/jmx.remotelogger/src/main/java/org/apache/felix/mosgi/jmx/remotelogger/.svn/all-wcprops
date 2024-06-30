@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/668561/felix/trunk/mosgi/jmx.remotelogger/src/main/java/org/apache/felix/mosgi/jmx/remotelogger
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/668561/felix/trunk/mosgi/jmx.remotelogger/src/main/java/org/apache/felix/mosgi/jmx/remotelogger/Logger.java
+END
+LoggerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.remotelogger/src/main/java/org/apache/felix/mosgi/jmx/remotelogger/LoggerMBean.java
+END

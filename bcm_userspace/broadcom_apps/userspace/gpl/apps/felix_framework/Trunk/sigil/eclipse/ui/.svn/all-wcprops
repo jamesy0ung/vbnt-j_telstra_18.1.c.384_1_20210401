@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/asf/!svn/ver/920400/felix/trunk/sigil/eclipse/ui
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/800918/felix/trunk/sigil/eclipse/ui/.classpath
+END
+sigil.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/830900/felix/trunk/sigil/eclipse/ui/sigil.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/800918/felix/trunk/sigil/eclipse/ui/.project
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/796367/felix/trunk/sigil/eclipse/ui/ivy.xml
+END
+plugin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/794415/felix/trunk/sigil/eclipse/ui/plugin.properties
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/918580/felix/trunk/sigil/eclipse/ui/plugin.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/800008/felix/trunk/sigil/eclipse/ui/build.xml
+END

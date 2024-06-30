@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/952610/felix/trunk/karaf/assembly/src/main/distribution/windows-text/bin
+END
+start.bat
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/818654/felix/trunk/karaf/assembly/src/main/distribution/windows-text/bin/start.bat
+END
+karaf.bat
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/952610/felix/trunk/karaf/assembly/src/main/distribution/windows-text/bin/karaf.bat
+END
+stop.bat
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/900408/felix/trunk/karaf/assembly/src/main/distribution/windows-text/bin/stop.bat
+END

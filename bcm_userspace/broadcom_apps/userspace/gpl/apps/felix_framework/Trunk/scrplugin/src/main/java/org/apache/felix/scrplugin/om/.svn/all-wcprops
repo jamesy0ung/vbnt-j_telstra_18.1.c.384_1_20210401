@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/887955/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/om
+END
+Interface.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/822249/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/om/Interface.java
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/820997/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/om/Service.java
+END
+Component.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/887955/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/om/Component.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/887955/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/om/Property.java
+END
+Components.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/784126/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/om/Components.java
+END
+Implementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/567580/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/om/Implementation.java
+END
+AbstractObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/822249/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/om/AbstractObject.java
+END
+Reference.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/887955/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/om/Reference.java
+END

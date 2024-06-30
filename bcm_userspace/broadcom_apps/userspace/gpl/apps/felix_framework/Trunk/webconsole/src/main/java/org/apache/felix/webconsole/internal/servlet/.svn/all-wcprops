@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/955159/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/internal/servlet
+END
+ConfigurationListener2.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/933522/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/internal/servlet/ConfigurationListener2.java
+END
+OsgiManagerHttpContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/953121/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/internal/servlet/OsgiManagerHttpContext.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/953043/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/internal/servlet/Base64.java
+END
+OsgiManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/955159/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/internal/servlet/OsgiManager.java
+END
+PluginHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/955159/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/internal/servlet/PluginHolder.java
+END
+ConfigurationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/903278/felix/trunk/webconsole/src/main/java/org/apache/felix/webconsole/internal/servlet/ConfigurationListener.java
+END

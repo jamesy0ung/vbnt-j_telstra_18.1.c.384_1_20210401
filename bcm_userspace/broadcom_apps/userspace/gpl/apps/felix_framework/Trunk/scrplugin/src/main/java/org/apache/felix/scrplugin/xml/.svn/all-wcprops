@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/933227/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/xml
+END
+MetaTypeIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/822249/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/xml/MetaTypeIO.java
+END
+IOUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/933227/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/xml/IOUtils.java
+END
+ComponentDescriptorIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/887955/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/xml/ComponentDescriptorIO.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/534951/felix/trunk/examples/simple/native
+END
+simple_bundle_foo_method.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/534951/felix/trunk/examples/simple/native/simple_bundle_foo_method.c
+END
+org_apache_felix_examples_simple_Activator.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/534951/felix/trunk/examples/simple/native/org_apache_felix_examples_simple_Activator.h
+END
+libfoo.so
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/534951/felix/trunk/examples/simple/native/libfoo.so
+END
+build.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/534951/felix/trunk/examples/simple/native/build.txt
+END

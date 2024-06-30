@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/952590/felix/trunk/karaf/main/src/main/java/org/apache/felix/karaf/main
+END
+DefaultJDBCLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/946719/felix/trunk/karaf/main/src/main/java/org/apache/felix/karaf/main/DefaultJDBCLock.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/807374/felix/trunk/karaf/main/src/main/java/org/apache/felix/karaf/main/Utils.java
+END
+DerbyJDBCLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/946719/felix/trunk/karaf/main/src/main/java/org/apache/felix/karaf/main/DerbyJDBCLock.java
+END
+MySQLJDBCLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/946719/felix/trunk/karaf/main/src/main/java/org/apache/felix/karaf/main/MySQLJDBCLock.java
+END
+OracleJDBCLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/946719/felix/trunk/karaf/main/src/main/java/org/apache/felix/karaf/main/OracleJDBCLock.java
+END
+SimpleFileLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/main/src/main/java/org/apache/felix/karaf/main/SimpleFileLock.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/939602/felix/trunk/karaf/main/src/main/java/org/apache/felix/karaf/main/Main.java
+END
+StringMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/906440/felix/trunk/karaf/main/src/main/java/org/apache/felix/karaf/main/StringMap.java
+END
+Stop.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/900408/felix/trunk/karaf/main/src/main/java/org/apache/felix/karaf/main/Stop.java
+END
+Statements.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/946719/felix/trunk/karaf/main/src/main/java/org/apache/felix/karaf/main/Statements.java
+END
+Lock.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/946719/felix/trunk/karaf/main/src/main/java/org/apache/felix/karaf/main/Lock.java
+END
+BootstrapLogManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/908589/felix/trunk/karaf/main/src/main/java/org/apache/felix/karaf/main/BootstrapLogManager.java
+END
+Bootstrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/952590/felix/trunk/karaf/main/src/main/java/org/apache/felix/karaf/main/Bootstrap.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/797564/felix/trunk/org.osgi.compendium/src/main/resources/org/osgi/service/blueprint/container
+END
+packageinfo
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/797564/felix/trunk/org.osgi.compendium/src/main/resources/org/osgi/service/blueprint/container/packageinfo
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/797564/felix/trunk/org.osgi.compendium/src/main/resources/org/osgi/service/blueprint/container/package.html
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/asf/!svn/ver/815275/felix/trunk/javax.servlet
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/609539/felix/trunk/javax.servlet/NOTICE
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/609539/felix/trunk/javax.servlet/LICENSE
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/815275/felix/trunk/javax.servlet/pom.xml
+END

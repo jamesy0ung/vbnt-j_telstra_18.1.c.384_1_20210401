@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/768564/felix/trunk/shell.remote/src/main/java/org/apache/felix/shell/remote
+END
+TerminalPrintStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/768564/felix/trunk/shell.remote/src/main/java/org/apache/felix/shell/remote/TerminalPrintStream.java
+END
+Listener.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/768564/felix/trunk/shell.remote/src/main/java/org/apache/felix/shell/remote/Listener.java
+END
+ServiceMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/768564/felix/trunk/shell.remote/src/main/java/org/apache/felix/shell/remote/ServiceMediator.java
+END
+Shell.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/768564/felix/trunk/shell.remote/src/main/java/org/apache/felix/shell/remote/Shell.java
+END
+AtomicInteger.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/768539/felix/trunk/shell.remote/src/main/java/org/apache/felix/shell/remote/AtomicInteger.java
+END
+ReentrantLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/768539/felix/trunk/shell.remote/src/main/java/org/apache/felix/shell/remote/ReentrantLock.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/768564/felix/trunk/shell.remote/src/main/java/org/apache/felix/shell/remote/Activator.java
+END
+TerminalReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/768539/felix/trunk/shell.remote/src/main/java/org/apache/felix/shell/remote/TerminalReader.java
+END

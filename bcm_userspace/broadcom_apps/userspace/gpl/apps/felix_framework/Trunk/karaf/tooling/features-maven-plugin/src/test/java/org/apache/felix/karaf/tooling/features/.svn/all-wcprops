@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/933859/felix/trunk/karaf/tooling/features-maven-plugin/src/test/java/org/apache/felix/karaf/tooling/features
+END
+GenerateFeaturesXmlMojoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/785170/felix/trunk/karaf/tooling/features-maven-plugin/src/test/java/org/apache/felix/karaf/tooling/features/GenerateFeaturesXmlMojoTest.java
+END
+ManifestUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/933859/felix/trunk/karaf/tooling/features-maven-plugin/src/test/java/org/apache/felix/karaf/tooling/features/ManifestUtilsTest.java
+END
+GenerateFeaturesFileMojoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/785170/felix/trunk/karaf/tooling/features-maven-plugin/src/test/java/org/apache/felix/karaf/tooling/features/GenerateFeaturesFileMojoTest.java
+END

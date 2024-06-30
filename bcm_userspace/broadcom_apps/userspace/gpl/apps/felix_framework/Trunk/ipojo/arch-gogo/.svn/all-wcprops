@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/asf/!svn/ver/954206/felix/trunk/ipojo/arch-gogo
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/954206/felix/trunk/ipojo/arch-gogo/NOTICE
+END
+obr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/942333/felix/trunk/ipojo/arch-gogo/obr.xml
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/942333/felix/trunk/ipojo/arch-gogo/LICENSE
+END
+DEPENDENCIES
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/954206/felix/trunk/ipojo/arch-gogo/DEPENDENCIES
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/953135/felix/trunk/ipojo/arch-gogo/pom.xml
+END

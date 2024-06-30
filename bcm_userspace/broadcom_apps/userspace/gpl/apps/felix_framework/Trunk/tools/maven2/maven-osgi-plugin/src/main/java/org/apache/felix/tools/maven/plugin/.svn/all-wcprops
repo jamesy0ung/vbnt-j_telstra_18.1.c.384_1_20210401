@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/559878/felix/trunk/tools/maven2/maven-osgi-plugin/src/main/java/org/apache/felix/tools/maven/plugin
+END
+Clazz.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/534951/felix/trunk/tools/maven2/maven-osgi-plugin/src/main/java/org/apache/felix/tools/maven/plugin/Clazz.java
+END
+OsgiJarMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/559878/felix/trunk/tools/maven2/maven-osgi-plugin/src/main/java/org/apache/felix/tools/maven/plugin/OsgiJarMojo.java
+END
+OsgiManifest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/548480/felix/trunk/tools/maven2/maven-osgi-plugin/src/main/java/org/apache/felix/tools/maven/plugin/OsgiManifest.java
+END
+Jar.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/534951/felix/trunk/tools/maven2/maven-osgi-plugin/src/main/java/org/apache/felix/tools/maven/plugin/Jar.java
+END
+QuotedTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/534951/felix/trunk/tools/maven2/maven-osgi-plugin/src/main/java/org/apache/felix/tools/maven/plugin/QuotedTokenizer.java
+END

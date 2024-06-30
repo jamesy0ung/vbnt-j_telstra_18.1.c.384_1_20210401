@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/883832/felix/trunk/ipojo/tests/core/service-providing-strategies/src/main/java/org/apache/felix/ipojo/test/scenarios/ps/strategies
+END
+CustomStrategy2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/883832/felix/trunk/ipojo/tests/core/service-providing-strategies/src/main/java/org/apache/felix/ipojo/test/scenarios/ps/strategies/CustomStrategy2Test.java
+END
+ProvidedServiceStrategyTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/asf/!svn/ver/728056/felix/trunk/ipojo/tests/core/service-providing-strategies/src/main/java/org/apache/felix/ipojo/test/scenarios/ps/strategies/ProvidedServiceStrategyTestSuite.java
+END
+CustomStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/730353/felix/trunk/ipojo/tests/core/service-providing-strategies/src/main/java/org/apache/felix/ipojo/test/scenarios/ps/strategies/CustomStrategyTest.java
+END
+PerInstanceStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/asf/!svn/ver/730353/felix/trunk/ipojo/tests/core/service-providing-strategies/src/main/java/org/apache/felix/ipojo/test/scenarios/ps/strategies/PerInstanceStrategyTest.java
+END

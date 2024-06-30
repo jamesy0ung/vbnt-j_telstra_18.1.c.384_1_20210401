@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/tv/src/main/resources/org/apache/felix/upnp/sample/tv/images
+END
+logo.gif
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/tv/src/main/resources/org/apache/felix/upnp/sample/tv/images/logo.gif
+END
+tvon.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/569746/felix/trunk/upnp/samples/tv/src/main/resources/org/apache/felix/upnp/sample/tv/images/tvon.jpg
+END
+tv.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/569746/felix/trunk/upnp/samples/tv/src/main/resources/org/apache/felix/upnp/sample/tv/images/tv.jpg
+END
+tv.gif
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/tv/src/main/resources/org/apache/felix/upnp/sample/tv/images/tv.gif
+END

@@ -1,0 +1,8 @@
+[
+    "chat",
+    "ppp",
+    "ppp-mod-connstate",
+    "ppp-mod-pppoa-brcm",
+    "ppp-mod-pppoe",
+    "ppp-mod-pppol2tp"
+]

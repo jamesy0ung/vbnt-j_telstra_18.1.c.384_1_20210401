@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/534951/felix/trunk/shell/src/main/java/org/ungoverned/osgi/service/shell
+END
+CdCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/534951/felix/trunk/shell/src/main/java/org/ungoverned/osgi/service/shell/CdCommand.java
+END
+ShellService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/534951/felix/trunk/shell/src/main/java/org/ungoverned/osgi/service/shell/ShellService.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/534951/felix/trunk/shell/src/main/java/org/ungoverned/osgi/service/shell/Command.java
+END

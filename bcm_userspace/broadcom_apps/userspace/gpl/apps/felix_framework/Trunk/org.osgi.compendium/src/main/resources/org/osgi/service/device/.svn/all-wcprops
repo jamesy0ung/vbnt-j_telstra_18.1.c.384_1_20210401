@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/797564/felix/trunk/org.osgi.compendium/src/main/resources/org/osgi/service/device
+END
+packageinfo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.compendium/src/main/resources/org/osgi/service/device/packageinfo
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/797564/felix/trunk/org.osgi.compendium/src/main/resources/org/osgi/service/device/package.html
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/915288/felix/trunk/org.osgi.service.obr/src/main/java/org/osgi/service/obr
+END
+Repository.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/915288/felix/trunk/org.osgi.service.obr/src/main/java/org/osgi/service/obr/Repository.java
+END
+Requirement.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/578934/felix/trunk/org.osgi.service.obr/src/main/java/org/osgi/service/obr/Requirement.java
+END
+Capability.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/578934/felix/trunk/org.osgi.service.obr/src/main/java/org/osgi/service/obr/Capability.java
+END
+Resolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/915184/felix/trunk/org.osgi.service.obr/src/main/java/org/osgi/service/obr/Resolver.java
+END
+Resource.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/915288/felix/trunk/org.osgi.service.obr/src/main/java/org/osgi/service/obr/Resource.java
+END
+InterruptedResolutionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/915184/felix/trunk/org.osgi.service.obr/src/main/java/org/osgi/service/obr/InterruptedResolutionException.java
+END
+RepositoryAdmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/915288/felix/trunk/org.osgi.service.obr/src/main/java/org/osgi/service/obr/RepositoryAdmin.java
+END
+RepositoryPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/578934/felix/trunk/org.osgi.service.obr/src/main/java/org/osgi/service/obr/RepositoryPermission.java
+END
+CapabilityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/578934/felix/trunk/org.osgi.service.obr/src/main/java/org/osgi/service/obr/CapabilityProvider.java
+END

@@ -1,0 +1,14 @@
+/dts-v1/;
+
+/ {
+	compatible = "brcm,bcm963268";
+	model = "Broadcom BCM963268";
+
+	/* Legacy UBUS base */
+	ubus@10000000 {
+		compatible = "simple-bus";
+		ranges = <0 0x10000000 0x8000>;
+		#address-cells = <1>;
+		#size-cells = <1>;
+	};
+};

@@ -1,0 +1,4 @@
+Source: procd-2017-01-04-188353099cf6fc88f145cfcb84a4db3f6523528a.tar.xz
+Source-Url: http://git.openwrt.org/project/procd.git
+Source-Version: 188353099cf6fc88f145cfcb84a4db3f6523528a
+Source-Proto: 

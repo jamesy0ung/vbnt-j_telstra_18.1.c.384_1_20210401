@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/938378/felix/trunk/scr-annotations/src/main/java/org/apache/felix/scr/annotations
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/766372/felix/trunk/scr-annotations/src/main/java/org/apache/felix/scr/annotations/Service.java
+END
+Activate.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/793474/felix/trunk/scr-annotations/src/main/java/org/apache/felix/scr/annotations/Activate.java
+END
+AutoDetect.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/766372/felix/trunk/scr-annotations/src/main/java/org/apache/felix/scr/annotations/AutoDetect.java
+END
+Component.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/936755/felix/trunk/scr-annotations/src/main/java/org/apache/felix/scr/annotations/Component.java
+END
+Deactivate.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/793474/felix/trunk/scr-annotations/src/main/java/org/apache/felix/scr/annotations/Deactivate.java
+END
+PropertyOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/790577/felix/trunk/scr-annotations/src/main/java/org/apache/felix/scr/annotations/PropertyOption.java
+END
+ReferencePolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/766372/felix/trunk/scr-annotations/src/main/java/org/apache/felix/scr/annotations/ReferencePolicy.java
+END
+Modified.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/793474/felix/trunk/scr-annotations/src/main/java/org/apache/felix/scr/annotations/Modified.java
+END
+References.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/766372/felix/trunk/scr-annotations/src/main/java/org/apache/felix/scr/annotations/References.java
+END
+ReferenceStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/784173/felix/trunk/scr-annotations/src/main/java/org/apache/felix/scr/annotations/ReferenceStrategy.java
+END
+ReferenceCardinality.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/766372/felix/trunk/scr-annotations/src/main/java/org/apache/felix/scr/annotations/ReferenceCardinality.java
+END
+Services.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/766372/felix/trunk/scr-annotations/src/main/java/org/apache/felix/scr/annotations/Services.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/896326/felix/trunk/scr-annotations/src/main/java/org/apache/felix/scr/annotations/Property.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/766372/felix/trunk/scr-annotations/src/main/java/org/apache/felix/scr/annotations/package-info.java
+END
+ConfigurationPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/784173/felix/trunk/scr-annotations/src/main/java/org/apache/felix/scr/annotations/ConfigurationPolicy.java
+END
+Properties.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/766372/felix/trunk/scr-annotations/src/main/java/org/apache/felix/scr/annotations/Properties.java
+END
+Reference.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/887955/felix/trunk/scr-annotations/src/main/java/org/apache/felix/scr/annotations/Reference.java
+END

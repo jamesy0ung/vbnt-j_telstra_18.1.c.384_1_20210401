@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 48
+runner
+target
+.project
+.classpath
+bin
+.settings
+
+END

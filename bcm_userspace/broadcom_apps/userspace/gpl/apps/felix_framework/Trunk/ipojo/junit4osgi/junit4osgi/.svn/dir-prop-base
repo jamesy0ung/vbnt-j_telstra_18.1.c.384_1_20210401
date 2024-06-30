@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 89
+.checkstyle
+.classpath
+.externalToolBuilders
+.project
+.settings
+maven-eclipse.xml
+target
+
+END

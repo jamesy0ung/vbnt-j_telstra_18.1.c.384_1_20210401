@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/loading
+END
+ClassLoaderObjectInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/loading/ClassLoaderObjectInputStream.java
+END
+MLetParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/loading/MLetParseException.java
+END
+MLetTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/loading/MLetTag.java
+END
+MLetParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/loading/MLetParser.java
+END

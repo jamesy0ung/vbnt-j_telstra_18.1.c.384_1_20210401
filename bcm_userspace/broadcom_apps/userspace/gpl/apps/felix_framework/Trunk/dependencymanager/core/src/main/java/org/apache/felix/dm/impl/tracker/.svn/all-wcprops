@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/943054/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/tracker
+END
+AbstractTracked.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/887397/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/tracker/AbstractTracked.java
+END
+ServiceTrackerCustomizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/887397/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/tracker/ServiceTrackerCustomizer.java
+END
+BundleTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/887397/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/tracker/BundleTracker.java
+END
+BundleTrackerCustomizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/887397/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/tracker/BundleTrackerCustomizer.java
+END
+ServiceTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/943054/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/tracker/ServiceTracker.java
+END

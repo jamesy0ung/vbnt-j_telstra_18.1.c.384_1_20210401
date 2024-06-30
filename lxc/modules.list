@@ -1,0 +1,15 @@
+[
+    "liblxc",
+    "lxc",
+    "lxc-attach",
+    "lxc-common",
+    "lxc-configs",
+    "lxc-create",
+    "lxc-destroy",
+    "lxc-hooks",
+    "lxc-init",
+    "lxc-ls",
+    "lxc-start",
+    "lxc-stop",
+    "lxc-templates"
+]

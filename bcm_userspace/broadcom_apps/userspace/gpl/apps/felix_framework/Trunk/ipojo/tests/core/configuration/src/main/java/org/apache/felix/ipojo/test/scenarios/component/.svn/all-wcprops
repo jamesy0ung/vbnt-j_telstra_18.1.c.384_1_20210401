@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/770759/felix/trunk/ipojo/tests/core/configuration/src/main/java/org/apache/felix/ipojo/test/scenarios/component
+END
+ComplexConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/configuration/src/main/java/org/apache/felix/ipojo/test/scenarios/component/ComplexConfiguration.java
+END
+ParentClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/configuration/src/main/java/org/apache/felix/ipojo/test/scenarios/component/ParentClass.java
+END
+FooProviderType1.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/770759/felix/trunk/ipojo/tests/core/configuration/src/main/java/org/apache/felix/ipojo/test/scenarios/component/FooProviderType1.java
+END
+PropertyModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/713976/felix/trunk/ipojo/tests/core/configuration/src/main/java/org/apache/felix/ipojo/test/scenarios/component/PropertyModifier.java
+END
+ParentConfigurableCheckServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/configuration/src/main/java/org/apache/felix/ipojo/test/scenarios/component/ParentConfigurableCheckServiceProvider.java
+END
+CheckProviderParentClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/configuration/src/main/java/org/apache/felix/ipojo/test/scenarios/component/CheckProviderParentClass.java
+END
+CheckServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/configuration/src/main/java/org/apache/felix/ipojo/test/scenarios/component/CheckServiceProvider.java
+END
+ConfigurableCheckServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/713976/felix/trunk/ipojo/tests/core/configuration/src/main/java/org/apache/felix/ipojo/test/scenarios/component/ConfigurableCheckServiceProvider.java
+END
+FooProviderTypeDyn.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/770759/felix/trunk/ipojo/tests/core/configuration/src/main/java/org/apache/felix/ipojo/test/scenarios/component/FooProviderTypeDyn.java
+END

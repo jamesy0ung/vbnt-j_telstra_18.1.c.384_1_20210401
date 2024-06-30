@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/882531/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/io
+END
+UpdateAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/882531/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/io/UpdateAction.java
+END
+StatusAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/830891/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/io/StatusAction.java
+END
+StopAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/882531/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/io/StopAction.java
+END
+InstallAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/882531/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/io/InstallAction.java
+END
+UninstallAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/882531/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/io/UninstallAction.java
+END
+StartAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/882531/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/io/StartAction.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/830559/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/io/Constants.java
+END
+RefreshAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/830559/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/io/RefreshAction.java
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/882531/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/io/Action.java
+END

@@ -1,0 +1,77 @@
+10
+
+dir
+957403
+http://svn.apache.org/repos/asf/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver
+http://svn.apache.org/repos/asf
+
+
+
+2008-08-05T20:51:51.807709Z
+682942
+furfari
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+export
+dir
+
+importer
+dir
+
+controller
+dir
+
+Activator.java
+file
+
+
+
+
+2010-05-25T06:03:10.447653Z
+960d2a575a160d1489084830bce3527f
+2008-07-08T16:59:54.600705Z
+674879
+lenzi
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8543
+
+tool
+dir
+
+util
+dir
+

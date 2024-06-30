@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/938378/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/tags
+END
+JavaMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/608505/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/tags/JavaMethod.java
+END
+JavaParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/567580/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/tags/JavaParameter.java
+END
+ClassUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/880725/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/tags/ClassUtil.java
+END
+JavaField.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/618233/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/tags/JavaField.java
+END
+ModifiableJavaClassDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/820997/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/tags/ModifiableJavaClassDescription.java
+END
+JavaClassDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/820997/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/tags/JavaClassDescription.java
+END
+JavaClassDescriptionInheritanceComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/820997/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/tags/JavaClassDescriptionInheritanceComparator.java
+END
+JavaTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/822249/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/tags/JavaTag.java
+END

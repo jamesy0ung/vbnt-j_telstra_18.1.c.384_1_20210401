@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/asf/!svn/ver/763614/felix/trunk/maven-obr-plugin
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/620301/felix/trunk/maven-obr-plugin/NOTICE
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/604593/felix/trunk/maven-obr-plugin/LICENSE
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/763614/felix/trunk/maven-obr-plugin/pom.xml
+END
+LICENSE.kxml2
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/609922/felix/trunk/maven-obr-plugin/LICENSE.kxml2
+END

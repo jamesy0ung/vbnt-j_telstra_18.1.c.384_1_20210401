@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/core
+END
+CoreControllerMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/core/CoreControllerMBean.java
+END
+FrameworkMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/core/FrameworkMBean.java
+END
+ManagedServiceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/core/ManagedServiceMBean.java
+END
+ServiceNotAvailableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/core/ServiceNotAvailableException.java
+END
+NotImplementedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/core/NotImplementedException.java
+END
+ManagedBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/core/ManagedBundle.java
+END
+ManagedPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/core/ManagedPackage.java
+END
+ManagedBundleMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/core/ManagedBundleMBean.java
+END
+BundleNotAvailableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/core/BundleNotAvailableException.java
+END
+ManagedPackageMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/core/ManagedPackageMBean.java
+END
+CoreController.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/core/CoreController.java
+END
+Framework.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/core/Framework.java
+END
+ManagedService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/core/ManagedService.java
+END

@@ -1,0 +1,4 @@
+Source: opkg-2017-07-28.tar.gz
+Source-Url: https://git.lede-project.org/project/opkg-lede.git
+Source-Version: 4bd8601ebd95c130e504cc724b0c5eb163050982
+Source-Proto: 

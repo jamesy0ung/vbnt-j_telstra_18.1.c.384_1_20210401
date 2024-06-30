@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/905551/felix/trunk/karaf/deployer/features/src/main/resources/OSGI-INF/blueprint
+END
+features-deployer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/905551/felix/trunk/karaf/deployer/features/src/main/resources/OSGI-INF/blueprint/features-deployer.xml
+END

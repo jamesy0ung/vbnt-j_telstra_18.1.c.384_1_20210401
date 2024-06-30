@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/701978/felix/trunk/ipojo/tests/manipulator/metadata/src/main/java/org/apache/felix/ipojo/test/scenarios/manipulation
+END
+ManipulationMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/701978/felix/trunk/ipojo/tests/manipulator/metadata/src/main/java/org/apache/felix/ipojo/test/scenarios/manipulation/ManipulationMetadata.java
+END
+ManipulationTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/701978/felix/trunk/ipojo/tests/manipulator/metadata/src/main/java/org/apache/felix/ipojo/test/scenarios/manipulation/ManipulationTestSuite.java
+END
+ManipulationMetadataAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/701978/felix/trunk/ipojo/tests/manipulator/metadata/src/main/java/org/apache/felix/ipojo/test/scenarios/manipulation/ManipulationMetadataAPI.java
+END

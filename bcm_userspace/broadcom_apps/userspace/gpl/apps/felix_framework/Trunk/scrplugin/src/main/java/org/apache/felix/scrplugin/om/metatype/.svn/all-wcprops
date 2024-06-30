@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/784057/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/om/metatype
+END
+MetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/760528/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/om/metatype/MetaData.java
+END
+Designate.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/784057/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/om/metatype/Designate.java
+END
+OCD.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/760528/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/om/metatype/OCD.java
+END
+MTObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/567580/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/om/metatype/MTObject.java
+END
+AttributeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/760528/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/om/metatype/AttributeDefinition.java
+END

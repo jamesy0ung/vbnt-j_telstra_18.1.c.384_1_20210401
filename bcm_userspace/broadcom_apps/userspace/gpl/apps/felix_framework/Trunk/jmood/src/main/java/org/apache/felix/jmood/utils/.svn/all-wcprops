@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/utils
+END
+CompositeDataItemNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/utils/CompositeDataItemNames.java
+END
+InstrumentationSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/utils/InstrumentationSupport.java
+END
+OSGi2JMXCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/utils/OSGi2JMXCodec.java
+END
+OSGiTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/utils/OSGiTypes.java
+END
+ObjectNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/utils/ObjectNames.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/importer/util
+END
+DeviceSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/importer/util/DeviceSetup.java
+END
+ParseUSN.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/importer/util/ParseUSN.java
+END
+ParseLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/importer/util/ParseLocation.java
+END
+HTTPRequestForIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/importer/util/HTTPRequestForIcon.java
+END
+StringSplitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/importer/util/StringSplitter.java
+END

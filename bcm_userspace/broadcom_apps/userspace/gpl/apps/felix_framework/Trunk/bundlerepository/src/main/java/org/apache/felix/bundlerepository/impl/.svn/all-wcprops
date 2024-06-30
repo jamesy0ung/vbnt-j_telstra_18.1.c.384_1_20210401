@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/954751/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl
+END
+ObrURLStreamHandlerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/925279/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/ObrURLStreamHandlerService.java
+END
+RepositoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/932494/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/RepositoryImpl.java
+END
+Referral.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/916503/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/Referral.java
+END
+CapabilityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/925279/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/CapabilityImpl.java
+END
+ObrCommandImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/925279/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/ObrCommandImpl.java
+END
+SystemRepositoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/925279/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/SystemRepositoryImpl.java
+END
+PropertyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/925279/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/PropertyImpl.java
+END
+ResourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/925279/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/ResourceImpl.java
+END
+ReasonImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/917934/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/ReasonImpl.java
+END
+RepositoryAdminImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/925279/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/RepositoryAdminImpl.java
+END
+ResourceCapabilityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/917934/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/ResourceCapabilityImpl.java
+END
+DataModelHelperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/933677/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/DataModelHelperImpl.java
+END
+LocalRepositoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/925279/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/LocalRepositoryImpl.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/933677/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/FileUtil.java
+END
+ResourceComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/916503/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/ResourceComparator.java
+END
+RequirementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/927721/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/RequirementImpl.java
+END
+ResolverImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/933677/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/ResolverImpl.java
+END
+LocalResourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/952615/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/LocalResourceImpl.java
+END
+Base64Encoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/925279/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/Base64Encoder.java
+END
+PullParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/925279/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/PullParser.java
+END
+ResourceCapability.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/917934/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/ResourceCapability.java
+END
+RepositoryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/925279/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/RepositoryParser.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/925279/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/Activator.java
+END
+StaxParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/925279/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/StaxParser.java
+END
+XmlWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/938350/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/impl/XmlWriter.java
+END

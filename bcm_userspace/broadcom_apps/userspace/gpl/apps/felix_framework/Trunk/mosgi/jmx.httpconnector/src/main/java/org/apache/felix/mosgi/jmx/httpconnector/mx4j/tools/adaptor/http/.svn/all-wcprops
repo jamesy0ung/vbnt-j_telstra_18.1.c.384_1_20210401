@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http
+END
+SetAttributesCommandProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http/SetAttributesCommandProcessor.java
+END
+GetAttributeCommandProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http/GetAttributeCommandProcessor.java
+END
+DeleteMBeanCommandProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http/DeleteMBeanCommandProcessor.java
+END
+CreateMBeanCommandProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http/CreateMBeanCommandProcessor.java
+END
+ServerCommandProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http/ServerCommandProcessor.java
+END
+ConstructorsCommandProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http/ConstructorsCommandProcessor.java
+END
+HttpInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http/HttpInputStream.java
+END
+InvokeOperationCommandProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http/InvokeOperationCommandProcessor.java
+END
+HttpOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http/HttpOutputStream.java
+END
+HttpConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http/HttpConstants.java
+END
+CommandProcessorUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http/CommandProcessorUtil.java
+END
+HttpUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http/HttpUtil.java
+END
+HttpCommandProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http/HttpCommandProcessor.java
+END
+SetAttributeCommandProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http/SetAttributeCommandProcessor.java
+END
+MBeanCommandProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http/MBeanCommandProcessor.java
+END
+ProcessorMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http/ProcessorMBean.java
+END
+DefaultProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http/DefaultProcessor.java
+END
+ServerByDomainCommandProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http/ServerByDomainCommandProcessor.java
+END
+HttpCommandProcessorAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http/HttpCommandProcessorAdaptor.java
+END
+HttpAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http/HttpAdaptor.java
+END
+XSLTProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http/XSLTProcessor.java
+END
+HttpAdaptorMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http/HttpAdaptorMBean.java
+END
+EmptyCommandProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http/EmptyCommandProcessor.java
+END
+XSLTProcessorMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http/XSLTProcessorMBean.java
+END
+HttpException.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.httpconnector/src/main/java/org/apache/felix/mosgi/jmx/httpconnector/mx4j/tools/adaptor/http/HttpException.java
+END

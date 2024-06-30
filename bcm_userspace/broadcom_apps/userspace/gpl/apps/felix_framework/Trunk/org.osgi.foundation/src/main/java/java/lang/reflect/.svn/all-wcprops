@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/reflect
+END
+InvocationTargetException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/reflect/InvocationTargetException.java
+END
+Method.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/reflect/Method.java
+END
+Proxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/reflect/Proxy.java
+END
+Field.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/reflect/Field.java
+END
+AccessibleObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/reflect/AccessibleObject.java
+END
+Constructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/reflect/Constructor.java
+END
+InvocationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/reflect/InvocationHandler.java
+END
+Member.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/reflect/Member.java
+END
+ReflectPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/reflect/ReflectPermission.java
+END
+UndeclaredThrowableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/reflect/UndeclaredThrowableException.java
+END
+Array.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/reflect/Array.java
+END
+Modifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/reflect/Modifier.java
+END

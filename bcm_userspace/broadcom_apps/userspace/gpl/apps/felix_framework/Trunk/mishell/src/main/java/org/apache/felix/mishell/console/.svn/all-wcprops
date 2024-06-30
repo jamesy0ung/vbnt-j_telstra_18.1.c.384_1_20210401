@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/534951/felix/trunk/mishell/src/main/java/org/apache/felix/mishell/console
+END
+Console.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/534951/felix/trunk/mishell/src/main/java/org/apache/felix/mishell/console/Console.java
+END
+Commander.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/534951/felix/trunk/mishell/src/main/java/org/apache/felix/mishell/console/Commander.java
+END
+CommandNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/534951/felix/trunk/mishell/src/main/java/org/apache/felix/mishell/console/CommandNotFoundException.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/534951/felix/trunk/mishell/src/main/java/org/apache/felix/mishell/console/Command.java
+END

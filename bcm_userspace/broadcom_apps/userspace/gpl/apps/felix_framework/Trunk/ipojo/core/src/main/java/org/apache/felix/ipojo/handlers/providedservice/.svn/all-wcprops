@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/940905/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/handlers/providedservice
+END
+ProvidedServiceHandlerDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/915909/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/handlers/providedservice/ProvidedServiceHandlerDescription.java
+END
+ProvidedServiceDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/934873/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/handlers/providedservice/ProvidedServiceDescription.java
+END
+CreationStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/728056/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/handlers/providedservice/CreationStrategy.java
+END
+ProvidedServiceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/940905/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/handlers/providedservice/ProvidedServiceHandler.java
+END
+ProvidedService.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/940905/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/handlers/providedservice/ProvidedService.java
+END

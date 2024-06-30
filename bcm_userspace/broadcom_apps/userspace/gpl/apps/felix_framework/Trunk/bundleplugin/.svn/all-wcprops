@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/asf/!svn/ver/939437/felix/trunk/bundleplugin
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/asf/!svn/ver/748316/felix/trunk/bundleplugin/NOTICE
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/556699/felix/trunk/bundleplugin/LICENSE
+END
+upgrade_local_poms.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/744937/felix/trunk/bundleplugin/upgrade_local_poms.sh
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/939437/felix/trunk/bundleplugin/pom.xml
+END
+LICENSE.kxml2
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/628500/felix/trunk/bundleplugin/LICENSE.kxml2
+END

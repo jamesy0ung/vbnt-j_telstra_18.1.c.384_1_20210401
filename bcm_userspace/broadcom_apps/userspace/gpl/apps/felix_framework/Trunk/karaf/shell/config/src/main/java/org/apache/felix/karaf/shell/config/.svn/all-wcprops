@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/826734/felix/trunk/karaf/shell/config/src/main/java/org/apache/felix/karaf/shell/config
+END
+ConfigCommandSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/config/src/main/java/org/apache/felix/karaf/shell/config/ConfigCommandSupport.java
+END
+UpdateCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/826734/felix/trunk/karaf/shell/config/src/main/java/org/apache/felix/karaf/shell/config/UpdateCommand.java
+END
+CancelCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/config/src/main/java/org/apache/felix/karaf/shell/config/CancelCommand.java
+END
+EditCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/818847/felix/trunk/karaf/shell/config/src/main/java/org/apache/felix/karaf/shell/config/EditCommand.java
+END
+PropDelCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/818847/felix/trunk/karaf/shell/config/src/main/java/org/apache/felix/karaf/shell/config/PropDelCommand.java
+END
+PropAppendCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/818847/felix/trunk/karaf/shell/config/src/main/java/org/apache/felix/karaf/shell/config/PropAppendCommand.java
+END
+ListCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/818847/felix/trunk/karaf/shell/config/src/main/java/org/apache/felix/karaf/shell/config/ListCommand.java
+END
+PropListCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/818847/felix/trunk/karaf/shell/config/src/main/java/org/apache/felix/karaf/shell/config/PropListCommand.java
+END
+PropSetCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/818847/felix/trunk/karaf/shell/config/src/main/java/org/apache/felix/karaf/shell/config/PropSetCommand.java
+END

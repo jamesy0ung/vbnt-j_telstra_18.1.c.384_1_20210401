@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/composite/composite-runtime/src/main/java/org/apache/felix/ipojo/test/composite/component
+END
+TotoProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/681158/felix/trunk/ipojo/tests/composite/composite-runtime/src/main/java/org/apache/felix/ipojo/test/composite/component/TotoProvider.java
+END
+FooProviderType1.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/composite/composite-runtime/src/main/java/org/apache/felix/ipojo/test/composite/component/FooProviderType1.java
+END
+TataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/681158/felix/trunk/ipojo/tests/composite/composite-runtime/src/main/java/org/apache/felix/ipojo/test/composite/component/TataProvider.java
+END
+FooBarProviderType1.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/681158/felix/trunk/ipojo/tests/composite/composite-runtime/src/main/java/org/apache/felix/ipojo/test/composite/component/FooBarProviderType1.java
+END
+Baz2CheckProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/681158/felix/trunk/ipojo/tests/composite/composite-runtime/src/main/java/org/apache/felix/ipojo/test/composite/component/Baz2CheckProvider.java
+END
+CheckProviderParentClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/681158/felix/trunk/ipojo/tests/composite/composite-runtime/src/main/java/org/apache/felix/ipojo/test/composite/component/CheckProviderParentClass.java
+END
+CheckServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/681158/felix/trunk/ipojo/tests/composite/composite-runtime/src/main/java/org/apache/felix/ipojo/test/composite/component/CheckServiceProvider.java
+END
+BazProviderType1.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/681158/felix/trunk/ipojo/tests/composite/composite-runtime/src/main/java/org/apache/felix/ipojo/test/composite/component/BazProviderType1.java
+END
+FooProviderTypeDyn.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/681158/felix/trunk/ipojo/tests/composite/composite-runtime/src/main/java/org/apache/felix/ipojo/test/composite/component/FooProviderTypeDyn.java
+END
+FooProviderTypeDyn2.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/681158/felix/trunk/ipojo/tests/composite/composite-runtime/src/main/java/org/apache/felix/ipojo/test/composite/component/FooProviderTypeDyn2.java
+END
+TotoProviderGlue.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/681158/felix/trunk/ipojo/tests/composite/composite-runtime/src/main/java/org/apache/felix/ipojo/test/composite/component/TotoProviderGlue.java
+END

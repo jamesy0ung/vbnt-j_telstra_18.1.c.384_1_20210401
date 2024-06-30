@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/893234/felix/trunk/dependencymanager/samples/src/main/java/samples/trackingserviceswithcallbacks
+END
+DocumentTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/893234/felix/trunk/dependencymanager/samples/src/main/java/samples/trackingserviceswithcallbacks/DocumentTranslator.java
+END
+Translator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/893234/felix/trunk/dependencymanager/samples/src/main/java/samples/trackingserviceswithcallbacks/Translator.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/893234/felix/trunk/dependencymanager/samples/src/main/java/samples/trackingserviceswithcallbacks/Activator.java
+END

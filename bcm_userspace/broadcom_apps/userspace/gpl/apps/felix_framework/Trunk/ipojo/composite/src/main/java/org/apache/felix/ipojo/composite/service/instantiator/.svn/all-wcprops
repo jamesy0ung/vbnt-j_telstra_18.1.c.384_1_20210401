@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/912098/felix/trunk/ipojo/composite/src/main/java/org/apache/felix/ipojo/composite/service/instantiator
+END
+SvcInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/885210/felix/trunk/ipojo/composite/src/main/java/org/apache/felix/ipojo/composite/service/instantiator/SvcInstance.java
+END
+ServiceImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/912098/felix/trunk/ipojo/composite/src/main/java/org/apache/felix/ipojo/composite/service/instantiator/ServiceImporter.java
+END
+ServiceInstantiatorDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/642265/felix/trunk/ipojo/composite/src/main/java/org/apache/felix/ipojo/composite/service/instantiator/ServiceInstantiatorDescription.java
+END
+ServiceDependencyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/730353/felix/trunk/ipojo/composite/src/main/java/org/apache/felix/ipojo/composite/service/instantiator/ServiceDependencyHandler.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/814654/felix/trunk/sigil/bldcommon/prepare
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/814654/felix/trunk/sigil/bldcommon/prepare/ivy.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/796528/felix/trunk/sigil/bldcommon/prepare/build.xml
+END

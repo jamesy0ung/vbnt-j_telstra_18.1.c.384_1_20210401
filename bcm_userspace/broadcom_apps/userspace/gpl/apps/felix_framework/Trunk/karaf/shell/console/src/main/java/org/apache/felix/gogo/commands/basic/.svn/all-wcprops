@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/952921/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/gogo/commands/basic
+END
+AbstractCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/952918/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/gogo/commands/basic/AbstractCommand.java
+END
+DefaultActionPreparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/952921/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/gogo/commands/basic/DefaultActionPreparator.java
+END
+SimpleCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/952918/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/gogo/commands/basic/SimpleCommand.java
+END
+ActionPreparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/952918/felix/trunk/karaf/shell/console/src/main/java/org/apache/felix/gogo/commands/basic/ActionPreparator.java
+END

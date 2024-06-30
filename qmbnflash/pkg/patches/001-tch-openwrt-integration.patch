@@ -1,0 +1,11 @@
+--- a/Makefile
++++ b/Makefile
+@@ -19,7 +19,7 @@ LOCAL_C_FLAGS = -g -Wall -Wno-unused-function
+ LOCAL_SRC_FILES = atchannel.c at_tok.c
+ 
+ qflash:
+-	$(CROSS_COMPILE)gcc $(LOCAL_C_FLAGS) $(LOCAL_SRC_FILES) $@.c -o $@ -lpthread
++	$(CC) $(LOCAL_C_FLAGS) $(LOCAL_SRC_FILES) $@.c -o $@ -lpthread
+ 
+ clean:
+ 	rm -rf $(NDK_OUT) libs *~ *.o

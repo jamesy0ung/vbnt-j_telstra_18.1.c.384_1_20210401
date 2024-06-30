@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 87
+target
+*.ipr
+*.iws
+*.iml
+.classpath
+.project
+.settings
+.deployables
+.wtpmodules
+*.log
+
+
+END

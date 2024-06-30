@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/952610/felix/trunk/karaf/shell/wrapper/src/main/resources/org/apache/felix/karaf/shell/wrapper/windows
+END
+karaf-wrapper.exe
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/wrapper/src/main/resources/org/apache/felix/karaf/shell/wrapper/windows/karaf-wrapper.exe
+END
+karaf-wrapper.conf
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/952610/felix/trunk/karaf/shell/wrapper/src/main/resources/org/apache/felix/karaf/shell/wrapper/windows/karaf-wrapper.conf
+END
+karaf-service.bat
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/wrapper/src/main/resources/org/apache/felix/karaf/shell/wrapper/windows/karaf-service.bat
+END
+wrapper.dll
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/shell/wrapper/src/main/resources/org/apache/felix/karaf/shell/wrapper/windows/wrapper.dll
+END

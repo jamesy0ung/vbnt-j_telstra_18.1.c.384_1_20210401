@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/936755/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/tags/annotation/defaulttag
+END
+AbstractTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/822249/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/tags/annotation/defaulttag/AbstractTag.java
+END
+PropertyTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/822249/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/tags/annotation/defaulttag/PropertyTag.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/760528/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/tags/annotation/defaulttag/package-info.java
+END
+DefaultAnnotationTagProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/767809/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/tags/annotation/defaulttag/DefaultAnnotationTagProvider.java
+END
+ReferenceTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/887955/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/tags/annotation/defaulttag/ReferenceTag.java
+END
+ServiceTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/822249/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/tags/annotation/defaulttag/ServiceTag.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/933227/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/tags/annotation/defaulttag/Util.java
+END
+ComponentTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/936755/felix/trunk/scrplugin/src/main/java/org/apache/felix/scrplugin/tags/annotation/defaulttag/ComponentTag.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/823506/felix/trunk/configadmin/src/test/java/org/apache/felix/cm
+END
+MockBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/804891/felix/trunk/configadmin/src/test/java/org/apache/felix/cm/MockBundle.java
+END
+MockBundleContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/804891/felix/trunk/configadmin/src/test/java/org/apache/felix/cm/MockBundleContext.java
+END
+MockPersistenceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/735651/felix/trunk/configadmin/src/test/java/org/apache/felix/cm/MockPersistenceManager.java
+END
+MockLogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/738382/felix/trunk/configadmin/src/test/java/org/apache/felix/cm/MockLogService.java
+END

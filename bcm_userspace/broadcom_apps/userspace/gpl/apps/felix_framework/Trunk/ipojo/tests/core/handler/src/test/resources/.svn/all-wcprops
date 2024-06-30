@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/907758/felix/trunk/ipojo/tests/core/handler/src/test/resources
+END
+dummy-handler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/907758/felix/trunk/ipojo/tests/core/handler/src/test/resources/dummy-handler.xml
+END
+dummy-component.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/907758/felix/trunk/ipojo/tests/core/handler/src/test/resources/dummy-component.xml
+END
+ignorecase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/907758/felix/trunk/ipojo/tests/core/handler/src/test/resources/ignorecase.xml
+END

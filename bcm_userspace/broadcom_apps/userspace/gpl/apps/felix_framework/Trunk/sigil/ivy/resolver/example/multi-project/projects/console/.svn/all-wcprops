@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/794417/felix/trunk/sigil/ivy/resolver/example/multi-project/projects/console
+END
+sigil.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/794417/felix/trunk/sigil/ivy/resolver/example/multi-project/projects/console/sigil.properties
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/794417/felix/trunk/sigil/ivy/resolver/example/multi-project/projects/console/ivy.xml
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/794417/felix/trunk/sigil/ivy/resolver/example/multi-project/projects/console/build.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/794417/felix/trunk/sigil/ivy/resolver/example/multi-project/projects/console/build.xml
+END

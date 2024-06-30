@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/955965/felix/trunk/ipojo/manipulator/src/main/java/org/apache/felix/ipojo/manipulation
+END
+MethodDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/708489/felix/trunk/ipojo/manipulator/src/main/java/org/apache/felix/ipojo/manipulation/MethodDescriptor.java
+END
+MethodCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/955965/felix/trunk/ipojo/manipulator/src/main/java/org/apache/felix/ipojo/manipulation/MethodCreator.java
+END
+ConstructorCodeAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/955965/felix/trunk/ipojo/manipulator/src/main/java/org/apache/felix/ipojo/manipulation/ConstructorCodeAdapter.java
+END
+InnerClassAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/687319/felix/trunk/ipojo/manipulator/src/main/java/org/apache/felix/ipojo/manipulation/InnerClassAdapter.java
+END
+ManipulationProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/719260/felix/trunk/ipojo/manipulator/src/main/java/org/apache/felix/ipojo/manipulation/ManipulationProperty.java
+END
+ClassChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/762084/felix/trunk/ipojo/manipulator/src/main/java/org/apache/felix/ipojo/manipulation/ClassChecker.java
+END
+Manipulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/701987/felix/trunk/ipojo/manipulator/src/main/java/org/apache/felix/ipojo/manipulation/Manipulator.java
+END
+MethodCodeAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/701987/felix/trunk/ipojo/manipulator/src/main/java/org/apache/felix/ipojo/manipulation/MethodCodeAdapter.java
+END
+InnerClassManipulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/744877/felix/trunk/ipojo/manipulator/src/main/java/org/apache/felix/ipojo/manipulation/InnerClassManipulator.java
+END

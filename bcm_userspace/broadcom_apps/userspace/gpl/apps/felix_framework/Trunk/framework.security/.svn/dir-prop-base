@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 59
+.classpath
+.project
+target
+.externalToolBuilders
+.settings
+
+END

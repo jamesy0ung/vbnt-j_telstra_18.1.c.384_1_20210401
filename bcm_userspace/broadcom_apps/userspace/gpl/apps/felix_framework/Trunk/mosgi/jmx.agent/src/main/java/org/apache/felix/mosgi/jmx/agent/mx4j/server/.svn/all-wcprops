@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/server
+END
+MBeanInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/server/MBeanInvoker.java
+END
+DefaultClassLoaderRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/server/DefaultClassLoaderRepository.java
+END
+MBeanRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/server/MBeanRepository.java
+END
+MBeanMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/server/MBeanMetaData.java
+END
+MX4JMBeanServerBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/server/MX4JMBeanServerBuilder.java
+END
+DefaultMBeanRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/server/DefaultMBeanRepository.java
+END
+MX4JMBeanServerDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/server/MX4JMBeanServerDelegate.java
+END
+ModifiableClassLoaderRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/server/ModifiableClassLoaderRepository.java
+END
+MX4JMBeanServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/server/MX4JMBeanServer.java
+END
+MBeanIntrospector.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/server/MBeanIntrospector.java
+END
+ReflectedMBeanInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.agent/src/main/java/org/apache/felix/mosgi/jmx/agent/mx4j/server/ReflectedMBeanInvoker.java
+END

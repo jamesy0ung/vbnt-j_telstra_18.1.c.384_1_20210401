@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/949286/felix/trunk/scr/src/test/java/org/apache/felix/scr/impl
+END
+MockBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/822622/felix/trunk/scr/src/test/java/org/apache/felix/scr/impl/MockBundle.java
+END
+BundleComponentActivatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/799704/felix/trunk/scr/src/test/java/org/apache/felix/scr/impl/BundleComponentActivatorTest.java
+END
+MockLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/830907/felix/trunk/scr/src/test/java/org/apache/felix/scr/impl/MockLogger.java
+END

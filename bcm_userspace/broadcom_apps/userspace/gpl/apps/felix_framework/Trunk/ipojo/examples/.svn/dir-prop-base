@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 63
+target*
+.classpath*
+.setting*
+.project*
+bin*
+maven-eclipse.xml
+
+END

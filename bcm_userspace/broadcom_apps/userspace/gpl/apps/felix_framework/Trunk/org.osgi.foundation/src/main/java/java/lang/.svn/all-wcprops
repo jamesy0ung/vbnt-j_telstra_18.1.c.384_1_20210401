@@ -1,0 +1,467 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang
+END
+StringBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/StringBuffer.java
+END
+Void.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/Void.java
+END
+RuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/RuntimeException.java
+END
+Comparable.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/Comparable.java
+END
+String.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/String.java
+END
+Object.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/Object.java
+END
+Thread.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/Thread.java
+END
+IllegalAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/IllegalAccessException.java
+END
+ArrayIndexOutOfBoundsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/ArrayIndexOutOfBoundsException.java
+END
+NoSuchMethodException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/NoSuchMethodException.java
+END
+Boolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/Boolean.java
+END
+IllegalThreadStateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/IllegalThreadStateException.java
+END
+Cloneable.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/Cloneable.java
+END
+VirtualMachineError.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/VirtualMachineError.java
+END
+ClassFormatError.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/ClassFormatError.java
+END
+IllegalStateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/IllegalStateException.java
+END
+InheritableThreadLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/InheritableThreadLocal.java
+END
+Package.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/Package.java
+END
+RuntimePermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/RuntimePermission.java
+END
+ClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/ClassLoader.java
+END
+Exception.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/Exception.java
+END
+InstantiationError.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/InstantiationError.java
+END
+Short.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/Short.java
+END
+Long.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/Long.java
+END
+IllegalMonitorStateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/IllegalMonitorStateException.java
+END
+Byte.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/Byte.java
+END
+Float.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/Float.java
+END
+ArithmeticException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/ArithmeticException.java
+END
+Compiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/Compiler.java
+END
+Double.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/Double.java
+END
+VerifyError.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/VerifyError.java
+END
+SecurityException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/SecurityException.java
+END
+InternalError.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/InternalError.java
+END
+UnsupportedClassVersionError.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/UnsupportedClassVersionError.java
+END
+ClassCastException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/ClassCastException.java
+END
+ClassNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/ClassNotFoundException.java
+END
+StackOverflowError.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/StackOverflowError.java
+END
+InstantiationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/InstantiationException.java
+END
+StringIndexOutOfBoundsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/StringIndexOutOfBoundsException.java
+END
+Runnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/Runnable.java
+END
+CloneNotSupportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/CloneNotSupportedException.java
+END
+UnknownError.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/UnknownError.java
+END
+IncompatibleClassChangeError.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/IncompatibleClassChangeError.java
+END
+NoSuchFieldError.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/NoSuchFieldError.java
+END
+ThreadDeath.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/ThreadDeath.java
+END
+Process.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/Process.java
+END
+NumberFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/NumberFormatException.java
+END
+StrictMath.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/StrictMath.java
+END
+ThreadLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/ThreadLocal.java
+END
+LinkageError.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/LinkageError.java
+END
+System.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/System.java
+END
+ThreadGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/ThreadGroup.java
+END
+NoClassDefFoundError.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/NoClassDefFoundError.java
+END
+Number.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/Number.java
+END
+ClassCircularityError.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/ClassCircularityError.java
+END
+Integer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/Integer.java
+END
+OutOfMemoryError.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/OutOfMemoryError.java
+END
+SecurityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/SecurityManager.java
+END
+ExceptionInInitializerError.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/ExceptionInInitializerError.java
+END
+Class.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/Class.java
+END
+IllegalAccessError.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/IllegalAccessError.java
+END
+UnsatisfiedLinkError.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/UnsatisfiedLinkError.java
+END
+ArrayStoreException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/ArrayStoreException.java
+END
+NoSuchMethodError.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/NoSuchMethodError.java
+END
+NegativeArraySizeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/NegativeArraySizeException.java
+END
+AbstractMethodError.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/AbstractMethodError.java
+END
+IndexOutOfBoundsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/IndexOutOfBoundsException.java
+END
+NoSuchFieldException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/NoSuchFieldException.java
+END
+Runtime.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/Runtime.java
+END
+InterruptedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/InterruptedException.java
+END
+Throwable.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/Throwable.java
+END
+UnsupportedOperationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/UnsupportedOperationException.java
+END
+Math.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/Math.java
+END
+Error.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/Error.java
+END
+NullPointerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/NullPointerException.java
+END
+IllegalArgumentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/IllegalArgumentException.java
+END
+Character.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/534951/felix/trunk/org.osgi.foundation/src/main/java/java/lang/Character.java
+END

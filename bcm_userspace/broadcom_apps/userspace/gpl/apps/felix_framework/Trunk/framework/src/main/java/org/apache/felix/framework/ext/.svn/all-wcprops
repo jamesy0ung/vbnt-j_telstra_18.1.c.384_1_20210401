@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/897661/felix/trunk/framework/src/main/java/org/apache/felix/framework/ext
+END
+SecurityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/897661/felix/trunk/framework/src/main/java/org/apache/felix/framework/ext/SecurityProvider.java
+END
+FelixBundleContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/548377/felix/trunk/framework/src/main/java/org/apache/felix/framework/ext/FelixBundleContext.java
+END

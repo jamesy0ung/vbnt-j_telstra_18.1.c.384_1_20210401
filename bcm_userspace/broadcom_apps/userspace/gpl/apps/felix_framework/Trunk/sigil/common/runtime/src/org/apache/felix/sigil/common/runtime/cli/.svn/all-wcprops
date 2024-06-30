@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/806255/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/cli
+END
+CommandLineParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/806255/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/cli/CommandLineParser.java
+END
+UnrecognizedOptionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/806255/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/cli/UnrecognizedOptionException.java
+END
+GnuParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/806255/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/cli/GnuParser.java
+END
+Option.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/806255/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/cli/Option.java
+END
+AlreadySelectedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/806255/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/cli/AlreadySelectedException.java
+END
+HelpFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/806255/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/cli/HelpFormatter.java
+END
+PatternOptionBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/806255/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/cli/PatternOptionBuilder.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/806255/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/cli/Util.java
+END
+OptionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/806255/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/cli/OptionValidator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/806255/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/cli/package.html
+END
+OptionBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/806255/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/cli/OptionBuilder.java
+END
+PosixParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/806255/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/cli/PosixParser.java
+END
+TypeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/806255/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/cli/TypeHandler.java
+END
+MissingOptionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/806255/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/cli/MissingOptionException.java
+END
+OptionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/806255/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/cli/OptionGroup.java
+END
+CommandLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/806255/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/cli/CommandLine.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/806255/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/cli/ParseException.java
+END
+overview.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/806255/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/cli/overview.html
+END
+Options.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/806255/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/cli/Options.java
+END
+MissingArgumentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/806255/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/cli/MissingArgumentException.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/806255/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/cli/Parser.java
+END
+BasicParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/806255/felix/trunk/sigil/common/runtime/src/org/apache/felix/sigil/common/runtime/cli/BasicParser.java
+END

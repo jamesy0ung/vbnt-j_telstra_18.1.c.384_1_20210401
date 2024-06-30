@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/953588/felix/trunk/karaf/shell/dev/src/test/java/org/apache/felix/karaf/shell/dev/util
+END
+TreeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/918963/felix/trunk/karaf/shell/dev/src/test/java/org/apache/felix/karaf/shell/dev/util/TreeTest.java
+END
+ImportTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/953588/felix/trunk/karaf/shell/dev/src/test/java/org/apache/felix/karaf/shell/dev/util/ImportTest.java
+END
+BundlesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/887233/felix/trunk/karaf/shell/dev/src/test/java/org/apache/felix/karaf/shell/dev/util/BundlesTest.java
+END

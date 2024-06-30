@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote
+END
+HeartBeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/HeartBeat.java
+END
+RemoteNotificationClientHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/RemoteNotificationClientHandler.java
+END
+MX4JRemoteUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/MX4JRemoteUtils.java
+END
+ConnectionNotificationEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/ConnectionNotificationEmitter.java
+END
+NotificationTuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/NotificationTuple.java
+END
+ClientProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/ClientProxy.java
+END
+ConnectionResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/ConnectionResolver.java
+END
+ProviderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/ProviderFactory.java
+END
+AbstractHeartBeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/AbstractHeartBeat.java
+END
+RemoteNotificationServerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/RemoteNotificationServerHandler.java
+END
+ProviderHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/ProviderHelper.java
+END
+MX4JRemoteConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/MX4JRemoteConstants.java
+END
+DefaultRemoteNotificationServerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/551587/felix/trunk/mosgi/jmx.rmiconnector/src/main/java/org/apache/felix/mosgi/jmx/rmiconnector/mx4j/remote/DefaultRemoteNotificationServerHandler.java
+END

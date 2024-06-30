@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/810058/felix/trunk/org.osgi.compendium/src/main/java/info/dmtree
+END
+Acl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/info/dmtree/Acl.java
+END
+Uri.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/info/dmtree/Uri.java
+END
+DmtException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/info/dmtree/DmtException.java
+END
+DmtEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/info/dmtree/DmtEvent.java
+END
+DmtSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/info/dmtree/DmtSession.java
+END
+DmtEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/info/dmtree/DmtEventListener.java
+END
+MetaNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/info/dmtree/MetaNode.java
+END
+DmtAdmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/info/dmtree/DmtAdmin.java
+END
+DmtData.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/info/dmtree/DmtData.java
+END
+DmtIllegalStateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/797561/felix/trunk/org.osgi.compendium/src/main/java/info/dmtree/DmtIllegalStateException.java
+END

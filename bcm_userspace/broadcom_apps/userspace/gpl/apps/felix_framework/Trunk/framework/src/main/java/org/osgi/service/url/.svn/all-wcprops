@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/service/url
+END
+URLConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/service/url/URLConstants.java
+END
+AbstractURLStreamHandlerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/service/url/AbstractURLStreamHandlerService.java
+END
+URLStreamHandlerSetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/service/url/URLStreamHandlerSetter.java
+END
+packageinfo
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/service/url/packageinfo
+END
+URLStreamHandlerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/service/url/URLStreamHandlerService.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/926997/felix/trunk/framework/src/main/java/org/osgi/service/url/package.html
+END

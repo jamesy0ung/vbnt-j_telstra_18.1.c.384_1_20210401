@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/828802/felix/trunk/karaf/admin/core/src/test/java/org/apache/felix/karaf/jpm
+END
+MainTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/828802/felix/trunk/karaf/admin/core/src/test/java/org/apache/felix/karaf/jpm/MainTest.java
+END
+ProcessTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/828802/felix/trunk/karaf/admin/core/src/test/java/org/apache/felix/karaf/jpm/ProcessTest.java
+END

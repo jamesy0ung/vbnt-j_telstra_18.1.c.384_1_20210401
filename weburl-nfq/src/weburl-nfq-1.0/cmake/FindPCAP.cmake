@@ -1,0 +1,33 @@
+#
+# - Find PCAP
+# Find the native userspace rcu includes and library
+#
+#  PCAP_INCLUDE_DIRS - where to find PCAP.h, etc.
+#  PCAP_LIBRARIES    - List of libraries when using PCAP
+#  PCAP_FOUND        - True if PCAP found.
+
+
+IF (PCAP_INCLUDE_DIRS)
+  # Already in cache, be silent
+  SET(PCAP_FIND_QUIETLY TRUE)
+ENDIF (PCAP_INCLUDE_DIRS)
+
+FIND_PATH(PCAP_INCLUDE_DIR pcap.h)
+
+SET(PCAP_NAMES pcap)
+FIND_LIBRARY(PCAP_LIBRARY NAMES ${PCAP_NAMES} )
+
+# handle the QUIETLY and REQUIRED arguments and set PCAP_FOUND to TRUE if
+# all listed variables are TRUE
+INCLUDE(FindPackageHandleStandardArgs)
+FIND_PACKAGE_HANDLE_STANDARD_ARGS(PCAP DEFAULT_MSG PCAP_LIBRARY PCAP_INCLUDE_DIR)
+
+IF(PCAP_FOUND)
+  SET( PCAP_LIBRARIES ${PCAP_LIBRARY} )
+  SET( PCAP_INCLUDE_DIRS ${PCAP_INCLUDE_DIR} )
+ELSE(PCAP_FOUND)
+  SET( PCAP_LIBRARIES )
+  SET( PCAP_INCLUDE_DIRS )
+ENDIF(PCAP_FOUND)
+
+MARK_AS_ADVANCED( PCAP_LIBRARIES PCAP_INCLUDE_DIRS )

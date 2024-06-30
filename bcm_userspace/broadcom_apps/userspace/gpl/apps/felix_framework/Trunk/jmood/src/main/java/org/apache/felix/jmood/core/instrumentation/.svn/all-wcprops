@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/core/instrumentation
+END
+BundleInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/core/instrumentation/BundleInfo.java
+END
+PackageInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/core/instrumentation/PackageInfo.java
+END
+ServiceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/core/instrumentation/ServiceInfo.java
+END
+FrameworkSnapshot.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/534951/felix/trunk/jmood/src/main/java/org/apache/felix/jmood/core/instrumentation/FrameworkSnapshot.java
+END

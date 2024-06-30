@@ -1,0 +1,437 @@
+10
+
+dir
+957403
+http://svn.apache.org/repos/asf/felix/trunk
+http://svn.apache.org/repos/asf
+
+
+
+2010-06-23T22:29:04.032319Z
+957383
+pderop
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+webconsole-plugins
+dir
+
+org.apache.felix.daemon
+dir
+
+doap
+dir
+
+servicebinder
+dir
+
+karaf
+dir
+
+org.osgi.compendium
+dir
+
+shell.gui.plugin
+dir
+
+deploymentadmin
+dir
+
+pom.xml
+file
+
+
+
+
+2010-06-21T04:13:35.452891Z
+f6be49df6bfcede7aaba19abf9ddc869
+2010-06-10T08:57:54.528792Z
+953253
+clement
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5215
+
+eventadmin
+dir
+
+build_run.sh
+file
+
+
+
+
+2010-05-25T06:05:53.797234Z
+cd390f9a5b2afa46fc2756fdc935c57f
+2007-05-18T16:23:15.307236Z
+539512
+rickhall
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62
+
+org.osgi.foundation
+dir
+
+mishell
+dir
+
+framework
+dir
+
+build.xml
+file
+
+
+
+
+2010-05-25T06:05:53.797234Z
+3bd98e7f007d1d4fe9350bc2cf757467
+2010-03-26T14:02:26.655669Z
+927855
+gnodet
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3937
+
+tools
+dir
+
+jmood
+dir
+
+wireadmin
+dir
+
+installers
+dir
+
+ipojo
+dir
+
+deviceaccess
+dir
+
+log
+dir
+
+transaction
+dir
+
+pom
+dir
+
+service
+dir
+
+stage_existing_artifact.sh
+file
+
+
+
+
+2010-05-25T06:05:53.812860Z
+7661153151910df3569cda6cf80189fa
+2009-04-27T16:28:44.406899Z
+769050
+mcculls
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1881
+
+framework.security
+dir
+
+scrplugin
+dir
+
+shell.tui
+dir
+
+org.osgi.service.obr
+dir
+
+bundlerepository
+dir
+
+http.jetty
+dir
+
+http
+dir
+
+maven-obr-plugin
+dir
+
+scr-annotations
+dir
+
+useradmin
+dir
+
+src
+dir
+
+bundleplugin
+dir
+
+metatype
+dir
+
+javax.servlet
+dir
+
+webconsole
+dir
+
+main.distribution
+dir
+
+fileinstall
+dir
+
+sigil
+dir
+
+shell
+dir
+
+jmxintrospector
+dir
+
+check_staged_release.sh
+file
+
+
+
+
+2010-05-25T06:05:53.812860Z
+14a293d6b5f17f82cacfeb78a455cc1d
+2009-11-17T13:18:32.364810Z
+881269
+gnodet
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2562
+
+org.osgi.core
+dir
+
+mosgi
+dir
+
+configadmin
+dir
+
+prefs
+dir
+
+upnp
+dir
+
+main
+dir
+
+scr
+dir
+
+shell.gui
+dir
+
+gogo
+dir
+
+utils
+dir
+
+shell.remote
+dir
+
+.gitignore
+file
+
+
+
+
+2010-05-25T06:05:53.828487Z
+5c56d73d98515dd74e6a80de46377be8
+2009-10-05T15:48:57.790457Z
+821876
+gnodet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+96
+
+io
+dir
+
+dependencymanager
+dir
+
+commons
+dir
+
+readme.txt
+file
+
+
+
+
+2010-05-25T06:05:53.828487Z
+50daffa9381b6aed09d053a43ed869fa
+2005-08-23T04:50:13.541338Z
+239345
+tbennett
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1433
+
+examples
+dir
+

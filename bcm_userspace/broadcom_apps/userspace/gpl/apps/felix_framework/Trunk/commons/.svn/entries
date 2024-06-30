@@ -1,0 +1,256 @@
+10
+
+dir
+957403
+http://svn.apache.org/repos/asf/felix/trunk/commons
+http://svn.apache.org/repos/asf
+
+
+
+2009-04-09T12:09:09.869418Z
+763614
+clement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+log4j
+dir
+
+cglib
+dir
+
+commons-codec
+dir
+
+poi-full
+dir
+
+logkit
+dir
+
+pom.xml
+file
+
+
+
+
+2010-05-25T06:05:14.372139Z
+77e8786ebb58bb9f119a0fd4f57be693
+2008-04-16T06:10:50.279421Z
+648539
+cziegeler
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3073
+
+servlet-api
+dir
+
+commons-fileupload
+dir
+
+commons-validator
+dir
+
+commons-email
+dir
+
+portlet-api
+dir
+
+jline
+dir
+
+c3p0
+dir
+
+commons-el
+dir
+
+xercesImpl
+dir
+
+hsqldb
+dir
+
+jmxtools
+dir
+
+commons-digester
+dir
+
+ehcache
+dir
+
+antlr
+dir
+
+commons-configuration
+dir
+
+NOTICE
+file
+
+
+
+
+2010-05-25T06:05:14.372139Z
+6177ba66a0f667ceab76c8a822d27ba3
+2007-07-30T13:14:58.160510Z
+560969
+cziegeler
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+174
+
+mail
+dir
+
+LICENSE
+file
+
+
+
+
+2010-05-25T06:05:14.387765Z
+3b83ef96387f14655fc854ddc3c6bd57
+2007-07-25T07:10:29.678976Z
+559338
+cziegeler
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11358
+
+quartz
+dir
+
+commons-httpclient
+dir
+
+poi
+dir
+
+jms
+dir
+
+xml-apis
+dir
+
+commons-logging
+dir
+
+commons-beanutils
+dir
+
+xml-resolver
+dir
+
+backport-util-concurrent
+dir
+
+hibernate
+dir
+
+activation
+dir
+
+jsp-api
+dir
+
+commons-attributes-api
+dir
+
+commons-jxpath
+dir
+
+commons-attributes-compiler
+dir
+
+aopalliance
+dir
+
+jzlib
+dir
+
+avalon-framework
+dir
+
+jstl
+dir
+
+dom4j
+dir
+
+jta
+dir
+

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/935913/felix/trunk/sigil/ivy/resolver/src/org/apache/felix/sigil/ant
+END
+BundleInfoTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/911061/felix/trunk/sigil/ivy/resolver/src/org/apache/felix/sigil/ant/BundleInfoTask.java
+END
+BundleTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/935913/felix/trunk/sigil/ivy/resolver/src/org/apache/felix/sigil/ant/BundleTask.java
+END

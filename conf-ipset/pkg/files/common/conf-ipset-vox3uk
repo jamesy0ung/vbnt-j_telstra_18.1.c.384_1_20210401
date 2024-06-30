@@ -1,0 +1,60 @@
+config ipset 'icmp_trusted_network'
+	option storage 'hash'
+	option match 'src_ip'
+	option enabled '1'
+	option family 'ipv4'
+
+config ipset_entry 'icmp_trusted_networkentry1'
+	option ip '212.158.250.31'
+	option ipset 'icmp_trusted_network'
+
+config ipset_entry 'icmp_trusted_networkentry2'
+	option ip '212.158.250.32'
+	option ipset 'icmp_trusted_network'
+
+config ipset_entry 'icmp_trusted_networkentry3'
+	option ip '212.158.250.33'
+	option ipset 'icmp_trusted_network'
+
+config ipset_entry 'icmp_trusted_networkentry4'
+	option ip '212.158.250.34'
+	option ipset 'icmp_trusted_network'
+
+config ipset_entry 'icmp_trusted_networkentry5'
+	option ip '212.158.250.35'
+	option ipset 'icmp_trusted_network'
+
+config ipset_entry 'icmp_trusted_networkentry6'
+	option ip '212.158.250.36'
+	option ipset 'icmp_trusted_network'
+
+config ipset_entry 'icmp_trusted_networkentry7'
+	option ip '83.146.18.254'
+	option ipset 'icmp_trusted_network'
+
+config ipset_entry 'icmp_trusted_networkentry8'
+	option ip '83.146.18.222'
+	option ipset 'icmp_trusted_network'
+
+config ipset 'cwmp_trusted_network'
+	option storage 'hash'
+	option match 'src_ip'
+	option enabled '1'
+	option family 'ipv4'
+
+config ipset_entry 'cwmp_trusted_networkentry1'
+	option ip '62.208.95.0/24'
+	option ipset 'cwmp_trusted_network'
+
+#Staging
+#62.208.95.67/32
+#62.208.95.68/32
+
+#Dev HDM
+#62.208.95.69/32
+#62.208.95.70/32
+
+#Production
+#62.208.95.65/32
+#62.208.95.66/32
+

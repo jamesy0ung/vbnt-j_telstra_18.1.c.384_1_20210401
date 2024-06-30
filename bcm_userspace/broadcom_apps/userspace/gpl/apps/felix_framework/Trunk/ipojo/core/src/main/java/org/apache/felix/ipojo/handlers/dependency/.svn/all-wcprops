@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/939354/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/handlers/dependency
+END
+DependencyHandlerDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/handlers/dependency/DependencyHandlerDescription.java
+END
+DependencyDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/handlers/dependency/DependencyDescription.java
+END
+NullableObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/642265/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/handlers/dependency/NullableObject.java
+END
+ServiceUsage.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/handlers/dependency/ServiceUsage.java
+END
+ProxyGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/handlers/dependency/ProxyGenerator.java
+END
+DependencyCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/885210/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/handlers/dependency/DependencyCallback.java
+END
+DependencyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/912323/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/handlers/dependency/DependencyHandler.java
+END
+ServiceCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/handlers/dependency/ServiceCollection.java
+END
+Dependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/939354/felix/trunk/ipojo/core/src/main/java/org/apache/felix/ipojo/handlers/dependency/Dependency.java
+END

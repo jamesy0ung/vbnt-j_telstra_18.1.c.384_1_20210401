@@ -1,0 +1,4 @@
+Source: libcli-1.9.7.tar.gz
+Source-Url: https://github.com/dparrish/libcli
+Source-Version: ae56ebcf8189861bf75f1ad6656f0b28cacaafc8
+Source-Proto: 

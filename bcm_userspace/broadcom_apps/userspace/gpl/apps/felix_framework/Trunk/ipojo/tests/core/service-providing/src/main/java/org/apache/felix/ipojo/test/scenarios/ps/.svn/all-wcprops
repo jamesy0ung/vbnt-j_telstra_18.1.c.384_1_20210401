@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/941589/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/ps
+END
+ProvidedServiceArchitectureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/732628/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/ps/ProvidedServiceArchitectureTest.java
+END
+Exposition.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/720011/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/ps/Exposition.java
+END
+ServiceControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/915909/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/ps/ServiceControllerTest.java
+END
+ClassTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/744039/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/ps/ClassTest.java
+END
+ProvidedServiceTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/940905/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/ps/ProvidedServiceTestSuite.java
+END
+NullCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/903739/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/ps/NullCheck.java
+END
+DynamicProps.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/720011/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/ps/DynamicProps.java
+END
+StaticProps.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/720011/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/ps/StaticProps.java
+END
+InheritedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/720011/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/ps/InheritedTest.java
+END
+OSGiPropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/833671/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/ps/OSGiPropertiesTest.java
+END
+CallbacksTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/940905/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/ps/CallbacksTest.java
+END
+PropertiesInAnonymousClassTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/941589/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/ps/PropertiesInAnonymousClassTest.java
+END
+DynamicPropsReconfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/720011/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/ps/DynamicPropsReconfiguration.java
+END
+StaticPropsReconfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/720011/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/ps/StaticPropsReconfiguration.java
+END
+SimplePS.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/720011/felix/trunk/ipojo/tests/core/service-providing/src/main/java/org/apache/felix/ipojo/test/scenarios/ps/SimplePS.java
+END

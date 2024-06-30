@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/940905/felix/trunk/ipojo/tests/online-manipulator/src/test/resources
+END
+provider.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/940905/felix/trunk/ipojo/tests/online-manipulator/src/test/resources/provider.xml
+END
+consumer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/940905/felix/trunk/ipojo/tests/online-manipulator/src/test/resources/consumer.xml
+END

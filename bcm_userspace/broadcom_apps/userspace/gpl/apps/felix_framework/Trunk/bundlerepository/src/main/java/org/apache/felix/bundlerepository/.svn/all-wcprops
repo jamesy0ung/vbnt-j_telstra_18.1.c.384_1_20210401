@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/954751/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository
+END
+Repository.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/918061/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/Repository.java
+END
+Requirement.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/917934/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/Requirement.java
+END
+Capability.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/925279/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/Capability.java
+END
+Resolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/917934/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/Resolver.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/925279/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/Property.java
+END
+Reason.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/917934/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/Reason.java
+END
+Resource.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/925279/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/Resource.java
+END
+InterruptedResolutionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/916503/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/InterruptedResolutionException.java
+END
+RepositoryAdmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/925279/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/RepositoryAdmin.java
+END
+DataModelHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/926109/felix/trunk/bundlerepository/src/main/java/org/apache/felix/bundlerepository/DataModelHelper.java
+END

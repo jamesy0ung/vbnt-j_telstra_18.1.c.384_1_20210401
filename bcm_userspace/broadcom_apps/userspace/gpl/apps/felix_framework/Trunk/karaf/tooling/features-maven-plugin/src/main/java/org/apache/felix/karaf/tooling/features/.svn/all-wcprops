@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/952619/felix/trunk/karaf/tooling/features-maven-plugin/src/main/java/org/apache/felix/karaf/tooling/features
+END
+GenerateFeaturesXmlMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/933859/felix/trunk/karaf/tooling/features-maven-plugin/src/main/java/org/apache/felix/karaf/tooling/features/GenerateFeaturesXmlMojo.java
+END
+MojoSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/936233/felix/trunk/karaf/tooling/features-maven-plugin/src/main/java/org/apache/felix/karaf/tooling/features/MojoSupport.java
+END
+AddFeaturesToRepoMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/952619/felix/trunk/karaf/tooling/features-maven-plugin/src/main/java/org/apache/felix/karaf/tooling/features/AddFeaturesToRepoMojo.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/785091/felix/trunk/karaf/tooling/features-maven-plugin/src/main/java/org/apache/felix/karaf/tooling/features/Node.java
+END
+GraphArtifactCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/785091/felix/trunk/karaf/tooling/features-maven-plugin/src/main/java/org/apache/felix/karaf/tooling/features/GraphArtifactCollector.java
+END
+ManifestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/933859/felix/trunk/karaf/tooling/features-maven-plugin/src/main/java/org/apache/felix/karaf/tooling/features/ManifestUtils.java
+END
+ResolutionListenerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/785091/felix/trunk/karaf/tooling/features-maven-plugin/src/main/java/org/apache/felix/karaf/tooling/features/ResolutionListenerImpl.java
+END
+ValidateFeaturesMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/947635/felix/trunk/karaf/tooling/features-maven-plugin/src/main/java/org/apache/felix/karaf/tooling/features/ValidateFeaturesMojo.java
+END
+GenerateFeaturesFileMojo.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/933859/felix/trunk/karaf/tooling/features-maven-plugin/src/main/java/org/apache/felix/karaf/tooling/features/GenerateFeaturesFileMojo.java
+END

@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 102
+target
+bin
+.settings
+.checkstyle
+.classpath
+.project
+
+*.patch
+.externalToolBuilders
+maven-eclipse.xml
+
+END

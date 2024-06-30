@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/944771/felix/trunk/karaf/shell/console/src/main/filtered-resources/org/apache/felix/karaf/shell/console
+END
+branding.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/944771/felix/trunk/karaf/shell/console/src/main/filtered-resources/org/apache/felix/karaf/shell/console/branding.properties
+END

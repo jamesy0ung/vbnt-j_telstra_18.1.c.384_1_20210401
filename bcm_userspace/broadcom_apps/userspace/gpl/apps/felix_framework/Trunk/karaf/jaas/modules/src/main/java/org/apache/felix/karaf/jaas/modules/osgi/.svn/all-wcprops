@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/jaas/modules/src/main/java/org/apache/felix/karaf/jaas/modules/osgi
+END
+OsgiConfigLoginModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/jaas/modules/src/main/java/org/apache/felix/karaf/jaas/modules/osgi/OsgiConfigLoginModule.java
+END
+ConfigAdminHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/816769/felix/trunk/karaf/jaas/modules/src/main/java/org/apache/felix/karaf/jaas/modules/osgi/ConfigAdminHolder.java
+END

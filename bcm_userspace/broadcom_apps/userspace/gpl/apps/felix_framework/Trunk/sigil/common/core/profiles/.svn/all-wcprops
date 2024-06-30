@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/794415/felix/trunk/sigil/common/core/profiles
+END
+J2SE-1.2.profile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/794415/felix/trunk/sigil/common/core/profiles/J2SE-1.2.profile
+END
+J2SE-1.3.profile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/794415/felix/trunk/sigil/common/core/profiles/J2SE-1.3.profile
+END
+J2SE-1.4.profile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/794415/felix/trunk/sigil/common/core/profiles/J2SE-1.4.profile
+END
+J2SE-1.5.profile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/794415/felix/trunk/sigil/common/core/profiles/J2SE-1.5.profile
+END
+CDC-1.0_Foundation-1.0.profile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/794415/felix/trunk/sigil/common/core/profiles/CDC-1.0_Foundation-1.0.profile
+END
+OSGi_Minimum-1.0.profile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/794415/felix/trunk/sigil/common/core/profiles/OSGi_Minimum-1.0.profile
+END
+CDC-1.1_Foundation-1.1.profile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/794415/felix/trunk/sigil/common/core/profiles/CDC-1.1_Foundation-1.1.profile
+END
+OSGi_Minimum-1.1.profile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/794415/felix/trunk/sigil/common/core/profiles/OSGi_Minimum-1.1.profile
+END
+JavaSE-1.6.profile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/794415/felix/trunk/sigil/common/core/profiles/JavaSE-1.6.profile
+END
+profile.list
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/794415/felix/trunk/sigil/common/core/profiles/profile.list
+END

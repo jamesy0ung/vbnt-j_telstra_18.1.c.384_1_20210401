@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/670721/felix/trunk/prefs/src/main/java/org/apache/felix/prefs/impl
+END
+PreferencesServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/670721/felix/trunk/prefs/src/main/java/org/apache/felix/prefs/impl/PreferencesServiceImpl.java
+END
+DataFileBackingStoreImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/607263/felix/trunk/prefs/src/main/java/org/apache/felix/prefs/impl/DataFileBackingStoreImpl.java
+END
+StreamBackingStoreImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/607263/felix/trunk/prefs/src/main/java/org/apache/felix/prefs/impl/StreamBackingStoreImpl.java
+END
+PreferencesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/607263/felix/trunk/prefs/src/main/java/org/apache/felix/prefs/impl/PreferencesManager.java
+END

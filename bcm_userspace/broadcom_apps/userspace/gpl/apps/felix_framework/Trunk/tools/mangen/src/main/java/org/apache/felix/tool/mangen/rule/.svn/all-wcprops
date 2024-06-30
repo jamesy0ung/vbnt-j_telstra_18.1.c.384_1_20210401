@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/561749/felix/trunk/tools/mangen/src/main/java/org/apache/felix/tool/mangen/rule
+END
+Merge.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/534951/felix/trunk/tools/mangen/src/main/java/org/apache/felix/tool/mangen/rule/Merge.java
+END
+UpdateBundles.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/534951/felix/trunk/tools/mangen/src/main/java/org/apache/felix/tool/mangen/rule/UpdateBundles.java
+END
+Ignore.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/534951/felix/trunk/tools/mangen/src/main/java/org/apache/felix/tool/mangen/rule/Ignore.java
+END
+GenericRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/534951/felix/trunk/tools/mangen/src/main/java/org/apache/felix/tool/mangen/rule/GenericRule.java
+END
+ResolveImportsToExports.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/534951/felix/trunk/tools/mangen/src/main/java/org/apache/felix/tool/mangen/rule/ResolveImportsToExports.java
+END
+AttributeStamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/534951/felix/trunk/tools/mangen/src/main/java/org/apache/felix/tool/mangen/rule/AttributeStamp.java
+END
+DontImportOwnExports.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/534951/felix/trunk/tools/mangen/src/main/java/org/apache/felix/tool/mangen/rule/DontImportOwnExports.java
+END
+ProcessBundles.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/534951/felix/trunk/tools/mangen/src/main/java/org/apache/felix/tool/mangen/rule/ProcessBundles.java
+END
+Force.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/561749/felix/trunk/tools/mangen/src/main/java/org/apache/felix/tool/mangen/rule/Force.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/893234/felix/trunk/dependencymanager/samples/src/main/java/samples/dependonservice
+END
+DataGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/893234/felix/trunk/dependencymanager/samples/src/main/java/samples/dependonservice/DataGenerator.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/893234/felix/trunk/dependencymanager/samples/src/main/java/samples/dependonservice/Activator.java
+END
+Store.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/893234/felix/trunk/dependencymanager/samples/src/main/java/samples/dependonservice/Store.java
+END

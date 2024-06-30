@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/763994/felix/trunk/upnp/samples/tv/src/main/java/org/apache/felix/upnp/sample/tv
+END
+TvIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/tv/src/main/java/org/apache/felix/upnp/sample/tv/TvIcon.java
+END
+PowerStateVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/tv/src/main/java/org/apache/felix/upnp/sample/tv/PowerStateVariable.java
+END
+TvFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/tv/src/main/java/org/apache/felix/upnp/sample/tv/TvFrame.java
+END
+ResultStateVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/tv/src/main/java/org/apache/felix/upnp/sample/tv/ResultStateVariable.java
+END
+SetPowerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/tv/src/main/java/org/apache/felix/upnp/sample/tv/SetPowerAction.java
+END
+UPnPSubscriber.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/tv/src/main/java/org/apache/felix/upnp/sample/tv/UPnPSubscriber.java
+END
+TvDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/763994/felix/trunk/upnp/samples/tv/src/main/java/org/apache/felix/upnp/sample/tv/TvDevice.java
+END
+GetPowerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/tv/src/main/java/org/apache/felix/upnp/sample/tv/GetPowerAction.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/tv/src/main/java/org/apache/felix/upnp/sample/tv/Activator.java
+END
+PowerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/tv/src/main/java/org/apache/felix/upnp/sample/tv/PowerService.java
+END
+TvPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/samples/tv/src/main/java/org/apache/felix/upnp/sample/tv/TvPane.java
+END

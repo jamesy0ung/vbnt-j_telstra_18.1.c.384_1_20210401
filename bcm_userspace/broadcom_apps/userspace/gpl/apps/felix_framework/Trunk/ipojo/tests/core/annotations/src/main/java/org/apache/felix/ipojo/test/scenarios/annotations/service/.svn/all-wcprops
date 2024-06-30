@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/service
+END
+ChildInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/service/ChildInterface.java
+END
+FooService.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/service/FooService.java
+END
+ParentParentInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/service/ParentParentInterface.java
+END
+BarService.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/service/BarService.java
+END
+ParentInterface1.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/service/ParentInterface1.java
+END
+ParentInterface2.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/service/ParentInterface2.java
+END
+CheckService.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/679336/felix/trunk/ipojo/tests/core/annotations/src/main/java/org/apache/felix/ipojo/test/scenarios/annotations/service/CheckService.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/export
+END
+BuildDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/export/BuildDevice.java
+END
+ThreadExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/export/ThreadExporter.java
+END
+GeneralActionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/export/GeneralActionListener.java
+END
+ExporterUPnPEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/export/ExporterUPnPEventListener.java
+END
+ActionDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/export/ActionDispatcher.java
+END
+DeviceNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/export/DeviceNode.java
+END
+RootDeviceExportingQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/export/RootDeviceExportingQueue.java
+END
+RootDeviceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/674879/felix/trunk/upnp/basedriver/src/main/java/org/apache/felix/upnp/basedriver/export/RootDeviceListener.java
+END

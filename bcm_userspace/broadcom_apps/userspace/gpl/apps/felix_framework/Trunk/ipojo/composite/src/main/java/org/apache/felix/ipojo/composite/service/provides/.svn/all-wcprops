@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/933987/felix/trunk/ipojo/composite/src/main/java/org/apache/felix/ipojo/composite/service/provides
+END
+ProvidedServiceHandlerDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/642265/felix/trunk/ipojo/composite/src/main/java/org/apache/felix/ipojo/composite/service/provides/ProvidedServiceHandlerDescription.java
+END
+MethodMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/642265/felix/trunk/ipojo/composite/src/main/java/org/apache/felix/ipojo/composite/service/provides/MethodMetadata.java
+END
+SpecificationMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/642265/felix/trunk/ipojo/composite/src/main/java/org/apache/felix/ipojo/composite/service/provides/SpecificationMetadata.java
+END
+CompositionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/642265/felix/trunk/ipojo/composite/src/main/java/org/apache/felix/ipojo/composite/service/provides/CompositionException.java
+END
+CompositionMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/893960/felix/trunk/ipojo/composite/src/main/java/org/apache/felix/ipojo/composite/service/provides/CompositionMetadata.java
+END
+FieldMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/642265/felix/trunk/ipojo/composite/src/main/java/org/apache/felix/ipojo/composite/service/provides/FieldMetadata.java
+END
+POJOWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/677545/felix/trunk/ipojo/composite/src/main/java/org/apache/felix/ipojo/composite/service/provides/POJOWriter.java
+END
+ServiceExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/933987/felix/trunk/ipojo/composite/src/main/java/org/apache/felix/ipojo/composite/service/provides/ServiceExporter.java
+END
+ProvidedServiceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/757188/felix/trunk/ipojo/composite/src/main/java/org/apache/felix/ipojo/composite/service/provides/ProvidedServiceHandler.java
+END
+ProvidedService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/687294/felix/trunk/ipojo/composite/src/main/java/org/apache/felix/ipojo/composite/service/provides/ProvidedService.java
+END

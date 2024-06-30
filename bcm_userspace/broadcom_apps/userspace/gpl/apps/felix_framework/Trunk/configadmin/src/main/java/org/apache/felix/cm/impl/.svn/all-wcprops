@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/823506/felix/trunk/configadmin/src/main/java/org/apache/felix/cm/impl
+END
+PersistenceManagerProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/735653/felix/trunk/configadmin/src/main/java/org/apache/felix/cm/impl/PersistenceManagerProxy.java
+END
+RankingComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/735653/felix/trunk/configadmin/src/main/java/org/apache/felix/cm/impl/RankingComparator.java
+END
+CaseInsensitiveDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/823506/felix/trunk/configadmin/src/main/java/org/apache/felix/cm/impl/CaseInsensitiveDictionary.java
+END
+ConfigurationAdminImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/808595/felix/trunk/configadmin/src/main/java/org/apache/felix/cm/impl/ConfigurationAdminImpl.java
+END
+ConfigurationBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/806083/felix/trunk/configadmin/src/main/java/org/apache/felix/cm/impl/ConfigurationBase.java
+END
+ConfigurationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/809608/felix/trunk/configadmin/src/main/java/org/apache/felix/cm/impl/ConfigurationManager.java
+END
+DynamicBindings.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/804891/felix/trunk/configadmin/src/main/java/org/apache/felix/cm/impl/DynamicBindings.java
+END
+Factory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/805776/felix/trunk/configadmin/src/main/java/org/apache/felix/cm/impl/Factory.java
+END
+ConfigurationAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/805667/felix/trunk/configadmin/src/main/java/org/apache/felix/cm/impl/ConfigurationAdapter.java
+END
+ConfigurationAdminFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/735653/felix/trunk/configadmin/src/main/java/org/apache/felix/cm/impl/ConfigurationAdminFactory.java
+END
+ConfigurationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/809597/felix/trunk/configadmin/src/main/java/org/apache/felix/cm/impl/ConfigurationImpl.java
+END
+UpdateThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/809601/felix/trunk/configadmin/src/main/java/org/apache/felix/cm/impl/UpdateThread.java
+END

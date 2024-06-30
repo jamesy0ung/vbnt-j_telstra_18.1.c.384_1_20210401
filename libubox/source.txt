@@ -1,0 +1,4 @@
+Source: libubox-2017-10-06-729f47fd5279f902986457682f8f166c324eafb5.tar.xz
+Source-Url: http://git.openwrt.org/project/libubox.git
+Source-Version: 729f47fd5279f902986457682f8f166c324eafb5
+Source-Proto: 

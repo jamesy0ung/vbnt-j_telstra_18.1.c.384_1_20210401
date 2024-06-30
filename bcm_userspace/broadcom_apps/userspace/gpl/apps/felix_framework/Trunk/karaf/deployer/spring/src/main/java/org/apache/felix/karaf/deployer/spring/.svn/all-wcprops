@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/825093/felix/trunk/karaf/deployer/spring/src/main/java/org/apache/felix/karaf/deployer/spring
+END
+SpringURLHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/825093/felix/trunk/karaf/deployer/spring/src/main/java/org/apache/felix/karaf/deployer/spring/SpringURLHandler.java
+END
+SpringTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/798076/felix/trunk/karaf/deployer/spring/src/main/java/org/apache/felix/karaf/deployer/spring/SpringTransformer.java
+END
+SpringDeploymentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/825093/felix/trunk/karaf/deployer/spring/src/main/java/org/apache/felix/karaf/deployer/spring/SpringDeploymentListener.java
+END

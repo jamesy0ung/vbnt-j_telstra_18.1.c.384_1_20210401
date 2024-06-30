@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/698589/felix/trunk/ipojo/tests/core/configadmin/src/main/java/org/apache/felix/ipojo/test/scenarios/configadmin/service
+END
+FooService.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/698589/felix/trunk/ipojo/tests/core/configadmin/src/main/java/org/apache/felix/ipojo/test/scenarios/configadmin/service/FooService.java
+END
+CheckService.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/698589/felix/trunk/ipojo/tests/core/configadmin/src/main/java/org/apache/felix/ipojo/test/scenarios/configadmin/service/CheckService.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/797986/felix/trunk/org.osgi.core/src/main/resources/org/osgi/framework
+END
+packageinfo
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/797986/felix/trunk/org.osgi.core/src/main/resources/org/osgi/framework/packageinfo
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/797986/felix/trunk/org.osgi.core/src/main/resources/org/osgi/framework/package.html
+END

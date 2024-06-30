@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/asf/!svn/ver/719260/felix/trunk/ipojo/tests/core/service-dependency-comparator/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/comparator/component
+END
+GradedFooServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/repos/asf/!svn/ver/713976/felix/trunk/ipojo/tests/core/service-dependency-comparator/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/comparator/component/GradedFooServiceProvider.java
+END
+CheckServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/repos/asf/!svn/ver/719260/felix/trunk/ipojo/tests/core/service-dependency-comparator/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/comparator/component/CheckServiceProvider.java
+END
+GradeComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/repos/asf/!svn/ver/713976/felix/trunk/ipojo/tests/core/service-dependency-comparator/src/main/java/org/apache/felix/ipojo/test/scenarios/service/dependency/comparator/component/GradeComparator.java
+END

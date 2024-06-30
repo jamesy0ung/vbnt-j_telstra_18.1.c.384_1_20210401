@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/534951/felix/trunk/javax.servlet/src/main/java/javax/servlet/http
+END
+HttpSessionBindingEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/534951/felix/trunk/javax.servlet/src/main/java/javax/servlet/http/HttpSessionBindingEvent.java
+END
+HttpUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/534951/felix/trunk/javax.servlet/src/main/java/javax/servlet/http/HttpUtils.java
+END
+HttpServletResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/534951/felix/trunk/javax.servlet/src/main/java/javax/servlet/http/HttpServletResponse.java
+END
+HttpSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/534951/felix/trunk/javax.servlet/src/main/java/javax/servlet/http/HttpSession.java
+END
+HttpServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/534951/felix/trunk/javax.servlet/src/main/java/javax/servlet/http/HttpServlet.java
+END
+HttpSessionBindingListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/534951/felix/trunk/javax.servlet/src/main/java/javax/servlet/http/HttpSessionBindingListener.java
+END
+HttpSessionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/534951/felix/trunk/javax.servlet/src/main/java/javax/servlet/http/HttpSessionContext.java
+END
+Cookie.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/534951/felix/trunk/javax.servlet/src/main/java/javax/servlet/http/Cookie.java
+END
+HttpServletRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/534951/felix/trunk/javax.servlet/src/main/java/javax/servlet/http/HttpServletRequest.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/939971/felix/trunk/ipojo/tests/bundleAsiPOJO/tests
+END
+provider.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/790900/felix/trunk/ipojo/tests/bundleAsiPOJO/tests/provider.xml
+END
+consumer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/790900/felix/trunk/ipojo/tests/bundleAsiPOJO/tests/consumer.xml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/939971/felix/trunk/ipojo/tests/bundleAsiPOJO/tests/pom.xml
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/937899/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/metatype
+END
+MetaTypeProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/937899/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/metatype/MetaTypeProviderImpl.java
+END
+ObjectClassDefinitionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/919860/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/metatype/ObjectClassDefinitionImpl.java
+END
+PropertyMetaDataImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/919860/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/metatype/PropertyMetaDataImpl.java
+END
+Resource.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/919860/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/metatype/Resource.java
+END
+AttributeDefinitionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/919860/felix/trunk/dependencymanager/core/src/main/java/org/apache/felix/dm/impl/metatype/AttributeDefinitionImpl.java
+END

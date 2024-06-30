@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/923242/felix/trunk/webconsole-plugins/event/src/main/java/org/apache/felix/webconsole/plugins/event/internal
+END
+EventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/818477/felix/trunk/webconsole-plugins/event/src/main/java/org/apache/felix/webconsole/plugins/event/internal/EventHandler.java
+END
+OsgiUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/818455/felix/trunk/webconsole-plugins/event/src/main/java/org/apache/felix/webconsole/plugins/event/internal/OsgiUtil.java
+END
+OptionalFeaturesHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/907611/felix/trunk/webconsole-plugins/event/src/main/java/org/apache/felix/webconsole/plugins/event/internal/OptionalFeaturesHandler.java
+END
+PluginServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/923242/felix/trunk/webconsole-plugins/event/src/main/java/org/apache/felix/webconsole/plugins/event/internal/PluginServlet.java
+END
+EventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/818455/felix/trunk/webconsole-plugins/event/src/main/java/org/apache/felix/webconsole/plugins/event/internal/EventListener.java
+END
+EventCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/818849/felix/trunk/webconsole-plugins/event/src/main/java/org/apache/felix/webconsole/plugins/event/internal/EventCollector.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/923242/felix/trunk/webconsole-plugins/event/src/main/java/org/apache/felix/webconsole/plugins/event/internal/Activator.java
+END
+ConfigurationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/818822/felix/trunk/webconsole-plugins/event/src/main/java/org/apache/felix/webconsole/plugins/event/internal/ConfigurationListener.java
+END
+EventInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/818477/felix/trunk/webconsole-plugins/event/src/main/java/org/apache/felix/webconsole/plugins/event/internal/EventInfo.java
+END

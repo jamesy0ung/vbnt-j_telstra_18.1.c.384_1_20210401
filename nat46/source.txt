@@ -1,0 +1,4 @@
+Source: nat46-10.tar.xz
+Source-Url: https://github.com/ayourtch/nat46.git
+Source-Version: 683fbd2b765506332a1af141545652bf58f03166
+Source-Proto: 

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/833666/felix/trunk/ipojo/tests/core/configuration/src/main/java/org/apache/felix/ipojo/test/scenarios/configuration
+END
+TestFieldProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/configuration/src/main/java/org/apache/felix/ipojo/test/scenarios/configuration/TestFieldProperties.java
+END
+UpdatedMethodAndManagedServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/780222/felix/trunk/ipojo/tests/core/configuration/src/main/java/org/apache/felix/ipojo/test/scenarios/configuration/UpdatedMethodAndManagedServiceFactory.java
+END
+ConfigurationTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/833666/felix/trunk/ipojo/tests/core/configuration/src/main/java/org/apache/felix/ipojo/test/scenarios/configuration/ConfigurationTestSuite.java
+END
+ArchitectureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/833666/felix/trunk/ipojo/tests/core/configuration/src/main/java/org/apache/felix/ipojo/test/scenarios/configuration/ArchitectureTest.java
+END
+TestPropertyModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/configuration/src/main/java/org/apache/felix/ipojo/test/scenarios/configuration/TestPropertyModifier.java
+END
+DynamicallyConfigurableProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/configuration/src/main/java/org/apache/felix/ipojo/test/scenarios/configuration/DynamicallyConfigurableProperties.java
+END
+TestComplexProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/configuration/src/main/java/org/apache/felix/ipojo/test/scenarios/configuration/TestComplexProperties.java
+END
+SimpleProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/configuration/src/main/java/org/apache/felix/ipojo/test/scenarios/configuration/SimpleProperties.java
+END
+UpdatedMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/780222/felix/trunk/ipojo/tests/core/configuration/src/main/java/org/apache/felix/ipojo/test/scenarios/configuration/UpdatedMethod.java
+END
+UpdatedMethodAndManagedService.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/780222/felix/trunk/ipojo/tests/core/configuration/src/main/java/org/apache/felix/ipojo/test/scenarios/configuration/UpdatedMethodAndManagedService.java
+END
+TestBothProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/configuration/src/main/java/org/apache/felix/ipojo/test/scenarios/configuration/TestBothProperties.java
+END
+ManagedServiceConfigurableProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/configuration/src/main/java/org/apache/felix/ipojo/test/scenarios/configuration/ManagedServiceConfigurableProperties.java
+END
+TestSuperMethodProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/configuration/src/main/java/org/apache/felix/ipojo/test/scenarios/configuration/TestSuperMethodProperties.java
+END
+TestMethodProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/722146/felix/trunk/ipojo/tests/core/configuration/src/main/java/org/apache/felix/ipojo/test/scenarios/configuration/TestMethodProperties.java
+END
